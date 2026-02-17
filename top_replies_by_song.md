@@ -5859,7 +5859,8 @@ I am definitely in..
 
 ### 2. @reyhansu8275 (627 replies)
 
-> Imagine in 15 years, kids are gonna be listening to this, and are gonna be saying “I was born in the wrong decade”.
+> Imagine in 15 years, kids are gonna be listening to this, and are gonna be saying “I was born in the wrong decade”
+.
 
 👍 86K · 5 years ago
 
