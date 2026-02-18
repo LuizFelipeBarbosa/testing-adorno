@@ -1,0 +1,26 @@
+# Per-label decision thresholds
+# These are initial values; optimize on validation set for macro-F1.
+
+thresholds:
+  STANDARDIZATION: 0.50
+  PSEUDO_INDIVIDUALIZATION: 0.50
+  COMMODIFICATION_MARKET_LOGIC: 0.50
+  REGRESSIVE_LISTENING: 0.45
+  AFFECTIVE_PREPACKAGING: 0.45
+  FORMAL_RESISTANCE: 0.40
+
+# Threshold optimization settings
+optimization:
+  metric: "macro_f1"
+  search_range: [0.20, 0.80]
+  search_step: 0.01
+  min_precision: 0.60
+  prefer_precision_for:
+    - STANDARDIZATION
+    - COMMODIFICATION_MARKET_LOGIC
+
+# Human review routing thresholds
+human_review:
+  max_confidence_for_review: 0.65  # if max label prob < this, flag for review
+  entropy_threshold: 0.70
+  disagreement_flag: true  # flag if rule and model disagree

@@ -808,7 +808,15 @@ Let's support her guysss
 
 ---
 
-### 16. @four201k3 (144 replies)
+### 16. @sicimissdignite3638 (148 replies)
+
+> Anyone is here in 01 January 2026
+
+👍 1.3K · 1 month ago
+
+---
+
+### 17. @four201k3 (144 replies)
 
 > Anyone in 14 January 2026?
 
@@ -816,7 +824,7 @@ Let's support her guysss
 
 ---
 
-### 17. @SoulofRilus (129 replies)
+### 18. @SoulofRilus (129 replies)
 
 > "the angels up in the clouds, are jealous knowing we found" is lyrically, melodically AND rhythmically just pure perfection
 
@@ -824,7 +832,7 @@ Let's support her guysss
 
 ---
 
-### 18. @Koraleith (128 replies)
+### 19. @Koraleith (128 replies)
 
 > Asking his wife to play the roll the song was literally written for …. Incredible.
 
@@ -832,7 +840,7 @@ Let's support her guysss
 
 ---
 
-### 19. @KingDavidandSons (121 replies)
+### 20. @KingDavidandSons (121 replies)
 
 > One day to Christmas, anyone here?
 
@@ -840,7 +848,7 @@ Let's support her guysss
 
 ---
 
-### 20. @fox1love1dream1 (119 replies)
+### 21. @fox1love1dream1 (119 replies)
 
 > Anyone here 5 January 2026❤
 
@@ -848,7 +856,7 @@ Let's support her guysss
 
 ---
 
-### 21. @solidxrevolution (112 replies)
+### 22. @solidxrevolution (112 replies)
 
 > For me, this song means that God places you exactly where you need to be, even if you don’t feel ready. Sometimes the fall is necessary...it breaks you just enough so that when it's time, you can truly rise. You may feel ordinary, unsure, or lost, but that’s often when grace finds you. And maybe the fall isn’t the end....it’s the start of your flight.
 
@@ -856,7 +864,7 @@ Let's support her guysss
 
 ---
 
-### 22. @FBDmoney (107 replies)
+### 23. @FBDmoney (107 replies)
 
 > Today anyone?
 
@@ -864,7 +872,7 @@ Let's support her guysss
 
 ---
 
-### 23. @sibomanaemmanuel1831 (103 replies)
+### 24. @sibomanaemmanuel1831 (103 replies)
 
 > You are not accidentally reading this; I see God changing your story, you will achieve what has never been achieved in your family. May your star shine today AMEN🙏🏼♥️
 
@@ -872,19 +880,11 @@ Let's support her guysss
 
 ---
 
-### 24. @Harshitha-u6h (100 replies)
+### 25. @Harshitha-u6h (100 replies)
 
 > Today anyone ✨
 
 👍 2.4K · 7 days ago
-
----
-
-### 25. @leannandrews5372 (95 replies)
-
-> Please pray for me. I lost my beloved son. My heart is shattered.
-
-👍 1K · 8 months ago
 
 ---
 
@@ -1926,7 +1926,15 @@ Oh my god just realized, thanks for the 3.4k likes... I'll update the likes as i
 
 ---
 
-### 19. @MinnieG101 (12 replies)
+### 19. @Trixiy727 (13 replies)
+
+> 1:00 i love this song so much
+
+👍 89 · 1 year ago
+
+---
+
+### 20. @MinnieG101 (12 replies)
 
 > Its the “wait i think Ive been there too” part that really got me liking this song. The sudden realization that you have been in the ‘other girl’s’ shoes before
 
@@ -1934,7 +1942,7 @@ Oh my god just realized, thanks for the 3.4k likes... I'll update the likes as i
 
 ---
 
-### 20. @teihiniane (12 replies)
+### 21. @teihiniane (12 replies)
 
 > I ALWAYS thought she sang "oooo, bacon egg and cheese so cooooooool" I was like dang girl you really love breakfast sandwiches huh 😭
 
@@ -1942,7 +1950,7 @@ Oh my god just realized, thanks for the 3.4k likes... I'll update the likes as i
 
 ---
 
-### 21. @johnbaek9820 (12 replies)
+### 22. @johnbaek9820 (12 replies)
 
 > Why do I, as a 27-year-old Asian guy, love this song so much
 
@@ -1950,7 +1958,7 @@ Oh my god just realized, thanks for the 3.4k likes... I'll update the likes as i
 
 ---
 
-### 22. @Lyn-Lapid-Is-Key (12 replies)
+### 23. @Lyn-Lapid-Is-Key (12 replies)
 
 > This song is the song that makes me feel all warm and happy yet sad at the same time. Y'all the same?
 
@@ -1958,7 +1966,7 @@ Oh my god just realized, thanks for the 3.4k likes... I'll update the likes as i
 
 ---
 
-### 23. @lilybutterfly114 (12 replies)
+### 24. @lilybutterfly114 (12 replies)
 
 > TO EVERYONE LOOKING AT THIS YOU ARE AMAZING, WORTH IT AND DONT FORGET YOU ARE BEAUTFIUL DONT LISTEN TO PEOPLE. YOU ARE AMAZING AND PERFECT. YOU ALL HAVE A AMAZING DAY AND EVERYTHING YOU FEEL INSECURE TELL YOURSELF YOU ARE BEAUTIFUL. I LOVE YOU GUYS!
 
@@ -1966,19 +1974,11 @@ Oh my god just realized, thanks for the 3.4k likes... I'll update the likes as i
 
 ---
 
-### 24. @lizzy4809 (11 replies)
+### 25. @lizzy4809 (11 replies)
 
 > Whose here in December 2025
 
 👍 100 · 1 month ago
-
----
-
-### 25. @mariahdanielle4341 (10 replies)
-
-> Screaming this song even tho I’m happily married… this is something my teen version would love to have had to scream back then
-
-👍 1.4K · 1 year ago
 
 ---
 
@@ -3004,19 +3004,19 @@ Edit thanks for the 584 like ❤
 
 ---
 
-### 24. @canaldo-Jota (45 replies)
-
-> Hello Benson, my name is João, I live in Brazil. I have a 4-year-old son who is autistic, level 2, non-verbal, and after a while he started listening to this song because it is my favorite song. I wanted you to see the way he sings and enjoys your music, even though he doesn't know how to speak. He sings your music and that made me and my wife very happy. Thank you, even if not directly, your music has blessed our lives. May God always bless you, my friend.
-
-👍 1K · 8 months ago
-
----
-
-### 25. @AdaptiveRPM (45 replies)
+### 24. @AdaptiveRPM (45 replies)
 
 > February 2025? Anyone? Listening From Ireland
 
 👍 243 · 1 year ago (edited)
+
+---
+
+### 25. @canaldo-Jota (45 replies)
+
+> Hello Benson, my name is João, I live in Brazil. I have a 4-year-old son who is autistic, level 2, non-verbal, and after a while he started listening to this song because it is my favorite song. I wanted you to see the way he sings and enjoys your music, even though he doesn't know how to speak. He sings your music and that made me and my wife very happy. Thank you, even if not directly, your music has blessed our lives. May God always bless you, my friend.
+
+👍 1K · 8 months ago
 
 ---
 
@@ -3910,7 +3910,23 @@ Edit: This is a direct quote from Lola, about Messy: "Messy is an ADHD anthem, 
 
 ---
 
-### 9. @andyneltv (30 replies)
+### 9. @eliasbabilonia (36 replies)
+
+> Lo único malo de esta canción es que se acaba rápido. Me encanta, me enloquece.
+
+👍 732 · 11 months ago
+
+---
+
+### 10. @FernandaMotta-w2l (33 replies)
+
+> Que rabia que beele tenga canciones tan buenas 😡
+
+👍 775 · 10 months ago
+
+---
+
+### 11. @andyneltv (30 replies)
 
 > Es una esencia tropical, un ritmo pegajoso, fresco pa escuchar en cualquier lugar especialmente en la playita y la COSTA PRESENTE!! 🏝️🔥🔥
 
@@ -3918,7 +3934,7 @@ Edit: This is a direct quote from Lola, about Messy: "Messy is an ADHD anthem, 
 
 ---
 
-### 10. @juanfelipeusuga469 (27 replies)
+### 12. @juanfelipeusuga469 (27 replies)
 
 > Westcol se la rifo soltando este palo, no nos hizo esperar para escucharlo
 
@@ -3926,7 +3942,7 @@ Edit: This is a direct quote from Lola, about Messy: "Messy is an ADHD anthem, 
 
 ---
 
-### 11. @brian_gamer_28 (25 replies)
+### 13. @brian_gamer_28 (25 replies)
 
 > Esto será un palo 🔥
 
@@ -3934,7 +3950,7 @@ Edit: This is a direct quote from Lola, about Messy: "Messy is an ADHD anthem, 
 
 ---
 
-### 12. @josejr8550 (24 replies)
+### 14. @josejr8550 (24 replies)
 
 > Ya no esperamos las Bzrp sesión, Ahora esperamos las W SOUND.
  ¿En qué momento Paso esto..??
@@ -3944,7 +3960,7 @@ Volaooooo 🔥🔥Homeround ☄️
 
 ---
 
-### 13. @josuepina1028 (24 replies)
+### 15. @josuepina1028 (24 replies)
 
 > Activo team venezolanos que apoyan la W 🔥🇻🇪🔥
 
@@ -3952,7 +3968,15 @@ Volaooooo 🔥🔥Homeround ☄️
 
 ---
 
-### 14. @germanrodrigozamora9695 (20 replies)
+### 16. @jonasmartinez2673 (22 replies)
+
+> Cuando le den like a este comentario voy a escuchar este temazo 🎉
+
+👍 985 · 7 months ago
+
+---
+
+### 17. @germanrodrigozamora9695 (20 replies)
 
 > Cuando esté temazo llegue a los  316 millones me dan like
 
@@ -3960,7 +3984,7 @@ Volaooooo 🔥🔥Homeround ☄️
 
 ---
 
-### 15. @GUMAGU (19 replies)
+### 18. @GUMAGU (19 replies)
 
 > creo que escuché esta canción 345 millones de veces y cada vez me gusta más ❤️
 
@@ -3968,7 +3992,7 @@ Volaooooo 🔥🔥Homeround ☄️
 
 ---
 
-### 16. @MaviáN426 (18 replies)
+### 19. @MaviáN426 (18 replies)
 
 > Me avisan a los 400 M pa escucharla a plena!
 
@@ -3976,7 +4000,7 @@ Volaooooo 🔥🔥Homeround ☄️
 
 ---
 
-### 17. @DeimerTorres-kq3vp (17 replies)
+### 20. @DeimerTorres-kq3vp (17 replies)
 
 > 0:16  CERVEZA NO "mejor CER VESAdo  por su boquita amor"     la mejor parte 🫠🫡😮‍💨❤️‍🔥
 
@@ -3984,7 +4008,7 @@ Volaooooo 🔥🔥Homeround ☄️
 
 ---
 
-### 18. @dandoodles7 (13 replies)
+### 21. @dandoodles7 (13 replies)
 
 > No tenía muchas espectativas, pero este tema es bastante pegajoso para lo tranquilo que es. Un 10/10
 
@@ -3992,7 +4016,7 @@ Volaooooo 🔥🔥Homeround ☄️
 
 ---
 
-### 19. @LaGuerrillaMusick (12 replies)
+### 22. @LaGuerrillaMusick (12 replies)
 
 > Westcol no falla con las sesiones en ws💥
 
@@ -4000,7 +4024,7 @@ Volaooooo 🔥🔥Homeround ☄️
 
 ---
 
-### 20. @Chuyitop3 (11 replies)
+### 23. @Chuyitop3 (11 replies)
 
 > Qué increíble es esta canción, me doy cuenta que sale el west y quedé 🤯 se volvió mi fav esta canción, la rompieron
 
@@ -4008,43 +4032,23 @@ Volaooooo 🔥🔥Homeround ☄️
 
 ---
 
-### 21. @jeyemvi6196 (10 replies)
+### 24. @akiomori5348 (10 replies)
+
+> El español es sencillo de entender
+El q esta aprendiendo español tratando de descifrar esta letra😵‍💫
+El q sabe español😵‍💫
+El q grabo😵‍💫
+El q  canto 🤑
+
+👍 145 · 6 months ago
+
+---
+
+### 25. @jeyemvi6196 (10 replies)
 
 > Cuando este trma llegue a 70M me dan like
 
 👍 1.1K · 9 months ago (edited)
-
----
-
-### 22. @FansBlessdmundial684 (10 replies)
-
-> El que se detuvo a leer esto que dios lo bendiga a ti y tú familia.♡
-
-👍 554 · 11 months ago
-
----
-
-### 23. @alejandrogutierrez9289 (10 replies)
-
-> Dejo mi comentario acá para que cuando a alguien se le ocurra dejar un "me gusta", me llegue una notificación y me recuerde que tengo que volver a escuchar esta joyita
-
-👍 787 · 10 months ago
-
----
-
-### 24. @El-Eduuxxx (10 replies)
-
-> Para mi el mejor tema de la W Sound
-
-👍 320 · 11 months ago
-
----
-
-### 25. @JosXx00 (10 replies)
-
-> Cada W Sound mejor que la anterior, ritmos nunca antes escuchados. ¡SIGAN ROMPIENDO EN ESA MONDA!
-
-👍 119 · 11 months ago
 
 ---
 
@@ -4672,7 +4676,15 @@ Such an addictive song 🎵
 
 ---
 
-### 16. @stvrstruck.ৎ (77 replies)
+### 16. @bhawanagaur4055 (80 replies)
+
+> Who's here MARCH 2025 ?
+
+👍 1.6K · 11 months ago
+
+---
+
+### 17. @stvrstruck.ৎ (77 replies)
 
 > The sound💅🏻🌌
 The mv💀
@@ -4683,7 +4695,7 @@ Frr💀
 
 ---
 
-### 17. @Minu-u8g (62 replies)
+### 18. @Minu-u8g (62 replies)
 
 > Who watching february 3rd😭🔥🔥
 
@@ -4691,7 +4703,7 @@ Frr💀
 
 ---
 
-### 18. @BlizzardKabuto (60 replies)
+### 19. @BlizzardKabuto (60 replies)
 
 > Someone here February 11th?🎉
 
@@ -4699,7 +4711,7 @@ Frr💀
 
 ---
 
-### 19. @chicken (46 replies)
+### 20. @chicken (46 replies)
 
 > I’m leaving this comment today so after a month or a year, when someone likes it, I get reminded of this masterpiece ❤
 
@@ -4707,7 +4719,7 @@ Frr💀
 
 ---
 
-### 20. @anushkasingh8872 (41 replies)
+### 21. @anushkasingh8872 (41 replies)
 
 > Song : ✨😄
 The video : 💀💀
@@ -4717,7 +4729,7 @@ The lyrics : 💀💀
 
 ---
 
-### 21. @MaiNguyen-gw5uj (37 replies)
+### 22. @MaiNguyen-gw5uj (37 replies)
 
 > This music video is better than the whole show I have to say. Lily and Jennie' voices blend very attractively  and beautifully!
 
@@ -4725,7 +4737,7 @@ The lyrics : 💀💀
 
 ---
 
-### 22. @winterchild_07 (32 replies)
+### 23. @winterchild_07 (32 replies)
 
 > This song looks like it was made for 50 shades of grey
 
@@ -4733,7 +4745,7 @@ The lyrics : 💀💀
 
 ---
 
-### 23. @slendermansrevenant1875 (32 replies)
+### 24. @slendermansrevenant1875 (32 replies)
 
 > It's been months since it came out but I am still just as obsessed. Lily-Rose Depp surprised tf outta me. I had no idea she could sing so well and had such a pleasant vocal color. I was blown away when I heard 1:00 for the first time.  I was worried about whether or not she could keep up with Jennie and especially Abel but the way she outsang them holy moly! This song was made for her
 
@@ -4741,19 +4753,11 @@ The lyrics : 💀💀
 
 ---
 
-### 24. @piyushtekale9496 (32 replies)
+### 25. @piyushtekale9496 (32 replies)
 
 > I BET NO ONE WILL BE HERE JANUARY 19 2026
 
 👍 394 · 3 weeks ago
-
----
-
-### 25. @baemon_trsr_BP_iKon_W._2ne1_BB (30 replies)
-
-> Jennie was first introduced in 2012, in 2013 she already got her first features in music videos and songs of leading Korean singers and performed on stage with them. Three years prior to her debut, five years prior to her solo debut. Now people know her as fashion brand ambassador, Coachella headliner, a part of the biggest girl group in the world, but she was always exceptional, for the past 11 years
-
-👍 2.2K · 2 years ago
 
 ---
 
@@ -5461,7 +5465,15 @@ I am so happy.
 
 ---
 
-### 6. @notguiltyisalawyer (166 replies)
+### 6. @LaurynOmasire (178 replies)
+
+> Who's here today 😂
+
+👍 2.4K · 1 year ago
+
+---
+
+### 7. @notguiltyisalawyer (166 replies)
 
 > playing hopscotch while singing “A-MINORRRRR” is CRAZY
 
@@ -5469,7 +5481,7 @@ I am so happy.
 
 ---
 
-### 7. @TheDukeOfDaKool (153 replies)
+### 8. @TheDukeOfDaKool (153 replies)
 
 > 5 Grammies, A Lawsuit, and a Super Bowl Halftime Show. This song is insane...
 
@@ -5477,7 +5489,7 @@ I am so happy.
 
 ---
 
-### 8. @BackcourtMemes (129 replies)
+### 9. @BackcourtMemes (129 replies)
 
 > please let this man become the first person to win a Grammy off a diss track 🙏 🙏 🙏
 
@@ -5485,7 +5497,15 @@ I am so happy.
 
 ---
 
-### 9. @resuri_ (119 replies)
+### 10. @KeyshaThompson6636 (124 replies)
+
+> So many ppl warned Drake to leave Kendrick alone.. Kendrick is the rap Devil. You not gonna win against him
+
+👍 1.9K · 1 year ago
+
+---
+
+### 11. @resuri_ (119 replies)
 
 > he took “stop playing with me before i turn you to a song” too literally
 
@@ -5493,7 +5513,7 @@ I am so happy.
 
 ---
 
-### 10. @YumaShiraiwa (116 replies)
+### 12. @YumaShiraiwa (116 replies)
 
 > the crowd effect on “certified loverboy, certified pedophile” is diabolical 😭😭
 
@@ -5501,7 +5521,7 @@ I am so happy.
 
 ---
 
-### 11. @pietrowinter5220 (115 replies)
+### 13. @pietrowinter5220 (115 replies)
 
 > Kendrick made a diss track, club track, workout track and a personal attack
 
@@ -5509,7 +5529,7 @@ I am so happy.
 
 ---
 
-### 12. @CarsonKelley2000 (114 replies)
+### 14. @CarsonKelley2000 (114 replies)
 
 > Kendrick having the Pop Out on Juneteenth and releasing this on the 4th of July is iconic .
 
@@ -5517,7 +5537,7 @@ I am so happy.
 
 ---
 
-### 13. @alexlopes557 (110 replies)
+### 15. @alexlopes557 (110 replies)
 
 > Ain’t Neva seen a diss track make someone sue they own label 😭😭🙏🏼🙏🏼🙏🏼 truly amazing
 
@@ -5525,7 +5545,7 @@ I am so happy.
 
 ---
 
-### 14. @octavia8965 (96 replies)
+### 16. @octavia8965 (96 replies)
 
 > Who’s randomly here because WHY TF NOT?! 😤
 
@@ -5533,7 +5553,7 @@ I am so happy.
 
 ---
 
-### 15. @melpomegranate (93 replies)
+### 17. @melpomegranate (93 replies)
 
 > Crazy to live in a world where a judge might have to watch this as evidence
 
@@ -5541,7 +5561,7 @@ I am so happy.
 
 ---
 
-### 16. @happycha0sgaming (93 replies)
+### 18. @happycha0sgaming (93 replies)
 
 > Never seen a diss track get brought back to life by the person being dissed for suing they lost
 
@@ -5549,7 +5569,7 @@ I am so happy.
 
 ---
 
-### 17. @MrSupedoSpade (90 replies)
+### 19. @MrSupedoSpade (90 replies)
 
 > Yup. Still bangs. Good luck in court Aubrey
 
@@ -5557,7 +5577,7 @@ I am so happy.
 
 ---
 
-### 18. @ceo_felcone (86 replies)
+### 20. @ceo_felcone (86 replies)
 
 > First time in rap history, a rapper called the law for a diss track 🔥 🔥🔥
 
@@ -5565,7 +5585,7 @@ I am so happy.
 
 ---
 
-### 19. @JustPineapple (83 replies)
+### 21. @JustPineapple (83 replies)
 
 > playing hopscotch during "A MINORRRRRR" was a violation 😭
 
@@ -5573,7 +5593,7 @@ I am so happy.
 
 ---
 
-### 20. @yukun-i8f (80 replies)
+### 22. @yukun-i8f (80 replies)
 
 > Ever since this dropped, a bunch of big youtubers got exposed to be predators
 
@@ -5581,7 +5601,7 @@ I am so happy.
 
 ---
 
-### 21. @Shawka-Shakur (78 replies)
+### 23. @Shawka-Shakur (78 replies)
 
 > THE SECOND LAWSUIT BROUGHT ME BACK !!!
 
@@ -5589,7 +5609,7 @@ I am so happy.
 
 ---
 
-### 22. @samanthamarckwardt1494 (67 replies)
+### 24. @samanthamarckwardt1494 (67 replies)
 
 > This is what you get when you try to diss a Pulitzer Prize winner. A diss track and a history lesson.
 
@@ -5597,27 +5617,11 @@ I am so happy.
 
 ---
 
-### 23. @AideeSalazar (64 replies)
+### 25. @AideeSalazar (64 replies)
 
 > Im playing this song nonstop… if you can’t handle beef… DON’T START IT
 
 👍 5.8K · 1 year ago
-
----
-
-### 24. @didibopi (54 replies)
-
-> The shipping container reference to trafficking is brilliant give this man more awards right now
-
-👍 8.6K · 1 year ago
-
----
-
-### 25. @NaturallyKyrah (50 replies)
-
-> This isn’t even beef anymore, it just comedic lyrical assassination at this point. 😅
-
-👍 13K · 1 year ago
 
 ---
 
@@ -5859,8 +5863,7 @@ I am definitely in..
 
 ### 2. @reyhansu8275 (627 replies)
 
-> Imagine in 15 years, kids are gonna be listening to this, and are gonna be saying “I was born in the wrong decade”
-.
+> Imagine in 15 years, kids are gonna be listening to this, and are gonna be saying “I was born in the wrong decade”.
 
 👍 86K · 5 years ago
 
@@ -5921,7 +5924,15 @@ Uhm whens our wedding
 
 ---
 
-### 9. @Stonecutter-dg2oe (132 replies)
+### 9. @maiochiru (132 replies)
+
+> tHIS SONG STILL HITS HARD AFTER 12 YEARS
+
+👍 14K · 4 years ago (edited)
+
+---
+
+### 10. @Stonecutter-dg2oe (132 replies)
 
 > Anyone 2026?😢
 
@@ -5930,14 +5941,6 @@ Uhm whens our wedding
 P.s. oh gosh i never imagined i could get so many likes!!!😱
 
 👍 1.8K · 1 month ago (edited)
-
----
-
-### 10. @maiochiru (132 replies)
-
-> tHIS SONG STILL HITS HARD AFTER 12 YEARS
-
-👍 14K · 4 years ago (edited)
 
 ---
 
@@ -5981,7 +5984,15 @@ P.s. oh gosh i never imagined i could get so many likes!!!😱
 
 ---
 
-### 16. @Ivy3h (85 replies)
+### 16. @JohnWick-fo3km (90 replies)
+
+> Who’s here in 2026?
+
+👍 955 · 1 month ago
+
+---
+
+### 17. @Ivy3h (85 replies)
 
 > This song: 7 years ago
 All the top comments: 1 week ago
@@ -5990,7 +6001,7 @@ All the top comments: 1 week ago
 
 ---
 
-### 17. @kingtaehyung9680 (80 replies)
+### 18. @kingtaehyung9680 (80 replies)
 
 > "It's too coOoOold"
 
@@ -6000,7 +6011,7 @@ Me with my rolled up jeans: You, sir, are correct.
 
 ---
 
-### 18. @officialpoothang (80 replies)
+### 19. @officialpoothang (80 replies)
 
 > Im not bisexual, but this song is bi fire.
 
@@ -6010,7 +6021,7 @@ I think I’m bi now 😂
 
 ---
 
-### 19. @ravenh8293 (76 replies)
+### 20. @ravenh8293 (76 replies)
 
 > so tf what it's 4 years old, good music NEVER dies.
 
@@ -6018,7 +6029,7 @@ I think I’m bi now 😂
 
 ---
 
-### 20. @_akimbo (73 replies)
+### 21. @_akimbo (73 replies)
 
 > My girlfriend: Tells me this is her favorite song of all time
 Me (a straight male): Reads comments
@@ -6028,7 +6039,7 @@ Me: "wait"
 
 ---
 
-### 21. @rudyhansen8301 (65 replies)
+### 22. @rudyhansen8301 (65 replies)
 
 > This is not a song, It's a feeling.
 
@@ -6036,7 +6047,7 @@ Me: "wait"
 
 ---
 
-### 22. @miegamer5406 (64 replies)
+### 23. @miegamer5406 (64 replies)
 
 > Any one in feb1😢
 
@@ -6044,7 +6055,7 @@ Me: "wait"
 
 ---
 
-### 23. @freeshorts3448 (62 replies)
+### 24. @freeshorts3448 (62 replies)
 
 > Even after 10 years, nobody knows if this song is sad or happy but everyone knows this song makes you feel good...
 
@@ -6052,21 +6063,13 @@ Me: "wait"
 
 ---
 
-### 24. @DhaleBEvans (61 replies)
+### 25. @DhaleBEvans (61 replies)
 
 > When you're ticklish:
 
 "Touch my neck and I'll break yours."
 
 👍 9.1K · 5 years ago
-
----
-
-### 25. @yuhyeet1017 (58 replies)
-
-> after 6 years this is still such a good song
-
-👍 5K · 6 years ago
 
 ---
 
@@ -6382,7 +6385,15 @@ https://ravynlenae.lnk.to/BirdsEye
 
 ---
 
-### 6. @abimon76 (63 replies)
+### 6. @quibexe (73 replies)
+
+> June 2025 anyone?🖐🏽😞
+
+👍 551 · 7 months ago
+
+---
+
+### 7. @abimon76 (63 replies)
 
 > this feels like the golden age of 2010s pop , gorgeous and complex
 
@@ -6390,7 +6401,7 @@ https://ravynlenae.lnk.to/BirdsEye
 
 ---
 
-### 7. @sierradougie8559 (60 replies)
+### 8. @sierradougie8559 (60 replies)
 
 > Came here after Anderson .Paak told Keke he wrote this during an interview.  I love stories like this about writers realizing a song they wrote and gave away became a hit.
 
@@ -6398,7 +6409,7 @@ https://ravynlenae.lnk.to/BirdsEye
 
 ---
 
-### 8. @fizzypop6552 (43 replies)
+### 9. @fizzypop6552 (43 replies)
 
 > Nice to see black queens exploring different genres
 
@@ -6408,7 +6419,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 9. @shedlooney (41 replies)
+### 10. @shedlooney (41 replies)
 
 > I'm 54 and only heard this song a week or so ago. My teenage daughter had it on her playlist. The hook did its job and I came here to compliment you on a banger of a tune. All the best to you.
 
@@ -6416,7 +6427,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 10. @Envi-jm8mi (41 replies)
+### 11. @Envi-jm8mi (41 replies)
 
 > It almost gives off the feeling of missing someone or something. That's how it personally makes me feel.
 
@@ -6424,7 +6435,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 11. @lolcanoes3 (37 replies)
+### 12. @lolcanoes3 (37 replies)
 
 > The fact that this masterpiece did not get a single Grammy nomination is crazy! My girl got ROBBED 💔
 
@@ -6432,7 +6443,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 12. @Glide.with.the.tide.Official (36 replies)
+### 13. @Glide.with.the.tide.Official (36 replies)
 
 > this song has literal crack in it
 
@@ -6440,7 +6451,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 13. @peahnus9037 (36 replies)
+### 14. @peahnus9037 (36 replies)
 
 > Why the fuck am I so pissed that this only has 44k views, its damn near been a WEEK. This shit is amazing, like, where on Earth is everyone?
 
@@ -6448,7 +6459,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 14. @srishtisharma6691 (32 replies)
+### 15. @srishtisharma6691 (32 replies)
 
 > Who's here on 6 jan 2026
 
@@ -6456,7 +6467,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 15. @MitchTradez (31 replies)
+### 16. @MitchTradez (31 replies)
 
 > Bring this type of music back. 2010-2012 era was immaculate.
 
@@ -6464,7 +6475,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 16. @Yourgirllalexisss (30 replies)
+### 17. @Yourgirllalexisss (30 replies)
 
 > The REALL song of the summer is this one for sure.
 
@@ -6472,7 +6483,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 17. @Tia.com0 (27 replies)
+### 18. @Tia.com0 (27 replies)
 
 > 0:10 plantainnnn
 
@@ -6480,7 +6491,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 18. @sharonsettle9424 (24 replies)
+### 19. @sharonsettle9424 (24 replies)
 
 > I am 81 and love this song. When you here it the melody lingers. Sort of what was called " bubblegum pop". She does a great job making a simple lyric so real and fun.
 ❤❤❤
@@ -6489,7 +6500,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 19. @_Hueningkai (19 replies)
+### 20. @_Hueningkai (19 replies)
 
 > I feel nostalgic for some reason .
 
@@ -6497,7 +6508,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 20. @AutumnColbert-np8pe (15 replies)
+### 21. @AutumnColbert-np8pe (15 replies)
 
 > HOW AM I JUST NOW DISCOVERING THIS SONG A YEAR LATER
 
@@ -6505,7 +6516,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 21. @nickjones5495 (15 replies)
+### 22. @nickjones5495 (15 replies)
 
 > I think I’m overdosing on this song
 
@@ -6513,7 +6524,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 22. @Iamphilmalkin (15 replies)
+### 23. @Iamphilmalkin (15 replies)
 
 > How it feels to have a crush…
 
@@ -6521,7 +6532,7 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 23. @bunnywavyxx9524 (15 replies)
+### 24. @bunnywavyxx9524 (15 replies)
 
 > This song is pure heartache. The under current is deeply melancholic, full of confusion, longing, and pain akin to grief because you know it's over but you don't want to face that reality. Eternally relatable.🥺
 
@@ -6529,70 +6540,11 @@ Edit : y'all stop messaging me about this.
 
 ---
 
-### 24. @Missyhissy (14 replies)
+### 25. @Missyhissy (14 replies)
 
 > This song scratches my brain in the right spots
 
 👍 4.9K · 8 months ago
-
----
-
-### 25. @nizefox1663 (14 replies)
-
-> Lyric:
-
-See, right now, I need you, I'll meet you somewhere now
-You up now, I see you, I get you, take care now
-Slow down, be cool, I miss you, come here now
-It's yours now, keep it, I'll hold on until now
-I need you right now, once I leave you I'm strung out
-If I get you, I'm slowly breaking down
-And, oh, it's hard to see you but I wish you were right here
-Oh, it's hard to leave you when I get you everywhere
-All this time I'm thinking we could never be a pair
-Oh, no, I don't need you but I miss you, come here
-And, oh, it's hard to see you but I wish you were right here
-Oh, it's hard to leave you when I get you everywhere
-All this time, I'm thinking I'm strong enough to sink it
-Oh, no, I don't need you but I miss you, come here
-He love me not, he loves me
-He holds me tight then lets me go
-He love me not, he loves me
-He holds me tight then lets me go
-Soon as you leave me, we always lose connection
-It's gettin' messy, I think that your affection
-Don't loosen your grip, got a hold on me
-Now, forever, let's get back together
-Lord, take it so far away
-I pray that, God, we don't break
-I want you to take me up and down
-And 'round and 'round again
-And, oh, it's hard to see you but I wish you were right here
-Oh, it's hard to leave you when I get you everywhere
-All this time I'm thinking we could never be a pair
-Oh, no, I don't need you but I miss you, come here
-And, oh, it's hard to see you but I wish you were right here
-Oh, it's hard to leave you when I get you everywhere
-All this time, I'm thinking I'm strong enough to sink it
-Oh, no, I don't need you but I miss you, come here
-He love me not, he loves me
-He holds me tight then lets me go
-He love me not, he loves me
-He holds me tight then lets me go
-He love me not, he loves me
-He holds me tight then lets me go
-He love me not, he loves me
-He holds me tight then lets me go
-You gotta say that you're sorry at the end of the night
-Wake up in the morning, everything's alright
-At the end of the story, you're holdin' me tight
-I don't need to worry, am I out of my mind?
-And, oh, it's hard to see you but I wish you were right here (I'm losing my mind)
-Oh, it's hard to leave you when I get you everywhere
-All this time I'm thinking, I'm strong enough to sink it
-Oh, no, I don't need you but I miss you, come here
-
-👍 1.2K · 10 months ago
 
 ---
 
@@ -6831,7 +6783,15 @@ Very cool, Chris.
 
 ---
 
-### 4. @OmokhefeItai (124 replies)
+### 4. @ShortsRender (213 replies)
+
+> Anyone in 2026❓
+
+👍 2.3K · 1 month ago
+
+---
+
+### 5. @OmokhefeItai (124 replies)
 
 > My Oxford year brought me here again 😭
 
@@ -6839,7 +6799,7 @@ Very cool, Chris.
 
 ---
 
-### 5. @dachitoronjadze6159 (107 replies)
+### 6. @dachitoronjadze6159 (107 replies)
 
 > I swear Youtube is closest thing to time machine.
 
@@ -6847,7 +6807,7 @@ Very cool, Chris.
 
 ---
 
-### 6. @worldbingochampion2022 (100 replies)
+### 7. @worldbingochampion2022 (100 replies)
 
 > After listening to this song a hundred times, it still makes me cry. This was played at my mother's funeral. I hope she's in a better place and knows I love her. Rest In Peace Melissa Bryant, 1984 ~ 2017
 
@@ -6855,7 +6815,7 @@ Very cool, Chris.
 
 ---
 
-### 7. @claudiofandubs5405 (100 replies)
+### 8. @claudiofandubs5405 (100 replies)
 
 > saludos a los que hablan español, que al parecer somos pocos :/
 
@@ -6863,7 +6823,7 @@ Very cool, Chris.
 
 ---
 
-### 8. @Ray-lx9ef (97 replies)
+### 9. @Ray-lx9ef (97 replies)
 
 > See some people losing the ones they love, like their moms etc., this is the reason why I am super scared or growing up, because my parents are getting older and I’m scared of them passing away at the end. I’m also scared of dying alone, I love my family and very close friends so so so much, and everyone is so important to me, and I would to absolutely anything to protect them no matter what.
 
@@ -6871,7 +6831,7 @@ Very cool, Chris.
 
 ---
 
-### 9. @snakelegion1469 (97 replies)
+### 10. @snakelegion1469 (97 replies)
 
 > This song will be 20 years old in 3 years. Crazy where the time flies.
 
@@ -6879,7 +6839,7 @@ Very cool, Chris.
 
 ---
 
-### 10. @FindMeInsanity (92 replies)
+### 11. @FindMeInsanity (92 replies)
 
 > Nostalgia is one of the most saddest and greatest feelings in the world...
 
@@ -6887,7 +6847,7 @@ Very cool, Chris.
 
 ---
 
-### 11. @Amalisemkkki (89 replies)
+### 12. @Amalisemkkki (89 replies)
 
 > This song is aging like fine wine. It only gets better and better
 
@@ -6895,7 +6855,7 @@ Very cool, Chris.
 
 ---
 
-### 12. @Spy_2.5 (85 replies)
+### 13. @Spy_2.5 (85 replies)
 
 > anyone in 2026?
 
@@ -6903,7 +6863,7 @@ Very cool, Chris.
 
 ---
 
-### 13. @adityamulik (83 replies)
+### 14. @adityamulik (83 replies)
 
 > Came searching for this song after watching Chris Martin Carpool Karaoke with James Corden :D
 
@@ -6911,7 +6871,7 @@ Very cool, Chris.
 
 ---
 
-### 14. @Silla1819 (76 replies)
+### 15. @Silla1819 (76 replies)
 
 > My dad sang this to me and we sat outside I never really heard the words until now.
 May he rest in peace I love you
@@ -6920,7 +6880,7 @@ May he rest in peace I love you
 
 ---
 
-### 15. @lalhruaitluanga7461 (71 replies)
+### 16. @lalhruaitluanga7461 (71 replies)
 
 > Who's here just listening and doesn't care what year it is
 
@@ -6928,7 +6888,7 @@ May he rest in peace I love you
 
 ---
 
-### 16. @rosepuff321 (68 replies)
+### 17. @rosepuff321 (68 replies)
 
 > It's a little scary to think that Chris Martin's voice hasn't changed in 17 years.
 
@@ -6936,7 +6896,7 @@ May he rest in peace I love you
 
 ---
 
-### 17. @maddie7264 (66 replies)
+### 18. @maddie7264 (66 replies)
 
 > coldplay is honestly something that just makes me feel happy & comfortable.
 
@@ -6944,7 +6904,7 @@ May he rest in peace I love you
 
 ---
 
-### 18. @jaggerseiders2334 (66 replies)
+### 19. @jaggerseiders2334 (66 replies)
 
 > Yellow, a song about two people staring at the stars talking about the things they do, and they were all yellow. This song has a different meaning to all of us and is truly beautiful, because truly deep down we all know someone who is our yellow. The world, it’s people, music, everything is and always has been Yellow. One of the greatest songs ever made, yellow, it’s about our yellow world and a relationship that we all dream to be in. Yellow speaks to the heart, yellow is the color that ties everything together, it’s just yellow. Never forget this line, Look at the stars, look how they shine for you, and everything you do yeah they were all yellow. Live by that lyric and that lyric alone because yellow truly is the color of hopes and dreams. Live Yellow everyone!
 
@@ -6952,7 +6912,7 @@ May he rest in peace I love you
 
 ---
 
-### 19. @gantlax8f14 (64 replies)
+### 20. @gantlax8f14 (64 replies)
 
 > If Mark Zuckerburg looked human.
 
@@ -6960,19 +6920,11 @@ May he rest in peace I love you
 
 ---
 
-### 20. @sparshdhiman72 (64 replies)
+### 21. @sparshdhiman72 (64 replies)
 
 > Even tho the song is quite old, the comment section is still alive
 
 👍 3.7K · 6 years ago (edited)
-
----
-
-### 21. @melaniea2271 (63 replies)
-
-> my dad listened to this song... he is not here anymore but he is now my angel...
-
-👍 3.8K · 4 years ago
 
 ---
 
@@ -6984,7 +6936,15 @@ May he rest in peace I love you
 
 ---
 
-### 23. @sophiewestwood5631 (61 replies)
+### 23. @melaniea2271 (63 replies)
+
+> my dad listened to this song... he is not here anymore but he is now my angel...
+
+👍 3.8K · 4 years ago
+
+---
+
+### 24. @sophiewestwood5631 (61 replies)
 
 > Even now, after hearing it a million times it still gives me the chills( good chills)
 
@@ -6992,19 +6952,11 @@ May he rest in peace I love you
 
 ---
 
-### 24. @oioipeepeepp7149 (58 replies)
+### 25. @oioipeepeepp7149 (58 replies)
 
 > Can't believe this song was so popular they made a color out of it
 
 👍 8K · 4 years ago (edited)
-
----
-
-### 25. @edgar2091 (58 replies)
-
-> This band won’t ever get old.
-
-👍 5.9K · 5 years ago (edited)
 
 ---
 

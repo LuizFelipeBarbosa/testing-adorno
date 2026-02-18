@@ -530,7 +530,17 @@ Between what we're told to do for superficial purposes, leading us to doom versu
 ## 🎵 BIRDS OF A FEATHER
 **Artists:** Billie Eilish
 
-### 1. @FandomFlix (1652 chars)
+### 1. @TwO-FiStEd-BeTtY (1694 chars)
+
+> @Billie, 
+ 
+So disappointed in you.  I am a professional musician (as well as other professions) and respect the trade. Not only disappointed in you, but most all entertainers and artists in general (actors, sports figures and industries of the kind. e.t.c...). I'm sorry...I love your story that you and your brother going from rags to riches. You've both have made absolutely beautiful music together. You're smart and have almost a prodigy talent. But, I take issue with any entertainment professionals who seem to not only use there job and accolades to preach on stages, especially award stages of which they were nominated and won just to preach. Maybe it shouldn't be in that particular environment but on your own time to show your beliefs whisch is your 1st amendment right. Which you have the right to do. But making comments like you and others have done on the Grammys, a show for the public to enjoy their favorite artist? Idk, just IMO, not the right time. I would have honestly respected you and others more if it wasn'tsaid. I want to be entertained and enjoy yours and others well deserved accomplishments I would not be allowed while doing my job and telling my customers my political opinions or any opinions other than my job. Most major corporations would fire me because it reflects on the company that I work for, so I respect that. Free Speech are all our rights, but not while doing our jobs. And as you and I know, what you do is a job. Actually,  a very hard one. But again and unfortunately, I will be unsubscribing. Love your music, your artwork including the documentaries. I just cannot at this point, support what you and others have said. I wish you the best! ❤
+
+👍 1 · 6 days ago
+
+---
+
+### 2. @FandomFlix (1652 chars)
 
 >  @shilpita100   you let it change you for the better or the worse. pain from true love heartbreak doesn’t just go away on its own. It needs to be channeled…
 
@@ -544,7 +554,7 @@ pain from heartbreak is a powerful tool that only one can master through experie
 
 ---
 
-### 2. @sophiesavage23 (1611 chars)
+### 3. @sophiesavage23 (1611 chars)
 
 > I was in the same position at 14 and my parents fully believe I would have taken my own life had they not sent me to a TTI for two years. 6 years later I am 20 years old and still can't fathom what was going through my head when all of that happened. I don't really remember much of my teenage years but what I do know is my parents were there through all of it. The medication, the doctors, everything, they provided help because they CARED, and you guys did all of that for her. You wanted her to get help and that shows what a great family you are. Please do not blame yourself, it is not your fault, I will never not blame myself for the day I was in the hospital for an OD and my father was kneeling by my bedside crying and blaming himself. As kids who are struggling, we don't want to hurt out parents, and I really didn't realize back then that when I struggled, my family struggled too. I didn't realize we were all in it together because I was so clouded by these challenges. I don't know exactly why your daughter did what she did, but what I do know that after death comes peace - I remember it all too well. Your daughter is safe and sound, I can promise you that. Your daughter loved you very much and I'm sure it may have been an act of impulse as most of us at 14 did. We really don't mean to hurt you guys, we just thought it was the only way out. It isn't, but she is safe now. I know this isn't much, but I will say a prayer for your daughter, she sounds like she was a wonderful girl. Never ever blame yourself, you were a good parent, you tried your best, and so did she. Have a good night!
 
@@ -552,7 +562,7 @@ pain from heartbreak is a powerful tool that only one can master through experie
 
 ---
 
-### 3. @xaxaxxe_11 (1543 chars)
+### 4. @xaxaxxe_11 (1543 chars)
 
 > (Lyrics):
 [Intro]
@@ -616,7 +626,7 @@ I love you, don't act so surprised
 
 ---
 
-### 4. @空青-f6k (1484 chars)
+### 5. @空青-f6k (1484 chars)
 
 > Lyrics ↓
 
@@ -682,7 +692,7 @@ I love you, don't act so surprised
 
 ---
 
-### 5. @lynchrap5003 (1457 chars)
+### 6. @lynchrap5003 (1457 chars)
 
 > I want you to stay
 'Til I'm in the grave
@@ -734,7 +744,7 @@ I love you, don't act so surprised
 
 ---
 
-### 6. @shelbymaeka (1456 chars)
+### 7. @shelbymaeka (1456 chars)
 
 > I want you to stay
 'Til I'm in the grave
@@ -785,7 +795,7 @@ Pls don't let it gets lost in the comments😭🙏🏼
 
 ---
 
-### 7. @UnfinishedFog (1442 chars)
+### 8. @UnfinishedFog (1442 chars)
 
 > Here are the lyrics:
 
@@ -841,7 +851,7 @@ I love you, don't act so surprised
 
 ---
 
-### 8. @desirable9023 (1427 chars)
+### 9. @desirable9023 (1427 chars)
 
 > Here is the lyrics!
 
@@ -888,7 +898,7 @@ I love you, don't act so surprised.
 
 ---
 
-### 9. @Naveya-c4l (1424 chars)
+### 10. @Naveya-c4l (1424 chars)
 
 > Here are the lyrics
 
@@ -935,7 +945,7 @@ I love you, don't act so surprised
 
 ---
 
-### 10. @moonstarz_88 (1422 chars)
+### 11. @moonstarz_88 (1422 chars)
 
 > "BIRDS OF A FEATHER"
 
@@ -997,7 +1007,7 @@ I love you, don't act so surprised
 
 ---
 
-### 11. @undefeateda6693 (1413 chars)
+### 12. @undefeateda6693 (1413 chars)
 
 > Lyrics
 
@@ -1044,7 +1054,7 @@ I love you, don't act so surprised
 
 ---
 
-### 12. @duniaannoer5924 (1413 chars)
+### 13. @duniaannoer5924 (1413 chars)
 
 > Iwant you to stay
 'Til I'm in the grave
@@ -1098,7 +1108,7 @@ I love you, don't act so surprised
 
 ---
 
-### 13. @bebelovezz (1405 chars)
+### 14. @bebelovezz (1405 chars)
 
 > I want you to stay
 'Til I'm in the grave
@@ -1143,7 +1153,7 @@ I love you, don't act so surprised
 
 ---
 
-### 14. @Miiimiiisss (1405 chars)
+### 15. @Miiimiiisss (1405 chars)
 
 > I want you to stay
 'Til I'm in the grave
@@ -1188,7 +1198,7 @@ I love you, don't act so surprised
 
 ---
 
-### 15. @Bobobo2000 (1405 chars)
+### 16. @Bobobo2000 (1405 chars)
 
 > I want you to stay
 'Til I'm in the grave
@@ -1233,7 +1243,7 @@ I love you, don't act so surprised
 
 ---
 
-### 16. @УмутЖумашова (1400 chars)
+### 17. @УмутЖумашова (1400 chars)
 
 > I want you to stay
 'Til I'm in the grave
@@ -1278,7 +1288,7 @@ I love you, don't act so surprised
 
 ---
 
-### 17. @PaolaAlvarez-c1o7d (1398 chars)
+### 18. @PaolaAlvarez-c1o7d (1398 chars)
 
 > want you to stay
 'Til I'm in the grave
@@ -1323,7 +1333,7 @@ I love you, don't act so surprised
 
 ---
 
-### 18. @brian78045 (1355 chars)
+### 19. @brian78045 (1355 chars)
 
 > How is land stolen when there are no borders?!  If the Los Angeles Basin is returned to the Tongva Tribe, what would that mean when there are no borders! It would mean anyone can settle the land, making ownership a moot point. This is the problem with Marxists like Eilish,* they employ divisive nonsense that is easily seen to be not only absurd, but contradictory. 
 ===================
@@ -1349,7 +1359,7 @@ Now you know what Marxists are referring to when they utter the phrase, "The Str
 
 ---
 
-### 19. @geraldinepappas7503 (1249 chars)
+### 20. @geraldinepappas7503 (1249 chars)
 
 > It’s okay to cry when you hear this song or when memories of her come flooding in. It’s okay to grieve as deeply as you loved her—because love and grief are intertwined. In those moments, let yourself feel her presence, her spirit, and the love she left behind.
 
@@ -1365,7 +1375,7 @@ Keeping you in thought and prayers. I hope you can find moments of peace and com
 
 ---
 
-### 20. @lilysummer7002 (1238 chars)
+### 21. @lilysummer7002 (1238 chars)
 
 > I lost my 14 year old daughter on August 14th of this year and every time I hear this song it makes me cry. I miss my daughter so much. I know she is an angel now, watching over me from far away. Baby, I miss you so much. You will always live in my heart.
 
@@ -1377,7 +1387,7 @@ That evening, when I returned home around 5:00pm.I knocked on her door and asked
 
 ---
 
-### 21. @LeeGladly (1128 chars)
+### 22. @LeeGladly (1128 chars)
 
 > MODERN WAREFARE 
 
@@ -1463,7 +1473,7 @@ Following those artist you'll do what they do because it's a spiritual tie wake 
 
 ---
 
-### 22. @stevepope6095 (1090 chars)
+### 23. @stevepope6095 (1090 chars)
 
 > Whether a country sits on "stolen land" depends on how you define the term, but displacement is a universal theme in human history.
 ​Historical Reality
@@ -1477,7 +1487,7 @@ Following those artist you'll do what they do because it's a spiritual tie wake 
 
 ---
 
-### 23. @TheShadeTreeNetwork (1015 chars)
+### 24. @TheShadeTreeNetwork (1015 chars)
 
 > ​ @FandomFlix Of COURSE Billie's mind is incredible--she's my teamie! ♐️🔥🧠❤️‍🔥 
 
@@ -1493,7 +1503,7 @@ So when I say this song resonates with me--BELIEVE IT! 😫😤🤬
 
 ---
 
-### 24. @avneeshshukla8454 (883 chars)
+### 25. @avneeshshukla8454 (883 chars)
 
 > For me, it's more like this:-
 
@@ -1504,14 +1514,6 @@ So when I say this song resonates with me--BELIEVE IT! 😫😤🤬
 3- Then she proceed onto the start again after reliving those moments and we see her teared out laying on the floor plus the chair has fallen and it stats that the mental health is completely broken and the screen turns black means no chances of revival.
 
 👍 0 · 7 months ago
-
----
-
-### 25. @ijustwantcake532 (871 chars)
-
-> I’m sad you’re hurting, but I’m also relieved that you and your daughter got to remind eachother of the important things before she left: that you love eachother. That sounds really scary, opening the door thinking everything is normal only to find out it’s really, really not. Speaking as someone who has experience with those urges, I can say what kept me alive is that my urges/actions kept being interrupted. For what it’s worth, you’ve probably stopped her from going through with it many times without even realizing it. I think she held onto life for as long as she did because she has a mom who cares. Thank you for giving your daughter this precious love. I don’t know how a person recovers from this loss, but I hope you can be at peace someday. Even if part of you is always sad, I hope you can love that part and take care of it like you’ve taken care of her.
-
-👍 17 · 1 year ago
 
 ---
 
@@ -2221,7 +2223,58 @@ The angels up in the clouds are jealous, knowin' we found
 
 ---
 
-### 6. @jimmiizzy6283 (1475 chars)
+### 6. @sniperfxacademy (1827 chars)
+
+> They say, "The holy water's watered down
+And this town's lost its faith
+Our colors will fade eventually"
+So if our time is runnin' out
+Day after day
+We'll make the mundane our masterpiece
+Oh my, my
+Oh my, my love
+I take one look at you
+You're takin' me out of the ordinary
+I want you layin' me down 'til we're dead and buried
+On the edge of your knife, stayin' drunk on your vine
+The angels up in the clouds are jealous, knowin' we found
+Somethin' so out of the ordinary
+You got me kissin' the ground of your sanctuary
+Shatter me with your touch, oh Lord, return me to dust
+The angels up in the clouds are jealous, knowin' we found
+Hopeless hallelujah
+On this side of Heaven's gate
+Oh, my life, how do ya
+Breathe and take my breath away?
+At your altar, I will pray
+You're the sculptor, I'm the clay
+Oh my, my
+You're takin' me out of the ordinary
+I want you layin' me down 'til we're dead and buried
+On the edge of your knife, stayin' drunk on your vine
+The angels up in the clouds are jealous, knowin' we found
+Somethin' so out (out) of the ordinary (ordinary)
+You got me kissin' the ground (ground) of your sanctuary (sanctuary)
+Shatter me with your touch, oh Lord, return me to dust
+The angels up in the clouds are jealous, knowin' we found
+Somethin' so heavenly, higher than ecstasy
+Whenever you're next to me, oh my, my
+World was in black and white until I saw your light
+I thought you had to die to find
+Somethin' so out of the ordinary
+I want you layin' me down 'til we're dead and buried
+On the edge of your knife, stayin' drunk on your vine
+The angels up in the clouds are jealous, knowin' we found
+Somethin' so out (out) of the ordinary
+You got me kissin' the ground (ground) of your sanctuary (sanctuary)
+Shatter me with your touch, oh Lord, return me to dust
+The angels up in the clouds are jealous, knowin' we found
+
+👍 0 · 8 months ago
+
+---
+
+### 7. @jimmiizzy6283 (1475 chars)
 
 > @Alex-Kuzma
 Are you holding your guitar? Do you have the chords yet? Can you play the song? Ear it out, just like Rick taught you. 
@@ -2236,7 +2289,7 @@ Great song, gave me goosebumps after listening to the back story. And the girl w
 
 ---
 
-### 7. @shawnalLovesJesus (974 chars)
+### 8. @shawnalLovesJesus (974 chars)
 
 >  @Makeupbykimberlyp  On April 2019, I heard - Tell them I am coming soon. Later in the day I heard: There will be a great shaking. When I didn't tell a particular church about it, I got a dream where I was scared. I could hear myself saying: I'll tell them, I'll tell them, I'll tell them. Then I saw a person in the dark with well lit church windows behind him and another person dressed in white walking behind him and up some stairs.
 
@@ -2248,7 +2301,7 @@ Rev 3 vs 3  Have in mind therefore in what manner thou hast received and heard 
 
 ---
 
-### 8. @shawnalLovesJesus (716 chars)
+### 9. @shawnalLovesJesus (716 chars)
 
 > @TDAJuanxd Yes, you can.
 
@@ -2262,23 +2315,11 @@ Rom 10 vs 9  For if thou confess with thy mouth the Lord Jesus and believe in t
 
 ---
 
-### 9. @sofonias16 (691 chars)
+### 10. @sofonias16 (691 chars)
 
 > Honestly, you don't understand how much I needed to read this. Wife left me and now I'm struggling to start over. Haven't seen my son and can't go back because of her having another man sleeping in my room. I'm strong but not when you involve my son. Don't get to hear his toddler speak anymore it hurts so much. May God send you blessings for posting this message. It's only been a week but I already feel so weak. Its something I still don't how to process. Could've I have done more so that she would still love me. Am I so weak that I don't deserve respect yet I was strong enough to pick up her broken pieces. Be the punching bag that no one wanted to notice. Is love to much to ask for
 
 👍 1 · 4 months ago
-
----
-
-### 10. @shawnalLovesJesus (690 chars)
-
-> Jesus is coming. Good time to be right with Him. On April 9, 2021, my vision went black for a quick moment, I saw in gold letters - Thus saith the Lord.  Four hours later? On April 10, in my sleep I heard - Prophet. Tell them I am coming soon. Maybe 3-5 min after that, at 1235 AM, our area had a 3.1 eq.
-
-Rev 3 vs 3  Have in mind therefore in what manner thou hast received and heard - and observe and do penance - If then thou shalt not watch, I will come to thee as a thief - and thou shalt not know at what hour I will come to thee. 
-
-Rom 10 vs 9  For if thou confess with thy mouth the Lord Jesus and believe in thy heart that God hath raised him up from the dead, thou shalt be saved.
-
-👍 0 · 4 days ago
 
 ---
 
@@ -2294,7 +2335,19 @@ Rom 10 vs 9  For if thou confess with thy mouth the Lord Jesus and believe in t
 
 ---
 
-### 12. @ASilasB2018 (682 chars)
+### 12. @shawnalLovesJesus (690 chars)
+
+> Jesus is coming. Good time to be right with Him. On April 9, 2021, my vision went black for a quick moment, I saw in gold letters - Thus saith the Lord.  Four hours later? On April 10, in my sleep I heard - Prophet. Tell them I am coming soon. Maybe 3-5 min after that, at 1235 AM, our area had a 3.1 eq.
+
+Rev 3 vs 3  Have in mind therefore in what manner thou hast received and heard - and observe and do penance - If then thou shalt not watch, I will come to thee as a thief - and thou shalt not know at what hour I will come to thee. 
+
+Rom 10 vs 9  For if thou confess with thy mouth the Lord Jesus and believe in thy heart that God hath raised him up from the dead, thou shalt be saved.
+
+👍 0 · 4 days ago
+
+---
+
+### 13. @ASilasB2018 (682 chars)
 
 > Omg!!!!!!🎉🎉🎉🎉🎉 FUCK CANCER!!!! IT CAME 3 TIMES BEFORE IT TOOK MY MOTHER IN '23 AT AGE 64 & ALMOST MY SISTER IN '24..... IVE BEEN AVOIDING 2 LUMPS ON MY CHEST AND RIBS SMDH..... FEELING TIRED, HAVENT BEEN ABLE TO CLEAN MY HOUSE AT ALL..... CANT DECIDE WHERE TO START EVEN OR ILL FILL ONE BAG OF TRASH OR FOLD A FEW CLOTHES N GET SIDETRACKED TO SOMETHING ELSE AND GETS ME NOWHERE. IM FRUSTRATED AS HELL I WAS A MENTAL HEALTH PROFESSIONAL AND KNOW TONS ABOUT PSYCHOLOGY, COPING SKILLS, TRIGGERS, EMOTIONS, ETC. BUT I CANT FIX MYSELF😢ITS NEVER BEEN SO BAD😢 I CANT BELIEVE IM WHERE IM AT. ❤❤❤CONGRATS YOU ARE A MIRACLE AND I PRAY YOU ARE BLESSED WITH YOUR LIFE AND are happy n at peace🎉❤
 
@@ -2302,7 +2355,7 @@ Rom 10 vs 9  For if thou confess with thy mouth the Lord Jesus and believe in t
 
 ---
 
-### 13. @joml3537 (661 chars)
+### 14. @joml3537 (661 chars)
 
 > I'm so sorry, it's a tough road ahead. But know that his love will be with you always. It's only now, 7 years after my husband passed that he feels more distant. Keep talking to him, look up "continuous bonds" that brought me much comfort and ignore Khubler Ross (she's now outdated). Look after yourself. Grief does weird things with time.  You'll think, it's been ages, and people will tell you that it's still recent. Know you are not alone. Many are walking that path of grief with you, some further along with a lighter burden, some struggling under the crushing weight of a recent loss, but all of us carrying the grief, always, and the love. Big hugs. ❤❤
 
@@ -2310,7 +2363,7 @@ Rom 10 vs 9  For if thou confess with thy mouth the Lord Jesus and believe in t
 
 ---
 
-### 14. @Vvguava (633 chars)
+### 15. @Vvguava (633 chars)
 
 > I am 56.... and i have had a few different loves, but not my 'forever' one yet. 
 
@@ -2326,7 +2379,7 @@ Cest la vie 🎉❤🎉
 
 ---
 
-### 15. @PJS_Music (615 chars)
+### 16. @PJS_Music (615 chars)
 
 > I've heard (and I don't know if there's any true to this so don't come for me!!) 
 But I've heard that the reason those singers hire other actors/actresses is because in the event the relationship won't work out, their (now) ex-partner is not starring in one of their songs.
@@ -2340,7 +2393,7 @@ I'm not a singer though so like I said, not sure if there's any truth behind it 
 
 ---
 
-### 16. @samsunggoogle9122 (595 chars)
+### 17. @samsunggoogle9122 (595 chars)
 
 > I understand you perfectly. My wife died three years ago at the age of 34. Cancer didn't give her any chance. I couldn't get myself together; I was filled with so much resentment and anger, and it still is. However, after two and a half years, I slowly began to see the light at the end of the tunnel... I have to move on for our children. At first, I couldn't imagine another woman by my side. Now I'm looking around, searching for love, a mother for my children. It's hard to find a good other these days... Hold on tight, don't give up, try to live and be happy; your husband would want that.
 
@@ -2348,7 +2401,7 @@ I'm not a singer though so like I said, not sure if there's any truth behind it 
 
 ---
 
-### 17. @AbhijayHalder (555 chars)
+### 18. @AbhijayHalder (555 chars)
 
 > amen to your beloved son.May his soul rest in peace and he gets peace in the afterlife.The world is a mid place to be in,there are better dimensions for sure.He is rest assured there.May you get the strength to actually move on and continue living mam.You are a gem,remember that,takes strength to be vulnerable here.Condolences to whoever he was and how old was he.IF you  have more children,make them your gem of the eye and live with them beautifully,Dont lose all hope because of this loss.I pray for you mrs andrews .God loves him so he called him up
 
@@ -2356,7 +2409,7 @@ I'm not a singer though so like I said, not sure if there's any truth behind it 
 
 ---
 
-### 18. @Charrrr14 (554 chars)
+### 19. @Charrrr14 (554 chars)
 
 > That's what I thought of too.
 I love the song, but when I took the time to listen to the lyrics properly, it left me with a sadness because I'm middle aged and never found this kind of love. Only verbally abusive idiots.
@@ -2368,7 +2421,7 @@ To those who have found this kind of love, cherish it. To those who haven't, I h
 
 ---
 
-### 19. @NovusIgnis (545 chars)
+### 20. @NovusIgnis (545 chars)
 
 > ​ @honeybeetee  No! Absolutely NOT! I won't tolerate that kind of blasphemy. Nobody is perfect except God. And yes, angels can get jealous, that's literally where sin started. Satan and a third of the angels grew jealous of God's love for us and His desire to have us rule over creation with Him, including the angels.
 
@@ -2378,7 +2431,7 @@ Furthermore, jealousy itself isn't wrong. God is perfect, but He is also JEALOUS
 
 ---
 
-### 20. @younggoat8304 (544 chars)
+### 21. @younggoat8304 (544 chars)
 
 > “This is especially true of those who follow the corrupt desire of the flesh and despise authority. Bold and arrogant, they are not afraid to heap abuse on celestial beings; yet even angels, although they are stronger and more powerful, do not heap abuse on such beings when bringing judgment on them from the Lord. But these people blaspheme in matters they do not understand. They are like unreasoning animals, creatures of instinct, born only to be caught and destroyed, and like animals they too will perish.”
 ‭‭2 Peter‬ ‭2‬:‭10‬-‭12‬ ‭NIV‬
@@ -2387,7 +2440,7 @@ Furthermore, jealousy itself isn't wrong. God is perfect, but He is also JEALOUS
 
 ---
 
-### 21. @shawnalLovesJesus (527 chars)
+### 22. @shawnalLovesJesus (527 chars)
 
 >  @Nivram92   I wasn't thrilled when I saw your post. Didn't know how to explain why. Looked at my main page on youtube and saw this vid - God saved me from myself by Gator 1111.  We can not save ourselves.We mess up.
 
@@ -2397,7 +2450,7 @@ Before I surrendered to Jesus, I was doing things that would make me feel love. 
 
 ---
 
-### 22. @zemoamelie (518 chars)
+### 23. @zemoamelie (518 chars)
 
 > @solidxrevolution, I'm truly touched 🙏🏾🙏🏾
 Thank you for the deep revelation concerning the plan of GOD for us. HE first loved us and His plans are perfect even if we cannot understand all, even if we pass through fire and storms. Faith is to trust GOD and continue to believe in the fulfilment of His promises beyond the trials. Never give up : the place where GOD sets us is really where we need to be, in order to be healed and also be a blessing for other people 🙏🏾🙏🏾🙏🏾💖
@@ -2407,7 +2460,7 @@ May Almighty GOD bless you abundantly 🙏🏾🙏🏾🙏🏾
 
 ---
 
-### 23. @nygelmiller5293 (498 chars)
+### 24. @nygelmiller5293 (498 chars)
 
 > To Leanne Andrews. Sorry to hear you and your son are going on different paths. A very old lady at the Salvation Army told everybody that some one said to her - "Sorry To Hear You Lost Your Husband"
 The old lady told everyone that she HADN'T "lost " her husband - she knew "exactly where he was!"
@@ -2418,19 +2471,11 @@ I study people's reports of near death experiences - and people claim they get t
 
 ---
 
-### 24. @jogibson5725 (496 chars)
+### 25. @jogibson5725 (496 chars)
 
 > I'm so very sorry to read this. I hope you have or one day soon give grace & have faith that a man who can live like this on solid ground can love like this on the other side. Anyone who truly loves would only want love joy & happiness for their beloved left here on earth. Earth sadly is just for the living after here we learn our soul's cores & minds are so much more than we'd ever thought. Love hard because they make such beautiful stories ❤️ your loved would only want more love for you. ❤
 
 👍 0 · 7 months ago
-
----
-
-### 25. @austinwebb7812 (487 chars)
-
-> Heard this song in lockup from another inmate singing it sounded like pure gold I haven’t quit listening since being out I need all the prayers I can get to fight my case I never been in any trouble and ended up with a friend who was a addict and sure enough I ended up with some charges I shouldn’t have but all I can do now is fight my case and continue seeking god as I was b4 the devil intervened he’s fighting me hard because he knows the lust I have for the lord and doing his work
-
-👍 0 · 4 months ago
 
 ---
 
@@ -3339,7 +3384,15 @@ Sou alguém que você nunca conheceu?
 
 ---
 
-### 8. @fenimairani5781 (968 chars)
+### 8. @miss.happens (1008 chars)
+
+> :face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::text-green-game-over::text-green-game-over::text-green-game-over::text-green-game-over::text-green-game-over::text-green-game-over::text-green-game-over::text-green-game-over::text-green-game-over::text-green-game-over::text-green-game-over::text-green-game-over::eyes-purple-crying::eyes-purple-crying::eyes-purple-crying::eyes-purple-crying::eyes-purple-crying::eyes-purple-crying::eyes-purple-crying::eyes-purple-crying::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::face-blue-wide-eyes::goodvibes:
+
+👍 0 · 4 weeks ago
+
+---
+
+### 9. @fenimairani5781 (968 chars)
 
 > Touch my body tender
 'Cause the feeling makes me weak
@@ -3375,7 +3428,7 @@ I'm someone you've never met (yeah)
 
 ---
 
-### 9. @Dipto05 (949 chars)
+### 10. @Dipto05 (949 chars)
 
 > Touch my body tender
 'Cause the feeling makes me weak
@@ -3419,7 +3472,7 @@ Oh yeah
 
 ---
 
-### 10. @hunterblaze1509 (942 chars)
+### 11. @hunterblaze1509 (942 chars)
 
 > Touch my body tender
 'Cause the feeling makes me weak
@@ -3456,7 +3509,7 @@ Oh yeah
 
 ---
 
-### 11. @raruh4845 (942 chars)
+### 12. @raruh4845 (942 chars)
 
 > Touch my body tender
 'Cause the feeling makes me weak
@@ -3493,7 +3546,7 @@ Oh yeah
 
 ---
 
-### 12. @vitechek1892 (942 chars)
+### 13. @vitechek1892 (942 chars)
 
 > Touch my body tender
 'Cause the feeling makes me weak
@@ -3530,7 +3583,7 @@ Oh yeah
 
 ---
 
-### 13. @dnd97523 (942 chars)
+### 14. @dnd97523 (942 chars)
 
 > Touch my body tender
 'Cause the feeling makes me weak
@@ -3567,7 +3620,7 @@ Oh yeah
 
 ---
 
-### 14. @chengming7 (942 chars)
+### 15. @chengming7 (942 chars)
 
 > Touch my body tender
 'Cause the feeling makes me weak
@@ -3604,7 +3657,7 @@ Oh yeah
 
 ---
 
-### 15. @Daviduseche2 (915 chars)
+### 16. @Daviduseche2 (915 chars)
 
 > Because the song has elements of "Somebody Else" (The 1975) in the first melodic line in the voice, a similar guitar riff to Adele`s "Water under the bridge", a Production style similar to DreamPop / Shoegaze bands like Slowdive or Cocteau Twins (in their "Heaven or Las Vegas" era) or even The Cure in their early noughties. And, this song comes after the "revival" of this genre in the last ten years with bands like The 1975, the return of Slowdive, Cigarettes after Sex, Circa Waves... On top of that, the genre is caracterized by musical elements like heavy use of Reverb and eerie distorsion, long notes in certain instruments like Pads or strings giving an ethereal feeling to the production and the use of melancholic or despair-driven lyrics sing with sort of a "tiresome" stylistic  vibe to the vocals to create a character of helplessness... But wait! You were making a rhetorical question, right? Hahaha
 
@@ -3612,7 +3665,7 @@ Oh yeah
 
 ---
 
-### 16. @Lewattengahmalamchannel (895 chars)
+### 17. @Lewattengahmalamchannel (895 chars)
 
 > And during exam season, we sat next to each other. He was a cheerful and extroverted person, always finishing the tests quickly, and in between, he would tell me stories about his daily life. One sentence he said has stayed with me for years he told me that even though I was quiet, he knew that whenever he talked, I always listened and responded in my own way. He also said I was a kind person, someone who gave him space to share everything on his mind.
 
@@ -3624,7 +3677,7 @@ And I guess that’s fair. There's no way he’d remember someone like me someon
 
 ---
 
-### 17. @EchoVerseRaconteur (776 chars)
+### 18. @EchoVerseRaconteur (776 chars)
 
 > This comment stings bc I'm a heteroromantic ace and can only have romantic relationships. I dated my ex for two years (before I was dumped eventually). 
 
@@ -3638,7 +3691,7 @@ As much as she's to be blamed, I feel it was my fault being this gullible as wel
 
 ---
 
-### 18. @newstepper-v3v (679 chars)
+### 19. @newstepper-v3v (679 chars)
 
 > SOMBR PLEASE READ.
 
@@ -3648,7 +3701,7 @@ you need to watch what you say around everybody around you I get that you're you
 
 ---
 
-### 19. @HazrilMaulana-t5n (653 chars)
+### 20. @HazrilMaulana-t5n (653 chars)
 
 > ​ @misteriod.sinistro  hhh, kau benar aku tidak bisa berbahasa Inggris😅.... 
 -Tapi aku senang kau mencurahkan isi hatimu:) 
@@ -3667,7 +3720,7 @@ Pesan dari ku: Tetap semangat dan jangan menyerah wahai temanku 😁💪
 
 ---
 
-### 20. @IntrovertedMillenialVirgo1988 (623 chars)
+### 21. @IntrovertedMillenialVirgo1988 (623 chars)
 
 > I thought the same thing ... 😂😅 Every time I'm watching MTV Classic on cable and it comes on as an ad, I could have sworn it was a song from my adult youth years (early 2010s). I think it kinda sounds like and reminds me of Sweater Weather + Pumped up Kicks & that's probably why. Like somebody else said, a lot of today's youth has nostalgia when making music. They love to incorporate sounds from prior decades and I completely understand why and appreciate it, as an old-school lover ! Bruno Mars has done this a lot and he's from my generation. This "Sombr" singer is a handsome young guy with a nice sound and voice. 🎶
 
@@ -3675,7 +3728,7 @@ Pesan dari ku: Tetap semangat dan jangan menyerah wahai temanku 😁💪
 
 ---
 
-### 21. @Im-random-t1r (596 chars)
+### 22. @Im-random-t1r (596 chars)
 
 > When I got over a break up with my gf of 3 years, I felt exactly like this. The feeling of how a song could relate to a person, hell even other groups of people, and it hurts to see that she’ll never look at you the way she used too. The way she used to make you feel comfortable, the way she made you feel safe, the warmth of her hugs and the way she used to laugh, it’s all gone, but this song reminds me of the times I loved her. Even though I might cry about it, I’ll also feel good about it. Thank you for making a song that has changed my perspective on what my life was during those times.
 
@@ -3683,7 +3736,7 @@ Pesan dari ku: Tetap semangat dan jangan menyerah wahai temanku 😁💪
 
 ---
 
-### 22. @Daisygirll-g6e (556 chars)
+### 23. @Daisygirll-g6e (556 chars)
 
 > God bless you turn to Jesus Christ he will turn your life for the better I promise Jesus died for you thats how much he loves you. Jesus is the only way to heaven. Jesus will always be With you I promise. Put God first. Jesus can help You through anything I promise. No one can help You like he can. He will hear ALL of your prayers I promise. Don't be ashamed of him.❤️❤️❤️
 Be nice to everyone even ur enemies and forgive everyone 77 times
@@ -3695,7 +3748,7 @@ I will not leave you until I have done what I have promise you😊
 
 ---
 
-### 23. @Kimmy_95 (551 chars)
+### 24. @Kimmy_95 (551 chars)
 
 > ​ @bratzsuperiorentertainment6186 This is EXACTLY how I think, well only within the last 2 years...... As you said, a gamble. No better description of life......I remember  discussion, that having the most nobel/ honest intentions/ being loyal (even beyond romantic relationships), does not mean you'll get the same in return.....Only guarantee in this world is, as they say, death & taxes.....Doesn't mean one should be or remain pessimistic but discernment/ gut instinct is also key in most situations. NEVER drop your guard, even in the good times.
 
@@ -3703,19 +3756,11 @@ I will not leave you until I have done what I have promise you😊
 
 ---
 
-### 24. @suzeclark4860 (519 chars)
+### 25. @suzeclark4860 (519 chars)
 
 > It's wild how a song can take you right back to a place in time and stop you cold. I'm back in May 2006 when I had my heart shattered. He treated me like I was dog shit  on the bottom of his shoe after 6 years. Just like that, we were over. He flipped his feelings off like a light switch.....and I  still wonder how he was capable of that. And how he could sleep at night. This song reminds me of that time in my life. I wouldn't take a million dollars to go back to that heartbreaking summer. Obsessed with this song!
 
 👍 15 · 5 months ago (edited)
-
----
-
-### 25. @BadGirlBex (514 chars)
-
-> I'm now kinda worried about the French people I do break bread with...although, now I think about it, I'm not French, I can't go back to being French. This makes no sense! How dare you put this nonsensical earworm into my brain where it will forever stay and remind me of baguettes. French people are always happy to share their bread with you....they just tend to be a little more cagey when it comes to telling you who their own particular vendor is. They're really weird and particular about THAT kind of thing.
-
-👍 1 · 7 months ago
 
 ---
 
@@ -7701,7 +7746,77 @@ I know you didn’t mean to hurt me, so I kept it to myself
 
 ---
 
-### 3. @balig7381 (1513 chars)
+### 3. @xthemiaxx (1523 chars)
+
+> LYRIC:
+
+[Verse 1]
+Things fall apart
+And time breaks your heart
+I wasn't there but I know
+She was your girl
+You showed her the world
+You fell out of love and you both let go
+
+[Pre-Chorus]
+She was cryin’ in my shoulder
+All I could do was hold her
+Only made us closer
+Until she lied
+And I know that you love me
+You don't need to remind me
+I should put it all behind me
+Shouldn't I?
+
+[Chorus]
+But I see her in the back of my mind
+All the time
+Like a fever
+Like I’m burnin' alive by her side
+Did I cross the line? Mm
+Mm
+
+[Verse 2]
+Well, good things don't last (Good things don't last)
+And life moves so fast (Life moves so fast)
+I'd never ask who was better
+'Cause she couldn't be
+More different from me
+Happy and free in leather
+
+[Pre-Chorus]
+And I know that you love me (You love me)
+You don't need to remind me (Remind me)
+Put it all behind me
+But, baby
+
+[Chorus]
+I see her in the back of my mind (Back of my mind)
+All the time (All the time)
+Feels like a fever (Like a fever)
+Like I’m burnin’ alive (Burnin' alive) by her side
+Did I cross the line? (Cross the line), oh
+
+[Post-Chorus]
+You say no one knows you so well
+But every time you touch me, I just wonder I should feel
+Valentines Day cryin’ in the hotel
+I know you didn't mean to hurt me, so I kept it to myself
+
+[Outro]
+And I wonder
+Do you see her in the back of your mind?
+In my eyes
+You say no one knows you so well
+But every time you touch me, I just wonder I should feel
+Valentines Day cryin' in the hotel
+I know you didn't mean to hurt me, so I kept it to myself
+
+👍 90 · 1 year ago
+
+---
+
+### 4. @balig7381 (1513 chars)
 
 > [Verse 1]
 Things fall apart
@@ -7769,7 +7884,7 @@ I know you didn't mean to hurt me, so I kept it to myself
 
 ---
 
-### 4. @cady_audrey (821 chars)
+### 5. @cady_audrey (821 chars)
 
 > btw i just want to say she deserved the grammy and if your so mad that she got it then why are you listening to this song. like go get a dam life already and stop wasting it on hating on people. honestly it’s just an opinion and if you don’t like she won then cry yourself a river build a dam bridge and get over it already. she literally deserves this so much and is such a talented singer. so please stop hating it’s literally so pointless. like why come all the way to this song just to say it’s stupid. nobody cares about what you’re saying like omllll it’s a song. a good one too. now if you’re gonna hate on this song just realize how immature you look and sound. okay? and if you wanna hate on me for standing up for her then go ahead you’re just wasting your time. love you billie you truly deserved the grammy.❤🥰
 
@@ -7777,7 +7892,7 @@ I know you didn't mean to hurt me, so I kept it to myself
 
 ---
 
-### 5. @annabellemontes5822 (731 chars)
+### 6. @annabellemontes5822 (731 chars)
 
 > 🤗Hello. I'm sharing the gospel in various places  God created us in His image so that we might know Him and glorify Him. However, we have all sinned and fallen short of God's glory, The Bible says For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord. And so in Gods great love, God sent His Son, Jesus Christ, who lived a sinless life, died on the cross for our sins, and rose again from the dead. Everyone who repents of their sins and believes in Jesus as their Savior and Lord will be forgiven, reconciled to God, and receive the free gift of eternal life. Have a wonderful day remember that Eternal life is Gods Gift Not a Reward that you work for but his Gift That we don't Deserve😊
 
@@ -7785,7 +7900,7 @@ I know you didn't mean to hurt me, so I kept it to myself
 
 ---
 
-### 6. @N1tR0W1 (650 chars)
+### 7. @N1tR0W1 (650 chars)
 
 > When this song came out, I couldn’t relate to it. I liked the way it sounded and how somber it was, but I couldn’t relate to the lyrics. Fast forward to the present and I relate to every single word. I broke up with her and I didn’t process what I lost and how much I missed her until now. I’ve never felt so broken and I don’t think I could ever find someone who’d love me as much as she did. I wish I could just go back in time and stay together, but I’m stuck rewatching memories and looking at old photos. I’m happy that she’s found someone else who can make her happy, share memories, and possibly grow old together. I just wish it was me. - Mop
 
@@ -7793,7 +7908,7 @@ I know you didn't mean to hurt me, so I kept it to myself
 
 ---
 
-### 7. @Meghannnnnnnnnnnnnnnnnnnnnn (596 chars)
+### 8. @Meghannnnnnnnnnnnnnnnnnnnnn (596 chars)
 
 > For ppl that want to know what this songs abt: Billie’s  friend got with a guy, and  broke up. Billie was there for her when she was most vulnerable. Then in July she got with him and their friendship broke apart and that’s why she says “ but I see her in the back of my mind all the time” and “ did I cross the line” showing that she regretted it. And the name of the song is because that friend owns a company named wildflower.
 
@@ -7804,7 +7919,7 @@ I’m glad she’s admitting that she did it and she was wrong for it. No hate o
 
 ---
 
-### 8. @CeciliaGipson-o5f (584 chars)
+### 9. @CeciliaGipson-o5f (584 chars)
 
 > Thank you I have been going through a lot of drama that my friends have made and my friends have been cussing me out saying I can go to hell and she I am not going to say her name literally cheated on the guy I liked and so basically I told her I liked this guy and she got tg with him and she has done this with multiple guys that she flirts with and a of course it’s my fault so I am very done with this girl and I hope she is getting better Becuase she was very angry that I blocked her and well most of our friend group took her side so please pray for me sorry this was very long
 
@@ -7812,7 +7927,7 @@ I’m glad she’s admitting that she did it and she was wrong for it. No hate o
 
 ---
 
-### 9. @Nicholexxwz-o4w (567 chars)
+### 10. @Nicholexxwz-o4w (567 chars)
 
 > "no ones illegal on stolen land" as she sits in her mansion over 1 million dollars with a whole border of her own gaurding her knowing that if someone came onto her so called propertie that she would rely on law enforcement to trespass them. ICE is needed but the way their handling the people is not, these people that come to the USA illegally caust everyone who  isn't forchanate enough to have a 1 million dollar mansion to have to pay more money not to mention that their dangerous. celebraties should stay out of politics because they dont know the big picture.
 
@@ -7820,7 +7935,7 @@ I’m glad she’s admitting that she did it and she was wrong for it. No hate o
 
 ---
 
-### 10. @ليننسنم (484 chars)
+### 11. @ليننسنم (484 chars)
 
 > I love that song; it reminds me of my past life, how I lost my friend because of my own mistake. I know I was wrong, but I went back to her and apologized. She was just pretending and saying she loved me, but she was hurting me. I really love her. Is this my fault, or someone else's? Can I ever forgive myself? I used to talk to her on TikTok and promised to meet up, but everything was ruined. I hope she reads my message. I want to tell her I love her so, so much. I'm truly sorry.
 
@@ -7828,7 +7943,7 @@ I’m glad she’s admitting that she did it and she was wrong for it. No hate o
 
 ---
 
-### 11. @WorshipDonald (450 chars)
+### 12. @WorshipDonald (450 chars)
 
 > The song maybe because simple, but it touched me 🥹🥹
 I can feel the intentionality, energy and talent in this song 
@@ -7847,7 +7962,7 @@ Humm Girl Code
 
 ---
 
-### 12. @daystarfiasco4878 (439 chars)
+### 13. @daystarfiasco4878 (439 chars)
 
 > To whoever happens to be reading this may the weight you carry whether named or unspoken slowly loosen its grip on your heart. May the worries that circle your mind find rest, and may time, understanding, and quiet strength reshape your pain into wisdom. Whatever is breaking you now is not the end of your story. Healing does not always arrive loudly, but it comes often gently, often unseen and I hope it finds you when you need it most.
 
@@ -7855,7 +7970,7 @@ Humm Girl Code
 
 ---
 
-### 13. @fIowergirI (419 chars)
+### 14. @fIowergirI (419 chars)
 
 > 1:05 but I see her, in the back of my mind, all the time
 
@@ -7891,7 +8006,7 @@ Humm Girl Code
 
 ---
 
-### 14. @k-popVids-654 (416 chars)
+### 15. @k-popVids-654 (416 chars)
 
 > Everyone I hope you guys the best for you. You deserve a lot I hope all the pain and stress goes away. I hope you guys the best and happy new year!!! This year doesn’t feel special I miss 2024 but also my grandpa died that year which ever since I change. You may lose your favorite person but not everyone is gonna live forever. YOU ARE REALLY SPECIAL DONT LISTEN TO WANT SOMEONE ELSE SAY HOPE YOU GUYS THE BEST BYE❤
 
@@ -7899,7 +8014,7 @@ Humm Girl Code
 
 ---
 
-### 15. @efionayijane6252 (394 chars)
+### 16. @efionayijane6252 (394 chars)
 
 > "The most heartbreaking part of 'WILDFLOWER' isn't just the lost relationship; it’s the realization that some people stay in our lives long after they've left. It’s that 'fever' of seeing someone else’s reflection in the eyes of the person you love. It’s a reminder that love doesn't exist in a vacuum—we carry the ghosts of who we used to be and who we used to love into every new beginning."😢
 
@@ -7907,7 +8022,7 @@ Humm Girl Code
 
 ---
 
-### 16. @bluberriie (388 chars)
+### 17. @bluberriie (388 chars)
 
 > I know this is about a friendship breakup, but this song feels like I'm looking at my younger self and regretting almost everything I've done/let happen to me. Like she's so angry with me that we ended up like this, and I'm trying my hardest to pick up those jagged pieces that's left of my heart to fix it, but she doesn't want it at all because her heart was whole at one point in time.
 
@@ -7915,7 +8030,7 @@ Humm Girl Code
 
 ---
 
-### 17. @OrangesodaTR (374 chars)
+### 18. @OrangesodaTR (374 chars)
 
 > This sounds like a demo track recorded on an iPhone in a closet. In terms of the song itself, if it were written and recorded by a 14 y/o in their room I'd give it a solid 8/10. For an established artist with all the resources in the world, it's getting a 4. The training wheels are off Billie. You could throw a dart at any random thing on soundcloud and find a better song
 
@@ -7923,7 +8038,7 @@ Humm Girl Code
 
 ---
 
-### 18. @NkosiRadebe05 (366 chars)
+### 19. @NkosiRadebe05 (366 chars)
 
 > ​ @xthefordx Cowboy Carter is musically historical & innovative beyond any genre and is a complete thesis statement for how art is suppose to create movements like how western attire was the theme of 2024 and 2025 because of Beyoncé. Hit Me Hard and Soft on the other hand is a great composition of songwriting and young adulthood romance but it isn't revolutionary.
 
@@ -7931,7 +8046,7 @@ Humm Girl Code
 
 ---
 
-### 19. @Fanitzy12345 (365 chars)
+### 20. @Fanitzy12345 (365 chars)
 
 > Her voice is very calm and when she sings I feel it because of the many feelings she sings with. I felt the feelings. I don’t know how to explain, but her voice is one of the most beautiful voices I have ever heard in my life. I won’t lie. I was watching YouTube and by chance the song came up and it was the best coincidence in my life. It became my favorite song.
 
@@ -7939,7 +8054,7 @@ Humm Girl Code
 
 ---
 
-### 20. @Ministarzzzzz (363 chars)
+### 21. @Ministarzzzzz (363 chars)
 
 > My best friend who was 15 died and she's the whole reason why I listen to Billie now, she was a huge fan of her music and would listen to it almost every day. She was tragically hit by a car towards the end of September in 2024. She died October 14th, 2024. I still miss her so much and it's almost a year without her. Fly high Mercedes, I love you so so much. 💜💜
 
@@ -7947,7 +8062,7 @@ Humm Girl Code
 
 ---
 
-### 21. @tztztzis (362 chars)
+### 22. @tztztzis (362 chars)
 
 > can I love her
 without wanting her?
@@ -7966,7 +8081,7 @@ I'm over it now but I still think she is pretty and nice so it was prob platonic
 
 ---
 
-### 22. @PatRick-rm6dh (360 chars)
+### 23. @PatRick-rm6dh (360 chars)
 
 > I got a membership's card of that club too. Ten years past the betrayal I still have to push the demons back in to the closet in the back of my mind. Knowing too little but just enough is wearing me down. And being single ever since, there is no one to pull the knife out of in between my shoulder blades. It's there as a weird physical itch and a mental scar.
 
@@ -7974,7 +8089,7 @@ I'm over it now but I still think she is pretty and nice so it was prob platonic
 
 ---
 
-### 23. @hritiksharma3341 (356 chars)
+### 24. @hritiksharma3341 (356 chars)
 
 > Yesterday my bestie lost her fiancé they were about to get married in June.
 But 60days before the marriage the guy got cancer that too stage 3/4 lymphoma. 
@@ -7986,7 +8101,7 @@ This song is on loop and reminding me of her and her helplessness😢
 
 ---
 
-### 24. @ΕυκαρπίαΣτρατουδάκη (338 chars)
+### 25. @ΕυκαρπίαΣτρατουδάκη (338 chars)
 
 > So sorry 😢
 I want you to know that you're still loved !
@@ -7997,14 +8112,6 @@ Even if the one still loving you is a complete stranger to you for that person y
 And still the rest of your family and friends are with you!
 
 👍 3 · 2 weeks ago (edited)
-
----
-
-### 25. @Arianna-2313 (332 chars)
-
-> BILLIE JUST WON HER GRAMMY🥹🥹, SHE DESERVES IT SOO MUCH AND THE WAY SHE SPEAKS UP JUST LIKE BAD BUNNY DID AND IM REALLY HAPPY SHE WON BECAUSE THE WAY SHE TREATS HER FANS AND TALKS ABOUT TEENS/ ADOLESCENTS/KIDS SHE UNDERSTANDS US AND SHOWS HOW SHE UNDERSTANDS US WITH HER MUSIC AND HER WORDS LIEK SHE LITERALLY DESERVED THAT AND MORE🤍
-
-👍 55 · 9 days ago
 
 ---
 
@@ -8716,7 +8823,7 @@ Mi diabla, mi ángel, mi loquita, eh-eh
 
 ---
 
-### 2. @rosaisela6359 (2045 chars)
+### 2. @hecateelixir1924 (2045 chars)
 
 > Pensaba que contigo iba a envejecer
 En otra vida, en otro mundo podrá ser
@@ -8788,79 +8895,7 @@ Mi diabla, mi ángel, mi loquita, eh-eh
 
 ---
 
-### 3. @hecateelixir1924 (2045 chars)
-
-> Pensaba que contigo iba a envejecer
-En otra vida, en otro mundo podrá ser
-En esta solo queda irme un día
-Y solamente verte en el atardecer
-Si me ven solo y triste, no me hablen
-Si me ven solo y triste, soy culpable
-La vida es una fiesta que un día termina
-Y fuiste tú mi baile inolvidable
-Y fuiste tú mi baile inolvidable
-Eh-eh, eh-eh, eh-eh, eh-eh
-Mientras uno está vivo
-Uno debe amar lo más que pueda
-Pensaba que contigo iba a envejecer
-En otra vida, en otro mundo podrá ser
-En esta solo queda irme un día
-Y ver pa'l cielo a ver si te veo caer
-Si me ven solo y triste, no me hablen
-Si me ven solo y triste, soy culpable
-La vida es una fiesta que un día termina
-Y fuiste tú mi baile inolvidable
-No, no te puedo olvidar
-No, no te puedo borrar
-Tú me enseñaste a querer
-Me enseñaste a bailar
-No, no te puedo olvidar
-No, no te puedo borrar
-Tú me enseñaste a querer
-Me enseñaste a bailar (yeh, yeh, yeh, yeh)
-Ey, dime cómo le hago pa olvidarte
-Hay un paso nuevo que quiero enseñarte
-En las noches ya ni puedo dormir
-Lo que hago es soñarte
-No, no te puedo olvidar
-No, no te puedo borrar
-Tú me enseñaste a querer
-Me enseñaste a bailar
-Como tú me besabas, como yo te lo hacía
-Como tú me mirabas, bellaquito me ponía
-Se siente feo no tenerte cerquita
-La nueva mama bien, pero no es tu boquita
-Mi diabla, mi ángel, mi loquita
-Mi diabla, mi ángel, mi loquita, ey
-Esto suena cabrón
-Vamos a hacerlo otra vez
-Como anoche, como anoche
-Aprieta, chamaquito, aprieta
-¡Ahí, ahí, ahí, vamo allá!
-No, no te puedo olvidar
-No, no te puedo borrar
-Tú me enseñaste a querer
-Me enseñaste a bailar
-Ay, yo con cualquiera me puedo acostar
-Pero no con cualquiera quiero despertar
-Solo con usted, con usted
-Yo bailo con usted, nada más con usted
-Un beso donde estés, donde estés, bebé (no, no te puedo olvidar)
-No, no te puedo borrar
-Tú me enseñaste a querer
-Me enseñaste a bailar
-Y yo he tenido muchas novias
-Pero como tú ninguna
-Ya no tengo mi sol, me paso en la luna
-Si te pienso, me tiro de una, eh-eh
-Mi diabla, mi ángel, mi loquita
-Mi diabla, mi ángel, mi loquita, eh-eh
-
-👍 1 · 1 day ago
-
----
-
-### 4. @EduardoDanielPargaRojas (2045 chars)
+### 3. @EduardoDanielPargaRojas (2045 chars)
 
 > Pensaba que contigo iba a envejecer
 En otra vida, en otro mundo podrá ser
@@ -8929,6 +8964,78 @@ Mi diabla, mi ángel, mi loquita
 Mi diabla, mi ángel, mi loquita, eh-eh
 
 👍 0 · 17 hours ago
+
+---
+
+### 4. @rosaisela6359 (2045 chars)
+
+> Pensaba que contigo iba a envejecer
+En otra vida, en otro mundo podrá ser
+En esta solo queda irme un día
+Y solamente verte en el atardecer
+Si me ven solo y triste, no me hablen
+Si me ven solo y triste, soy culpable
+La vida es una fiesta que un día termina
+Y fuiste tú mi baile inolvidable
+Y fuiste tú mi baile inolvidable
+Eh-eh, eh-eh, eh-eh, eh-eh
+Mientras uno está vivo
+Uno debe amar lo más que pueda
+Pensaba que contigo iba a envejecer
+En otra vida, en otro mundo podrá ser
+En esta solo queda irme un día
+Y ver pa'l cielo a ver si te veo caer
+Si me ven solo y triste, no me hablen
+Si me ven solo y triste, soy culpable
+La vida es una fiesta que un día termina
+Y fuiste tú mi baile inolvidable
+No, no te puedo olvidar
+No, no te puedo borrar
+Tú me enseñaste a querer
+Me enseñaste a bailar
+No, no te puedo olvidar
+No, no te puedo borrar
+Tú me enseñaste a querer
+Me enseñaste a bailar (yeh, yeh, yeh, yeh)
+Ey, dime cómo le hago pa olvidarte
+Hay un paso nuevo que quiero enseñarte
+En las noches ya ni puedo dormir
+Lo que hago es soñarte
+No, no te puedo olvidar
+No, no te puedo borrar
+Tú me enseñaste a querer
+Me enseñaste a bailar
+Como tú me besabas, como yo te lo hacía
+Como tú me mirabas, bellaquito me ponía
+Se siente feo no tenerte cerquita
+La nueva mama bien, pero no es tu boquita
+Mi diabla, mi ángel, mi loquita
+Mi diabla, mi ángel, mi loquita, ey
+Esto suena cabrón
+Vamos a hacerlo otra vez
+Como anoche, como anoche
+Aprieta, chamaquito, aprieta
+¡Ahí, ahí, ahí, vamo allá!
+No, no te puedo olvidar
+No, no te puedo borrar
+Tú me enseñaste a querer
+Me enseñaste a bailar
+Ay, yo con cualquiera me puedo acostar
+Pero no con cualquiera quiero despertar
+Solo con usted, con usted
+Yo bailo con usted, nada más con usted
+Un beso donde estés, donde estés, bebé (no, no te puedo olvidar)
+No, no te puedo borrar
+Tú me enseñaste a querer
+Me enseñaste a bailar
+Y yo he tenido muchas novias
+Pero como tú ninguna
+Ya no tengo mi sol, me paso en la luna
+Si te pienso, me tiro de una, eh-eh
+Mi diabla, mi ángel, mi loquita
+Mi diabla, mi ángel, mi loquita, eh-eh
+
+👍 1 · 1 day ago
 
 ---
 
@@ -9327,59 +9434,7 @@ These beautiful things that I've got
 
 ---
 
-### 6. @6luckzfataifamz (1191 chars)
-
-> For a while there, it was rough
-But lately, I've been doin' better
-Than the last four cold Decembers I recall
-And I see my family every month
-I found a girl my parents love
-She'll come and stay the night, and I think I might have it all
-And I thank God every day
-For the girl He sent my way
-But I know the things He gives me, He can take away
-And I hold you every night
-And that's a feeling I wanna get used to
-But there's no man as terrified as the man who stands to lose you
-
-Oh, I hope I don't lose you
-Mm, please stay
-I want you, I need you, oh God
-Don't take
-These beautiful things that I've got
-
-Please stay
-I want you, I need you, oh, God
-Don't take
-These beautiful things that I've got
-
-Oh, ooh
-Please don't take
-
-I found my mind, I'm feelin' sane
-It's been a while, but I'm finding my faith
-If everything's good and it's great, why do I sit and wait 'til it's gone?
-Oh, I'll tell ya, I know I've got enough
-I've got peace and I've got love
-But I'm up at night thinkin' I just might lose it all
-
-Please stay
-I want you, I need you, oh God
-Don't take
-These beautiful things that I've got
-
-Oh, ooh
-
-Please stay
-I want you, I need you, oh God
-I need
-These beautiful things that I've got
-
-👍 0 · 15 hours ago
-
----
-
-### 7. @cafung-ach.bustomizuhri3703 (1191 chars)
+### 6. @cafung-ach.bustomizuhri3703 (1191 chars)
 
 > For a while there, it was rough
 But lately, I've been doin' better
@@ -9438,6 +9493,58 @@ I need
 These beautiful things that I've got
 
 👍 0 · 3 days ago
+
+---
+
+### 7. @6luckzfataifamz (1191 chars)
+
+> For a while there, it was rough
+But lately, I've been doin' better
+Than the last four cold Decembers I recall
+And I see my family every month
+I found a girl my parents love
+She'll come and stay the night, and I think I might have it all
+And I thank God every day
+For the girl He sent my way
+But I know the things He gives me, He can take away
+And I hold you every night
+And that's a feeling I wanna get used to
+But there's no man as terrified as the man who stands to lose you
+
+Oh, I hope I don't lose you
+Mm, please stay
+I want you, I need you, oh God
+Don't take
+These beautiful things that I've got
+
+Please stay
+I want you, I need you, oh, God
+Don't take
+These beautiful things that I've got
+
+Oh, ooh
+Please don't take
+
+I found my mind, I'm feelin' sane
+It's been a while, but I'm finding my faith
+If everything's good and it's great, why do I sit and wait 'til it's gone?
+Oh, I'll tell ya, I know I've got enough
+I've got peace and I've got love
+But I'm up at night thinkin' I just might lose it all
+
+Please stay
+I want you, I need you, oh God
+Don't take
+These beautiful things that I've got
+
+Oh, ooh
+
+Please stay
+I want you, I need you, oh God
+I need
+These beautiful things that I've got
+
+👍 0 · 15 hours ago
 
 ---
 
@@ -9666,7 +9773,15 @@ Sincerely Gaz the Mongorian ❤️☺️
 
 ---
 
-### 19. @AlexLopez-vm7uq (658 chars)
+### 19. @UNJPlaylist (659 chars)
+
+> I'm so in love 💕 with this song!  My hubby and I been married for 23 years and going through tough times last Fall; and I went visit him at his house and we had made up s***; and when I was leaving to go back home to my house this song just popped up right on time I was driving further and further away from him and it felt like this song was sending me a message from him!  I couldn't believe it my ears!  I'm an 80s baby and I'm a Rock fan; and this Rock is Badass!!!  I Love this song and it was the first time I heard it Fall, last year!   I drove with a big smile on my face blasting it all the way home!  Thank You for your rock music I love this song!
+
+👍 0 · 5 days ago
+
+---
+
+### 20. @AlexLopez-vm7uq (658 chars)
 
 > I’m sorry for your loss 😢… I feel your pain.. my grandmother passed away 2 days ago unexpectedly as well.. this song grew on me and now it’s just sad to me 😩😭😞… I never got to say goodbye and visit herbecause the doctors said she was recovering and we all believed she was gonna make it.. then she went back into critical condition and they weren’t able to bring her back 😩😞.. I miss her so much now.. I’ve never been religious and this song just describes my situation as well.. but I can’t help but feel pain hearing it ☹️😢😩😭😭😭💔… it still doesn’t feel real 😢 but the pain very much does..
 
@@ -9676,7 +9791,7 @@ I hope you and your family are doing well  😢❤️‍🩹❤ my condolences �
 
 ---
 
-### 20. @timishere1925 (653 chars)
+### 21. @timishere1925 (653 chars)
 
 > If you don't make it, this isn't the end. I can't prove it to you, but I believe it to my core. We are eternal souls wrapped in a meat suit so that we can experience this world. Touch, taste, smell, etc. "You" never die. Just the body you're in right now dies. I pray you recover but like everything else in this world, we're taught the opposite of the truth. We're lied to from cradle to grave. We're taught to fear death. There's nothing to fear. You would just be continuing your journey. And you'll be aware of it the entire time. I really hope this brought you or anyone else going through something similar some comfort. It really will be alright.
 
@@ -9684,7 +9799,7 @@ I hope you and your family are doing well  😢❤️‍🩹❤ my condolences �
 
 ---
 
-### 21. @monbalano73 (650 chars)
+### 22. @monbalano73 (650 chars)
 
 > Beautiful things by Benson Boone
 This song reminds me of my wife. She passed away on May 16, 2025, because of cancer.
@@ -9698,7 +9813,7 @@ I wish it had been me instead of her. I know deep in my heart that our kids woul
 
 ---
 
-### 22. @alex7543 (649 chars)
+### 23. @alex7543 (649 chars)
 
 > hi, i’m a teenage girl who’s dad has failed me over and over again. you probably will never read this, but i’m just shouting to the void for my own sake. please treasure her, please protect her, please make sure she knows how much you love her and how perfect you think she is. please complement her, say how she’s pretty, beautiful, and lovely but also how she’s smart and confident and brave. you will get into arguments because that is inevitable, but never say things you can’t take back. and always make sure she knows she is fiercely loved by you. good luck on your journey. i wish you the best vibes and energy for you and your family. ❤️❤️❤️
 
@@ -9706,7 +9821,7 @@ I wish it had been me instead of her. I know deep in my heart that our kids woul
 
 ---
 
-### 23. @iammelloddee (641 chars)
+### 24. @iammelloddee (641 chars)
 
 > I heard this song when I was in the car with my husband, after a doctor’s visit and we learned that i have papillary thyroid carcinoma. They said it is the “good” cancer but we dont know what the future this disease might bring. Im still grateful I have my wonderful husband and son with me, I still got a roof over my head, food on the table, energy to still work. I may not have all the material wealth in this world, but I am happy and my heart is full ❤ Im not happy with the cancer, but it made me realize I have everything I need. I pray that God wont take away all the beautiful things that I got. Thank you for this heartfelt song. ❤
 
@@ -9714,7 +9829,7 @@ I wish it had been me instead of her. I know deep in my heart that our kids woul
 
 ---
 
-### 24. @kyledominic7187 (621 chars)
+### 25. @kyledominic7187 (621 chars)
 
 > I love how the song is like a beautiful, desperate cry to wish for the moments of bliss to last a little longer, knowing that nothing lasts forever. It's about appreciating what you finally have and how it feels so good it makes you scared of losing it all. I think that's what makes human life even more meaningful and delicate – knowing that everything can be taken away from you at any given time. So, if you're reading this, hug them tighter, spend time with them a little longer. The most beautiful things in life are felt in the most subtle ways, which most people tend to overlook. Don't miss the chances you have.
 
@@ -9722,18 +9837,169 @@ I wish it had been me instead of her. I know deep in my heart that our kids woul
 
 ---
 
-### 25. @tomneal1789 (610 chars)
-
-> Incredible voice, but let's be honest, the "American Idoling" of pop music has turned voices so generic.   Once upon a time, under the wide. umbrella of pop, you had voices as diverse as Price, Cyndi Lauper, Elton John, George Michael, Sting, Billy Idol, Janet Jackson, Madonna, Boy George, The Cure, the list goes on.  Raspy voices, gruff voices, singsongy voices, melancholy voices, exuberant voices...voices with imperfections and idiosyncrasies that  made them instantly recognizable and unique.  Nowadays, it feels as thought everyone goes to the same voice coach, unique voices are buried in anonymity...
-
-👍 0 · 1 hour ago
-
----
-
 ## 🎵 Espresso
 **Artists:** Sabrina Carpenter
 
-### 1. @Giyuu6754 (3423 chars)
+### 1. @Giyuu6754 (5008 chars)
+
+> Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espressoI can't relate to desperation
+My 'give a fucks' are on vacation
+And I got this one boy
+And he won't stop calling
+When they act this way
+I know I got 'em
+Too bad your ex don't do it for ya
+Walked in and dream came trued it for ya
+Soft skin and I perfumed it for ya
+I know I Mountain Dew it for ya
+That morning coffee, brewed it for ya
+One touch and I brand newed it for ya
+Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+Is it that sweet? I guess so
+I'm working late 'cause I'm a singer
+Oh, he looks so cute wrapped around my finger
+My twisted humor, make him laugh so often
+My honey bee, come and get this pollen
+Too bad your ex don't do it for ya
+Walked in and dream came trued it for ya
+Soft skin and I perfumed it for ya
+I know I Mountain Dew it for ya
+That morning coffee, brewed it for ya
+One touch and I brand newed it for ya
+Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+He's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+Is it that sweet? I guess so
+That's that me, espressoI can't relate to desperation
+My 'give a fucks' are on vacation
+And I got this one boy
+And he won't stop calling
+When they act this way
+I know I got 'em
+Too bad your ex don't do it for ya
+Walked in and dream came trued it for ya
+Soft skin and I perfumed it for ya
+I know I Mountain Dew it for ya
+That morning coffee, brewed it for ya
+One touch and I brand newed it for ya
+Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+Is it that sweet? I guess so
+I'm working late 'cause I'm a singer
+Oh, he looks so cute wrapped around my finger
+My twisted humor, make him laugh so often
+My honey bee, come and get this pollen
+Too bad your ex don't do it for ya
+Walked in and dream came trued it for ya
+Soft skin and I perfumed it for ya
+I know I Mountain Dew it for ya
+That morning coffee, brewed it for ya
+One touch and I brand newed it for ya
+Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+He's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+Is it that sweet? I guess so
+That's that me, espressoI can't relate to desperation
+My 'give a fucks' are on vacation
+And I got this one boy
+And he won't stop calling
+When they act this way
+I know I got 'em
+Too bad your ex don't do it for ya
+Walked in and dream came trued it for ya
+Soft skin and I perfumed it for ya
+I know I Mountain Dew it for ya
+That morning coffee, brewed it for ya
+One touch and I brand newed it for ya
+Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+Is it that sweet? I guess so
+I'm working late 'cause I'm a singer
+Oh, he looks so cute wrapped around my finger
+My twisted humor, make him laugh so often
+My honey bee, come and get this pollen
+Too bad your ex don't do it for ya
+Walked in and dream came trued it for ya
+Soft skin and I perfumed it for ya
+I know I Mountain Dew it for ya
+That morning coffee, brewed it for ya
+One touch and I brand newed it for ya
+Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+He's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+Is it that sweet? I guess so
+That's that me, espresso
+
+👍 0 · 1 year ago
+
+---
+
+### 2. @Giyuu6754 (3423 chars)
 
 > Now he's thinkin' 'bout me every night, oh
 Is it that sweet? I guess so
@@ -9845,117 +10111,6 @@ That's that me, espresso
 
 ---
 
-### 2. @Giyuu6754 (3422 chars)
-
-> Now he's thinkin' 'bout me every night, oh
-Is it that sweet? I guess so
-Say you can't sleep, baby, I know
-That's that me, espresso
-Move it up, down, left, right, oh
-Switch it up like Nintendo
-Say you can't sleep, baby, I know
-That's that me, espressoI can't relate to desperation
-My 'give a fucks' are on vacation
-And I got this one boy
-And he won't stop calling
-When they act this way
-I know I got 'em
-Too bad your ex don't do it for ya
-Walked in and dream came trued it for ya
-Soft skin and I perfumed it for ya
-I know I Mountain Dew it for ya
-That morning coffee, brewed it for ya
-One touch and I brand newed it for ya
-Now he's thinkin' 'bout me every night, oh
-Is it that sweet? I guess so
-Say you can't sleep, baby, I know
-That's that me, espresso
-Move it up, down, left, right, oh
-Switch it up like Nintendo
-Say you can't sleep, baby, I know
-That's that me, espresso
-Is it that sweet? I guess so
-I'm working late 'cause I'm a singer
-Oh, he looks so cute wrapped around my finger
-My twisted humor, make him laugh so often
-My honey bee, come and get this pollen
-Too bad your ex don't do it for ya
-Walked in and dream came trued it for ya
-Soft skin and I perfumed it for ya
-I know I Mountain Dew it for ya
-That morning coffee, brewed it for ya
-One touch and I brand newed it for ya
-Now he's thinkin' 'bout me every night, oh
-Is it that sweet? I guess so
-Say you can't sleep, baby, I know
-That's that me, espresso
-Move it up, down, left, right, oh
-Switch it up like Nintendo
-Say you can't sleep, baby, I know
-That's that me, espresso
-He's thinkin' 'bout me every night, oh
-Is it that sweet? I guess so
-Say you can't sleep, baby, I know
-That's that me, espresso
-Move it up, down, left, right, oh
-Switch it up like Nintendo
-Say you can't sleep, baby, I know
-That's that me, espresso
-Is it that sweet? I guess so
-That's that me, espressoI can't relate to desperation
-My 'give a fucks' are on vacation
-And I got this one boy
-And he won't stop calling
-When they act this way
-I know I got 'em
-Too bad your ex don't do it for ya
-Walked in and dream came trued it for ya
-Soft skin and I perfumed it for ya
-I know I Mountain Dew it for ya
-That morning coffee, brewed it for ya
-One touch and I brand newed it for ya
-Now he's thinkin' 'bout me every night, oh
-Is it that sweet? I guess so
-Say you can't sleep, baby, I know
-That's that me, espresso
-Move it up, down, left, right, oh
-Switch it up like Nintendo
-Say you can't sleep, baby, I know
-That's that me, espresso
-Is it that sweet? I guess so
-I'm working late 'cause I'm a singer
-Oh, he looks so cute wrapped around my finger
-My twisted humor, make him laugh so often
-My honey bee, come and get this pollen
-Too bad your ex don't do it for ya
-Walked in and dream came trued it for ya
-Soft skin and I perfumed it for ya
-I know I Mountain Dew it for ya
-That morning coffee, brewed it for ya
-One touch and I brand newed it for ya
-Now he's thinkin' 'bout me every night, oh
-Is it that sweet? I guess so
-Say you can't sleep, baby, I know
-That's that me, espresso
-Move it up, down, left, right, oh
-Switch it up like Nintendo
-Say you can't sleep, baby, I know
-That's that me, espresso
-He's thinkin' 'bout me every night, oh
-Is it that sweet? I guess so
-Say you can't sleep, baby, I know
-That's that me, espresso
-Move it up, down, left, right, oh
-Switch it up like Nintendo
-Say you can't sleep, baby, I know
-That's that me, espresso
-Is it that sweet? I guess so
-That's that me, espresso
-
-👍 4 · 1 year ago
-
----
-
 ### 3. @Giyuu6754 (3422 chars)
 
 > Now he's thinkin' 'bout me every night, oh
@@ -10063,7 +10218,7 @@ That's that me, espresso
 Is it that sweet? I guess so
 That's that me, espresso
 
-👍 0 · 1 year ago
+👍 4 · 1 year ago
 
 ---
 
@@ -10285,7 +10440,7 @@ That's that me, espresso
 Is it that sweet? I guess so
 That's that me, espresso
 
-👍 1 · 1 year ago
+👍 0 · 1 year ago
 
 ---
 
@@ -10507,7 +10662,7 @@ That's that me, espresso
 Is it that sweet? I guess so
 That's that me, espresso
 
-👍 0 · 1 year ago
+👍 1 · 1 year ago
 
 ---
 
@@ -10622,7 +10777,118 @@ That's that me, espresso
 
 ---
 
-### 9. @limits96 (2109 chars)
+### 9. @Giyuu6754 (3422 chars)
+
+> Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espressoI can't relate to desperation
+My 'give a fucks' are on vacation
+And I got this one boy
+And he won't stop calling
+When they act this way
+I know I got 'em
+Too bad your ex don't do it for ya
+Walked in and dream came trued it for ya
+Soft skin and I perfumed it for ya
+I know I Mountain Dew it for ya
+That morning coffee, brewed it for ya
+One touch and I brand newed it for ya
+Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+Is it that sweet? I guess so
+I'm working late 'cause I'm a singer
+Oh, he looks so cute wrapped around my finger
+My twisted humor, make him laugh so often
+My honey bee, come and get this pollen
+Too bad your ex don't do it for ya
+Walked in and dream came trued it for ya
+Soft skin and I perfumed it for ya
+I know I Mountain Dew it for ya
+That morning coffee, brewed it for ya
+One touch and I brand newed it for ya
+Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+He's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+Is it that sweet? I guess so
+That's that me, espressoI can't relate to desperation
+My 'give a fucks' are on vacation
+And I got this one boy
+And he won't stop calling
+When they act this way
+I know I got 'em
+Too bad your ex don't do it for ya
+Walked in and dream came trued it for ya
+Soft skin and I perfumed it for ya
+I know I Mountain Dew it for ya
+That morning coffee, brewed it for ya
+One touch and I brand newed it for ya
+Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+Is it that sweet? I guess so
+I'm working late 'cause I'm a singer
+Oh, he looks so cute wrapped around my finger
+My twisted humor, make him laugh so often
+My honey bee, come and get this pollen
+Too bad your ex don't do it for ya
+Walked in and dream came trued it for ya
+Soft skin and I perfumed it for ya
+I know I Mountain Dew it for ya
+That morning coffee, brewed it for ya
+One touch and I brand newed it for ya
+Now he's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+He's thinkin' 'bout me every night, oh
+Is it that sweet? I guess so
+Say you can't sleep, baby, I know
+That's that me, espresso
+Move it up, down, left, right, oh
+Switch it up like Nintendo
+Say you can't sleep, baby, I know
+That's that me, espresso
+Is it that sweet? I guess so
+That's that me, espresso
+
+👍 0 · 1 year ago
+
+---
+
+### 10. @limits96 (2109 chars)
 
 > Lyrics
 
@@ -10704,7 +10970,7 @@ Mm, that's that me espresso
 
 ---
 
-### 10. @Sudds-w5q (1844 chars)
+### 11. @Sudds-w5q (1844 chars)
 
 > Now he's thinkin' 'bout me every night, oh
 Is it that sweet? I guess so
@@ -10779,7 +11045,7 @@ Mmm, that's that me espresso
 
 ---
 
-### 11. @WhatName007 (1812 chars)
+### 12. @WhatName007 (1812 chars)
 
 > Now he's thinking about me every night oh 
 Is it that sweet? I guess so
@@ -10842,19 +11108,13 @@ that's that me, espressos
 
 ---
 
-### 12. @NEWSChannel10-s7y (959 chars)
+### 13. @raulcouchman2570 (1647 chars)
 
-> @NEWS Channel 10: ‼️The song “Espresso” that Sabrina Carpenter claims was invented by her was in its entirety stolen from another artist. Yes, you heard that right, every single word down to the chorus and lyrics to the idea of the video location and technique were not originally from any of the people mentioned to have created the song, including Sabrina Carpenter. Sabrina Carpenter stole this song and put it off as her own and gave no credit to the abused victim from whom she illegally took it from, earning her millions of dollars and fans and billions of views, meanwhile giving its original creator (a man) zero credit. This is evidence of a theft in the music industry. But more than that, it raises questions such as: If she steals numerous songs and passes them off as her own, how much of her fame and wealth is she really entitled to? And what is she and her team of fake artists doing to suppress the silent victims she is abusing and hurting?
+> Tap on a clip to paste it in the text box.Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.Use the edit icon to pin, add or delete clips.Tap on a clip to paste it in the text box.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here.Welcome to Gboard clipboard, any text that you copy will be saved here. 
 
-👍 0 · 4 months ago
+Longest comment🎉🎉
 
----
-
-### 13. @NEWSChannel10-s7y (959 chars)
-
-> @NEWS Channel 10: ‼️The song “Espresso” that Sabrina Carpenter claims was invented by her was in its entirety stolen from another artist. Yes, you heard that right, every single word down to the chorus and lyrics to the idea of the video location and technique were not originally from any of the people mentioned to have created the song, including Sabrina Carpenter. Sabrina Carpenter stole this song and put it off as her own and gave no credit to the abused victim from whom she illegally took it from, earning her millions of dollars and fans and billions of views, meanwhile giving its original creator (a man) zero credit. This is evidence of a theft in the music industry. But more than that, it raises questions such as: If she steals numerous songs and passes them off as her own, how much of her fame and wealth is she really entitled to? And what is she and her team of fake artists doing to suppress the silent victims she is abusing and hurting?
-
-👍 0 · 4 months ago
+👍 0 · 1 year ago
 
 ---
 
@@ -10926,7 +11186,7 @@ that's that me, espressos
 
 > @NEWS Channel 10: ‼️The song “Espresso” that Sabrina Carpenter claims was invented by her was in its entirety stolen from another artist. Yes, you heard that right, every single word down to the chorus and lyrics to the idea of the video location and technique were not originally from any of the people mentioned to have created the song, including Sabrina Carpenter. Sabrina Carpenter stole this song and put it off as her own and gave no credit to the abused victim from whom she illegally took it from, earning her millions of dollars and fans and billions of views, meanwhile giving its original creator (a man) zero credit. This is evidence of a theft in the music industry. But more than that, it raises questions such as: If she steals numerous songs and passes them off as her own, how much of her fame and wealth is she really entitled to? And what is she and her team of fake artists doing to suppress the silent victims she is abusing and hurting?
 
-👍 1 · 4 months ago
+👍 0 · 4 months ago
 
 ---
 
@@ -10934,7 +11194,7 @@ that's that me, espressos
 
 > @NEWS Channel 10: ‼️The song “Espresso” that Sabrina Carpenter claims was invented by her was in its entirety stolen from another artist. Yes, you heard that right, every single word down to the chorus and lyrics to the idea of the video location and technique were not originally from any of the people mentioned to have created the song, including Sabrina Carpenter. Sabrina Carpenter stole this song and put it off as her own and gave no credit to the abused victim from whom she illegally took it from, earning her millions of dollars and fans and billions of views, meanwhile giving its original creator (a man) zero credit. This is evidence of a theft in the music industry. But more than that, it raises questions such as: If she steals numerous songs and passes them off as her own, how much of her fame and wealth is she really entitled to? And what is she and her team of fake artists doing to suppress the silent victims she is abusing and hurting?
 
-👍 2 · 4 months ago
+👍 0 · 4 months ago
 
 ---
 
@@ -10950,7 +11210,7 @@ that's that me, espressos
 
 > @NEWS Channel 10: ‼️The song “Espresso” that Sabrina Carpenter claims was invented by her was in its entirety stolen from another artist. Yes, you heard that right, every single word down to the chorus and lyrics to the idea of the video location and technique were not originally from any of the people mentioned to have created the song, including Sabrina Carpenter. Sabrina Carpenter stole this song and put it off as her own and gave no credit to the abused victim from whom she illegally took it from, earning her millions of dollars and fans and billions of views, meanwhile giving its original creator (a man) zero credit. This is evidence of a theft in the music industry. But more than that, it raises questions such as: If she steals numerous songs and passes them off as her own, how much of her fame and wealth is she really entitled to? And what is she and her team of fake artists doing to suppress the silent victims she is abusing and hurting?
 
-👍 0 · 4 months ago
+👍 1 · 4 months ago
 
 ---
 
@@ -11359,7 +11619,7 @@ You hate the fucking lot
 
 ---
 
-### 4. @rada9764 (2425 chars)
+### 4. @dwells1469 (2434 chars)
 
 > You know I'm impatient
 So why would you leave me waitin' outside the station
@@ -11367,11 +11627,13 @@ When it was like minus four degrees?
 And I, I get what you're sayin'
 I just really don't wanna hear it right now
 Can you shut up for like once in your life?
+
 Listen to me, I took your nice words of advice about
 How you think I'm gonna die lucky if I turn 33
 Okay, so yeah, I smoke like a chimney
 I'm not skinny, and I pull a Britney every other week
 But cut me some slack, who do you want me to be?
+
 'Cause I'm too messy, and then I'm too fucking clean
 You told me, "Get a job, " then you ask where the hell I've been
 And I'm too perfect 'til I open my big mouth
@@ -11380,21 +11642,25 @@ And I'm too clever, and then I'm too fucking dumb
 You hate it when I cry, unless it's that time of the month
 And I'm too perfect 'til I show you that I'm not
 A thousand people I could be for you, and you hate the fucking lot
+
 You hate the fucking lot
 You hate the fucking lot
 You hate, you hate
+
 It's taking you ages
 You still don't get the hint, I'm not askin' for pages
 But one text or two would be nice
 And please, don't pull those faces
 When I've been out working my arse off all day
 It's just one bottle of wine or two
+
 But, hey, you can't even talk
 You smoke weed just to help you sleep
 Then why you out gettin' stoned at four o'clock?
 And then you come home to me
 And don't say hello, 'cause I got high again
 And forgot to fold my clothes
+
 'Cause I'm too messy, and then I'm too fucking clean
 You told me, "Get a job, " then you ask where the hell I've been
 And I'm too perfect 'til I open my big mouth
@@ -11403,8 +11669,10 @@ And I'm too clever, and then I'm too fucking dumb
 You hate it when I cry, unless it's that time of the month
 And I'm too perfect 'til I show you that I'm not
 A thousand people I could be for you, and you hate the fucking lot
+
 You hate the fucking lot
 You hate the fucking lot
+
 Oh-ooh, and I'm too messy, and then I'm too fucking clean
 You told me, "Get a job, " then you ask where the hell I've been
 And I'm too perfect 'til I open my big mouth
@@ -11413,6 +11681,7 @@ And I'm too clever, and then I'm too fucking dumb
 You hate it when I cry, unless it's that time of the month
 And I'm too perfect 'til I show you that I'm not
 A thousand people I could be for you, and you hate the fucking lot
+
 You hate the fucking lot
 You hate the fucking lot
 You hate the fucking lot
@@ -11485,7 +11754,70 @@ You hate the fucking lot
 
 ---
 
-### 6. @desireevonberlin (2425 chars)
+### 6. @rada9764 (2425 chars)
+
+> You know I'm impatient
+So why would you leave me waitin' outside the station
+When it was like minus four degrees?
+And I, I get what you're sayin'
+I just really don't wanna hear it right now
+Can you shut up for like once in your life?
+Listen to me, I took your nice words of advice about
+How you think I'm gonna die lucky if I turn 33
+Okay, so yeah, I smoke like a chimney
+I'm not skinny, and I pull a Britney every other week
+But cut me some slack, who do you want me to be?
+'Cause I'm too messy, and then I'm too fucking clean
+You told me, "Get a job, " then you ask where the hell I've been
+And I'm too perfect 'til I open my big mouth
+I want to be me, is that not allowed?
+And I'm too clever, and then I'm too fucking dumb
+You hate it when I cry, unless it's that time of the month
+And I'm too perfect 'til I show you that I'm not
+A thousand people I could be for you, and you hate the fucking lot
+You hate the fucking lot
+You hate the fucking lot
+You hate, you hate
+It's taking you ages
+You still don't get the hint, I'm not askin' for pages
+But one text or two would be nice
+And please, don't pull those faces
+When I've been out working my arse off all day
+It's just one bottle of wine or two
+But, hey, you can't even talk
+You smoke weed just to help you sleep
+Then why you out gettin' stoned at four o'clock?
+And then you come home to me
+And don't say hello, 'cause I got high again
+And forgot to fold my clothes
+'Cause I'm too messy, and then I'm too fucking clean
+You told me, "Get a job, " then you ask where the hell I've been
+And I'm too perfect 'til I open my big mouth
+I want to be me, is that not allowed?
+And I'm too clever, and then I'm too fucking dumb
+You hate it when I cry, unless it's that time of the month
+And I'm too perfect 'til I show you that I'm not
+A thousand people I could be for you, and you hate the fucking lot
+You hate the fucking lot
+You hate the fucking lot
+Oh-ooh, and I'm too messy, and then I'm too fucking clean
+You told me, "Get a job, " then you ask where the hell I've been
+And I'm too perfect 'til I open my big mouth
+I want to be me, is that not allowed?
+And I'm too clever, and then I'm too fucking dumb
+You hate it when I cry, unless it's that time of the month
+And I'm too perfect 'til I show you that I'm not
+A thousand people I could be for you, and you hate the fucking lot
+You hate the fucking lot
+You hate the fucking lot
+You hate the fucking lot
+You hate the fucking lot
+
+👍 0 · 2 weeks ago
+
+---
+
+### 7. @desireevonberlin (2425 chars)
 
 > You know I'm impatient
 So why would you leave me waitin' outside the station
@@ -11548,7 +11880,7 @@ You hate the fucking lot
 
 ---
 
-### 7. @shoppaliciouscutie (2227 chars)
+### 8. @shoppaliciouscutie (2227 chars)
 
 > I can attest to trauma like that causing brain changes and health issues. I grew up with various forms of abuse and manipulation with a bpd mom. It’s a long story, but I think I have C-PTSD from my childhood, especially when my actual life was being threatened on and off where I thought I was gonna be killed. Then another day it would be happy and normal. No wonder I picked psycho guys 🤣🤣 I had no identity and was a love addict who chased guys nonstop for 10-11 years, 9 relationships. I couldn’t even stop talking to guys cuz I was addicted. Haven’t been in a relationship or hooked up with anyone in 2 years, healed a lot, learned boundaries, started understanding myself and forming my own identity. When you have a bpd parent, you are an extension of them and don’t really get the chance to have a sense of self, so it takes a lot of work to heal those things. However, I have permanent mental illness that will never go away cuz of having trauma during brain development as a child. And also, I dated narcissists, cheaters, liars, and so many horrible men. Guess what eventually happened? I went through all of that my entire life and other things that made the past few years harder. I get back on meds, I gain like 100 lbs, my already existing health issues get really bad, etc. I kept telling everyone that I think after 26-27 years of trauma, my body just shut down. For a whole year I struggled with having even enough energy to shower or microwave a meal. I was mostly in bed dealing with fatigue and multiple health issues. 
 So I think you’re right, it messes up your brain and body.
@@ -11563,7 +11895,7 @@ I hope you’re doing better! Fuck that guy and the psycho dudes out there. We d
 
 ---
 
-### 8. @EastmanEditing (1053 chars)
+### 9. @EastmanEditing (1053 chars)
 
 > Sending you both so much love and strength. You've already done the hardest part...SEEING it and FEELING it for what it is. You WILL make it through. Be kind and patient with yourself. It may take time to fully leave and to fully heal, but you will make it. And you have a tribe of other humans who are here for you any time you need for validation and support! It's no coincidence that somehow all of us who have survived narcissists have managed to find this song right when we need it most. There's nothing harder than learning to love yourself after a narcissist has has their way with you. And it's not your fault...you were only a target because of the love you have and your light. So no matter what, keep shining your light. Even if it feels a bit dim at times, let it flicker at its own pace and accept it for where its at, because you are the light. Give your light the oxygen it needs to stay lit. Breathe. Then breathe some more. Release. Forgive yourself. Love yourself. Then breathe again. It will come back full force, brighter than EVER!
 
@@ -11571,7 +11903,7 @@ I hope you’re doing better! Fuck that guy and the psycho dudes out there. We d
 
 ---
 
-### 9. @EastmanEditing (1015 chars)
+### 10. @EastmanEditing (1015 chars)
 
 >  @ayanami66  Yes! It's both! No matter who you are or how strong you are, living in today's world is living in a narcissistic based society. But not all of us are victims of narcissists one on one. That's a special kind of evil to prevail over. I think the most empathetic and loving people tend to become victims of "personal" narcs, whether it's always dating people who don't actually love you, let alone LIKE you, or always taking jobs for less than you're worth, or letting your boss speak to you certain ways, etc...we just want others to be happy. We don't plot ways of taking others down or plot ways to overtake the world just so WE can have more to ourselves. That's what has made us victims...up until NOW. I think we are all feeling a deep, stirring within and finally have had enough. We're no longer going to continue to be victims of people who only want to use others for their gain. Be it society, the government, your mother, uncle, "best" friend, fiance, spouse, child, etc...We're breaking free.
 
@@ -11579,7 +11911,7 @@ I hope you’re doing better! Fuck that guy and the psycho dudes out there. We d
 
 ---
 
-### 10. @catherinehobbs4961 (978 chars)
+### 11. @catherinehobbs4961 (978 chars)
 
 > Just reading the comments, I want to say there is a difference between people who have narcissistic traits and people who have NPD. Most people have some narcissistic traits, but that doesn’t mean they are narcissist. It is a very specific diagnosis and accounts for roughly 0.2-3 % of the population. So it is not as common as people think. Yes, your ex (or others in your life) might have exhibited signs of narcissism but that doesn’t make them narcissists. It has become a catch all for someone who treats you badly. Unfortunately for those who actually have to deal with people with NPD it makes things harder because people think it’s easy to get over or escape the grips of a narcissist. Yes 75% of people who have NPD are men but that doesn’t mean most men are narcissists. It’s 75% of 0.2-3%  of people. From someone who is in therapy with someone with NPD please don’t label people narcissistic if they just exhibit traits and don’t have NPD because it is not helpful.
 
@@ -11587,7 +11919,7 @@ I hope you’re doing better! Fuck that guy and the psycho dudes out there. We d
 
 ---
 
-### 11. @JelenaKoko27 (957 chars)
+### 12. @JelenaKoko27 (957 chars)
 
 > Ты же знаешь, что я нетерпеливая,
 Зачем тогда бросил меня ждать перед вокзалом,
@@ -11625,7 +11957,7 @@ I hope you’re doing better! Fuck that guy and the psycho dudes out there. We d
 
 ---
 
-### 12. @JaseekaRawr (838 chars)
+### 13. @JaseekaRawr (838 chars)
 
 > ​ @RoystonVasey1  Not true lol. There's usually a victim of narcissistic parents to narcissistic boyfriend/gf pipeline. When you were a victim to narc parents you're primed to accept a narc lover bc you think that's what love is. 
 
@@ -11639,7 +11971,7 @@ Also victims can display traits of narcs bc they're learned & considered normal.
 
 ---
 
-### 13. @petitepashi (798 chars)
+### 14. @petitepashi (798 chars)
 
 > My 6 year old daughter has ADHD. I heard the chorus and my heart broke for her. Mom-guilt of juggling between her highs and lows and trying to figure out who she is and how I can support her and love her through it. 
 
@@ -11653,7 +11985,7 @@ Thank you, Lola, for writing an anthem for little girls like mine.
 
 ---
 
-### 14. @Ridiculousratings (770 chars)
+### 15. @Ridiculousratings (770 chars)
 
 > Each to their own, but if real music is this kind of shit which is just a depressing vibe because it’s about real life stuff which isn’t good 😂 then fuck music is definitely going downhill. I understand where you’re coming from but if music was about real life stuff than all music would be very fucking depressing because of how the world is today.😂 real good music listen to some old hits that’s real good music half of them might’ve been drugged up but goddamn the lyrics and the songs that I had stories to them. It was amazing. don’t get nothing like that anymore not to mention the length of the music2 or  3 minutes sounds compared to what it used to be. Not saying this is a bad song it’s pretty good. I’m just saying what you’re saying is pretty fucking stupid.
 
@@ -11661,7 +11993,7 @@ Thank you, Lola, for writing an anthem for little girls like mine.
 
 ---
 
-### 15. @Ridiculousratings (770 chars)
+### 16. @Ridiculousratings (770 chars)
 
 > Each to their own, but if real music is this kind of shit which is just a depressing vibe because it’s about real life stuff which isn’t good 😂 then fuck music is definitely going downhill. I understand where you’re coming from but if music was about real life stuff than all music would be very fucking depressing because of how the world is today.😂 real good music listen to some old hits that’s real good music half of them might’ve been drugged up but goddamn the lyrics and the songs that I had stories to them. It was amazing. don’t get nothing like that anymore not to mention the length of the music2 or  3 minutes sounds compared to what it used to be. Not saying this is a bad song it’s pretty good. I’m just saying what you’re saying is pretty fucking stupid.
 
@@ -11669,7 +12001,7 @@ Thank you, Lola, for writing an anthem for little girls like mine.
 
 ---
 
-### 16. @kaylaw1370 (739 chars)
+### 17. @kaylaw1370 (739 chars)
 
 > Our past reflections of two strangers who shared the same life somewhere else in the world, in the past and now the present. You don't know how happy I am for you that you found yourself again and then some. It's easy to see when life's not cloudy stuck in a full fog. I found my happiness too, I also want to keep it forever. I never knew I could do so many things, a mother, a good wife, learn trades and crafts. Do things you always wanted to try but were too low to even put in the effort. Either the experience breaks you or it teaches you and you become better for it, more resilient. I'm 33! Life never felt so good as it does now. I'm glad you found yourself and your happiness with someone that returns the love you give. Truly. 😊
 
@@ -11677,7 +12009,7 @@ Thank you, Lola, for writing an anthem for little girls like mine.
 
 ---
 
-### 17. @tamrarusheed (736 chars)
+### 18. @tamrarusheed (736 chars)
 
 > @ You’re right. He could very well not be a narc…. He is definitely a manipulative, mentally and physically abusive,  extremely toxic individual. He has his good side though… he was so good, nice, and charming to everyone else. Go out of his way to help others unless it was something I needed help with. This manipulative, mentally and physically abusive, extremely toxic individual would talk shit about me behind back to our friends, tell them I was this lazy POS who didn’t clean when the truth was he was like a 6’2” toddler throwing temper tantrums if I told him no and would completely turn everything upside down, and I would clean up his mess because he didn’t think he should have to do “housework” He was a complete mindfuck.
 
@@ -11685,7 +12017,7 @@ Thank you, Lola, for writing an anthem for little girls like mine.
 
 ---
 
-### 18. @shoppaliciouscutie (732 chars)
+### 19. @shoppaliciouscutie (732 chars)
 
 > I’m sorry you’ve gone through that!! 💕I had a narcissistic ex I only dated a few months, I had an abusive relationship besides that one for 9 months, and the rest of my exes were completely toxic.
 
@@ -11695,7 +12027,7 @@ This song is definitely how I felt growing up with a mother with bpd and childho
 
 ---
 
-### 19. @thebaddestradish9678 (705 chars)
+### 20. @thebaddestradish9678 (705 chars)
 
 > ​ @RedJezka yes and the line "i can't cry unless it's that time of the month." I felt that because I always had to be the supporter I could never complain or say that my job was hard because he works harder and his body hurts more than mine and he is the king and should be treated as such, but even when it was that time of the month I could barley catch a break he would even have the audacity to tell me I should get up and go for a walk or do something other than lay down because he literally thought he knew how cramps felt and how to make them go away even when I would tell him what I knew would make me feel better he would always have to have the last word and say no I think you you need this..
 
@@ -11703,7 +12035,7 @@ This song is definitely how I felt growing up with a mother with bpd and childho
 
 ---
 
-### 20. @Wolfy83 (644 chars)
+### 21. @Wolfy83 (644 chars)
 
 > Literally! During confessionals, my priest has trouble hearing me over the music. My wife won't sleep in the same room as me anymore because I literally can't stop playing it. Smexy times just haven't been the same. 😢 My boss wasn't sure about this song (as if he had a choice 😅), but during the company meeting with foreign investors, when they asked me my opinion on which direction we should go, I literally couldn't do anything other than bust out my boombox and play this song at full volume! Interestingly, the investors agreed to the contract, with the condition that I never stop playing this song. I literally couldn't help but oblige.
 
@@ -11711,7 +12043,7 @@ This song is definitely how I felt growing up with a mother with bpd and childho
 
 ---
 
-### 21. @Clau_Cast (639 chars)
+### 22. @Clau_Cast (639 chars)
 
 > You know, I’ve been fighting with myself all my life, and at a point I got the body and the looks I wanted and everything suddenly disappeared. And now I’m having a breakdown again, I gain weight and I feel like I’m having depression again, I don’t even wanna go out my house anymore. This is hitting me in hard places, I think all this time my autoconcept was dictated by the pretty standrs, and how I would never be that beautiful or that gorgeous as is accepted. And I just realize that I’ve never loved myself and never accepted myself. I just wanna stop thinking I’m gross, messy, and horrendous. That’s why this song entered my soul.
 
@@ -11719,7 +12051,7 @@ This song is definitely how I felt growing up with a mother with bpd and childho
 
 ---
 
-### 22. @SoundOfMuzek (622 chars)
+### 23. @SoundOfMuzek (622 chars)
 
 > "Sounds like being in a relationship with a  narcissist." Maybe, but maybe not. I think it's easier to see yourself as a victim when the truth is in most relationships both people are the bad guys at some points. Maybe she did write this song to free herself from a narcissistic relationship, but I choose to listen to it as a rejection of expectations. Social media and the internet in general give us the impression we're supposed to be a specific person, that we live one life and that's it. That we have to be too perfect. The truth is most people exist in multitudes. We're messy,  we're not perfect. And that's fine.
 
@@ -11727,7 +12059,7 @@ This song is definitely how I felt growing up with a mother with bpd and childho
 
 ---
 
-### 23. @keltischwolfmedia9547 (619 chars)
+### 24. @keltischwolfmedia9547 (619 chars)
 
 > Society hasnt been starving for music like this it has always been made but big media want to continually play outdated shite that wasn't  good in the first place instead of letting new artist wirh a message shine. Metal and Hard rock is perfect example there have been bands coming out every year since the grunge age that literally made the grunge aged barely a shit stain on the map. Yet they continue to play the shit from that era on the radios 30 years later. Metal has been release righteous tunes with lyrical  substance for 60+ but continues to get drowned out by horseshit bands that disappear inna few years.
 
@@ -11735,23 +12067,12 @@ This song is definitely how I felt growing up with a mother with bpd and childho
 
 ---
 
-### 24. @PabloVidalPeinado (618 chars)
+### 25. @PabloVidalPeinado (618 chars)
 
 > ​ @RoystonVasey1  It wouldn't surprise me, because the singer seems a bit narcissistic to me. She is impatient, so why did you keep her waiting. Red flag. If you are impatient deal with it yourself, it's your problem. And then: she gets what you're saying, but doesn't want to hear it right now, can you shut up for once in your life? Red flag. She knows you are right, but doesn't want to hear the truth and very toxically tells you to shut up. 
 I don't know whether she sings these lines to show us that she isn't perfect either or she's just a narcissist who thinks that it is fair to act the way she says she does.
 
 👍 0 · 11 months ago
-
----
-
-### 25. @FlockofSmeagles (615 chars)
-
-> She's describing two imperfect people who can't see eye to eye. Selfishness is a trait of narcissism. Not all people who are selfish are narcissists.
-Which goes to say that everyone goes through this at some point. We have a tendency to love what we idealize in people. to the same point, we find that we loathe the parts of ourselves that we find in them. He smokes to take the edge off, she drinks. She's impatient, he's inconsiderate. She wants to feel and express herself. I'd assume that he wants peace and autonomy from the sound of it. 
-
-Classic case of young love. It's a beautiful thing, as messy as it is.
-
-👍 25 · 11 months ago (edited)
 
 ---
 
@@ -12730,7 +13051,81 @@ Soulful, meaningful, and real authentic music is still out there. If any of y’
 ## 🎵 La Plena - W Sound 05 - W Sound, Beéle, Ovy On The Drums
 **Artists:** W Sound, Beéle, Ovy On The Drums
 
-### 1. @lauritacata (1747 chars)
+### 1. @vfjjidk (1769 chars)
+
+> O-O-Ovy On The Drums)
+
+Eres la niña de mis ojo', tú
+Eres todo lo que quiero yo
+Una cerveza pa' calmar la sed
+No, mejor ser besado por su boquita, amor
+
+Las tentacione' así como tú
+Merecen pecado' como yo
+Ay, si tú quieres, solo da la lu' (¡aye!)
+Tú sabes que no voy a decir que no
+
+Ay, tienes la magia
+Tú, sí, tienes una vainita que a mí me encanta, me enloquece (ay-ay)
+Dormir contigo fue amor a primera vista, cuando bailabas así
+Por el cuellito, besito y lengüita
+Sé que te encanta, te enloquece
+Sé que te encanta, te enloquece
+Y, a vece'
+
+Uh-uh-uh-uh-uh, uh-uh, uh-uh
+Sé que te encanta, te enloquece
+Uh-uh-uh-uh-uh, uh-uh, uh-uh
+La plena
+Uh-uh-uh-uh-uh, uh-uh, uh-uh
+Uh-uh-uh-uh-uh, uh-uh, uh-uh
+Óyelo, uh-uh
+
+Oye, lo que pasa es que desde que vi tu cara
+Me enamoró de ti toda, es que tú tiene' un no sé qué
+Siento que te pasa lo mismo cuando te miro
+¿Qué dice' si nos parchamo' a ver el amanecer? (¡Prra!)
+
+Quiero hacer de todo, quiero que tú sea' mi to'a
+Te digo: Sóbelo, ve, y luego viene y me lo soba (uah)
+Vamos a vernos luego
+Si no te gusta el infierno, ¿pa' qué viene' al diablo y lo emboba'?
+
+Y ella, parcerita, paisa
+Y yo costeño, coleto
+En una baldosa, la aprieto
+Pa' hablarte claro, cero visaje
+Se sabe que tú eres puro veneno
+
+Ay, tienes la magia
+Tú, sí, tienes una vainita que a mí me encanta, me enloquece (uh)
+Dormir contigo fue amor a primera vista, cuando bailabas así
+Por el cuellito, besito y lengüita
+Sé que te encanta, te enloquece (uh-uh)
+Sé que te encanta, te enloquece
+Y a vece'
+
+Uh-uh-uh-uh-uh, uh-uh, uh-uh
+Sé que te encanta, te enloquece
+Uh-uh-uh-uh-uh, uh-uh, uh-uh
+Óyelo, la plena
+Uh-uh-uh-uh-uh, uh-uh, uh-uh
+Sé que te encanta, te enloquece
+Uh-uh-uh-uh-uh, uh-uh, uh-uh
+
+Beéle
+Ovy On The Rasta Drums
+W Sound
+Aye
+Alright
+
+LETRA GRATIS 🎉
+
+👍 9 · 8 months ago
+
+---
+
+### 2. @lauritacata (1747 chars)
 
 > O-O-Ovy On The Drums
 Eres la niña de mis ojos tú
@@ -12789,7 +13184,7 @@ Alright
 
 ---
 
-### 2. @SamirPedroza-sh8sx (743 chars)
+### 3. @SamirPedroza-sh8sx (743 chars)
 
 > PILA QUE SE ACABAN LAS TAQUILLAS 
 BEELE
@@ -12822,7 +13217,7 @@ QU LOQUERA EMPECÉ A ESCRIBIR JEJE DIOS LOS BENDIGA GENTE !😅😅❤
 
 ---
 
-### 3. @EL_FIN_ESTÁ_CERCA (631 chars)
+### 4. @EL_FIN_ESTÁ_CERCA (631 chars)
 
 > Es tiempo de abrir los ojos, apartarse del pecado y CONOCER a Dios. Es tiempo de dejar tanta tontería y vicio. JESÚS entregó su vida por amor a ti; para limpiarte, para hacerte libre y darte vida ETERNA junto a Él. Sufrió por tu pecado el dolor y castigo que tú merecías en una cruz. Al tercer día resucitó y vuelve pronto a juzgar la Tierra. Está avisando. Por eso... ARREPIÉNTETE y conócelo antes que sea demasiado tarde, para que no tengas que pasar el resto de la eternidad atormentado en la más profunda y oscura soledad. Porque Dios odia el pecado. Y no olvides que la muerte puede visitarte por sorpresa. 
 EL FIN ESTÁ CERCA.
@@ -12831,7 +13226,7 @@ EL FIN ESTÁ CERCA.
 
 ---
 
-### 4. @KevinHernández-y1x2g (586 chars)
+### 5. @KevinHernández-y1x2g (586 chars)
 
 > Me llamo Kevin Hernández chinea e ayudado a la isla de Tenerife toda mi vida y ellos me difaman me golpean y me critican es una isla con un chico solo no hablo mentiras me quieren matar y asta el gobierno me quiere meter entre rejas con tal de silenciar me poniéndome trampas como que estoy loco como que soy lo peor y yo ya estoy cansado de esto son palizas humillaciones robos hambre frío y demás lo siento mundo si creéis que soy el malo pero me los voy a cargar a todos y luego me suicido espero que entendáis mi sufrimiento gracias y perdón yo solo quería ser un ciudadano ejemplar
 
@@ -12839,19 +13234,11 @@ EL FIN ESTÁ CERCA.
 
 ---
 
-### 5. @juanjosemartinez-kp7hx (486 chars)
+### 6. @juanjosemartinez-kp7hx (486 chars)
 
 > La plena de Beele me transporta a ese instante mágico donde una sola mirada es capaz de enamorar. Es impresionante cómo la canción captura esa emoción pura, esa atracción que nace desde lo más profundo del ser. Cada verso es como un suspiro, reflejando la forma en que nos cautiva alguien no solo por su físico, sino por su esencia y manera de ser. Es un recordatorio de que el amor va más allá de lo visible; está en los gestos, las miradas, en todo lo que no se dice pero se siente.🔥🔥
 
 👍 0 · 11 months ago
-
----
-
-### 6. @wakko_tg (408 chars)
-
-> buenass soy un artista emergente de españa, llevo varios años haciendo música pero he decidido empezar de 0 para dedicar todo mis esfuerzo y tomarme de verdad en serio esto e intentar conseguir mi sueño, he sacado hace unos días un tema que le he cogido muchísimo cariño haciéndolo, y te agradecería de corazón que me dejaras una escucha y tu opinión en los comentarios para ayudarme a mejorar y lograrlo❤️❤️
-
-👍 0 · 2 months ago
 
 ---
 
@@ -12871,7 +13258,15 @@ EL FIN ESTÁ CERCA.
 
 ---
 
-### 9. @oscardavidsantamariabravo3684 (386 chars)
+### 9. @wakko_tg (408 chars)
+
+> buenass soy un artista emergente de españa, llevo varios años haciendo música pero he decidido empezar de 0 para dedicar todo mis esfuerzo y tomarme de verdad en serio esto e intentar conseguir mi sueño, he sacado hace unos días un tema que le he cogido muchísimo cariño haciéndolo, y te agradecería de corazón que me dejaras una escucha y tu opinión en los comentarios para ayudarme a mejorar y lograrlo❤️❤️
+
+👍 0 · 2 months ago
+
+---
+
+### 10. @oscardavidsantamariabravo3684 (386 chars)
 
 > "¡Esto es puro fuego! 🔥🔥 La W Sound y Beéle han creado una joya que se siente en el alma. La mezcla de ritmos, la vibra envolvente y la voz inconfundible de Beéle hacen que esta canción sea simplemente adictiva. 🎶💥 Desde el primer segundo hasta el último, es imposible no dejarse llevar. ¡Definitivamente un himno que merece millones de reproducciones! 🚀🔥 Quién más la tiene en repetir?
 
@@ -12879,22 +13274,11 @@ EL FIN ESTÁ CERCA.
 
 ---
 
-### 10. @FrederickMonroy-s2e (382 chars)
+### 11. @FrederickMonroy-s2e (382 chars)
 
 > Bro desde olesnica, Polonia... Que orgullo escuchar este Son Caribeño Colombiano, el exelente equipo de trabajo que tienes es por lo cual tienes tanto exito, la ambientación del estudio, la colaboración de un grande como Beele, uno de los mejores productores del genero y como no destacar esa W sound, esa visión y las ganas de crecer como compañía, que Palo, por muchas mas asi....
 
 👍 1 · 11 months ago
-
----
-
-### 11. @liderdepuntola7073 (371 chars)
-
-> Señor, cuando pienso en todas tus bondades, mi corazón salta y grita, ¡Gracias, Dios!
-Gracias, Dios, porque me escuchas y respondes a mi oración.
-Gracias, Señor, por todas las bendiciones diarias que llegan a mi vida.
-Aunque mi vida no es perfecta, es muy bonita porque te tengo en mi corazón. ¡Gracias, Dios, por tu presencia y por amarme! a mi tu siervo Jader Amen !
-
-👍 2 · 10 months ago
 
 ---
 
@@ -12905,11 +13289,22 @@ Gracias, Dios, porque me escuchas y respondes a mi oración.
 Gracias, Señor, por todas las bendiciones diarias que llegan a mi vida.
 Aunque mi vida no es perfecta, es muy bonita porque te tengo en mi corazón. ¡Gracias, Dios, por tu presencia y por amarme! a mi tu siervo Jader Amen !
 
+👍 2 · 10 months ago
+
+---
+
+### 13. @liderdepuntola7073 (371 chars)
+
+> Señor, cuando pienso en todas tus bondades, mi corazón salta y grita, ¡Gracias, Dios!
+Gracias, Dios, porque me escuchas y respondes a mi oración.
+Gracias, Señor, por todas las bendiciones diarias que llegan a mi vida.
+Aunque mi vida no es perfecta, es muy bonita porque te tengo en mi corazón. ¡Gracias, Dios, por tu presencia y por amarme! a mi tu siervo Jader Amen !
+
 👍 0 · 10 months ago
 
 ---
 
-### 13. @alfredoagamezalvarez5979 (367 chars)
+### 14. @alfredoagamezalvarez5979 (367 chars)
 
 > Boffff es de estas canciones que no te satura el escucharla una y otra y otra y otra vez, suena demasiado fresco, para cualquier tipo de oído, y como no, es que la fórmula de uno sino el mejor actualmente de la costa, el mejor productor y la pámpara de pámparas Westcol. Guarden este comentario, va a romper en muchos premios esta canción y sonará en todo el mundo!!!
 
@@ -12917,7 +13312,7 @@ Aunque mi vida no es perfecta, es muy bonita porque te tengo en mi corazón. ¡G
 
 ---
 
-### 14. @yesslaesenciaofficial (319 chars)
+### 15. @yesslaesenciaofficial (319 chars)
 
 > Hola buenas mi gente, me paso por aquí para dejarles mi cancion más reciente esperando que pueda ser de su gusto & de su agrado. Ya que la música es para vivirla & compartirla, espero puedan darle su granito de amor, se les agradecería en el alma. Un saludo. La Esencia!
 https://youtu.be/7eD_J3FsZq0?si=PQVRQSwrZsuU-X5f
@@ -12926,7 +13321,7 @@ https://youtu.be/7eD_J3FsZq0?si=PQVRQSwrZsuU-X5f
 
 ---
 
-### 15. @karelysrodriguez612 (314 chars)
+### 16. @karelysrodriguez612 (314 chars)
 
 > Te aseguro que si le pasas la cuenta le pasa a los tuyos. Trabaje en farándula y no se puede creer todo lo que dicen. También soy mujer y las actitudes de su ex no son de una mamá que quiere lo mejor para sus hijo, todo lo contrario son actitudes de una mujer dolida a lo no le dieron la atención que siempre tuvo.
 
@@ -12934,7 +13329,7 @@ https://youtu.be/7eD_J3FsZq0?si=PQVRQSwrZsuU-X5f
 
 ---
 
-### 16. @elianamariacupajitahincapi5545 (308 chars)
+### 17. @elianamariacupajitahincapi5545 (308 chars)
 
 > Padre nuestro que estas en el cielo santificado sea tu nombre venga a nosotros su reino hágase su voluntad en la tierra como en el cielo danos hoy nuestro pan de cada dia perdona nuestras ofensas como también nosotros perdonamos a los que nos ofenden no n9s dejes caer en la tentación y libramos del mal amén
 
@@ -12942,7 +13337,15 @@ https://youtu.be/7eD_J3FsZq0?si=PQVRQSwrZsuU-X5f
 
 ---
 
-### 17. @soydiegomartinez360 (286 chars)
+### 18. @PaolaRivera-x3w (287 chars)
+
+> Andrea Paola Rivera corredor Carlos Rivera marzo feliz cumpleaños 22años 35años me gustaría me da la impresión que se ha mostrado en perspectiva es un gusto saludarle por este medicamento que me da la impresión que me da la impresión de llamar a los niños a la espera para poder hacer el
+
+👍 0 · 6 months ago
+
+---
+
+### 19. @soydiegomartinez360 (286 chars)
 
 > es como darle todo los creditos a sony music, universal y otras disqueras, en vez de darle credito a los que realmente hacen el trabajo... ovy y beele son realmente buenos y westcol solo es el que porto el dinero y quiere llevarse el credito de todo, tarde o temprano se le van a quitar
 
@@ -12950,7 +13353,7 @@ https://youtu.be/7eD_J3FsZq0?si=PQVRQSwrZsuU-X5f
 
 ---
 
-### 18. @oscardavidsantamariabravo3684 (274 chars)
+### 20. @oscardavidsantamariabravo3684 (274 chars)
 
 > "No hay mejor sensación que encontrar una canción que te haga sentir tantas cosas a la vez. 💫🎶 La W Sound y Beéle lograron un temazo con una producción impecable y una vibración que te atrapa desde el primer segundo. ¡Este es el tipo de música que se queda para siempre! 🔥🔥"
 
@@ -12958,7 +13361,7 @@ https://youtu.be/7eD_J3FsZq0?si=PQVRQSwrZsuU-X5f
 
 ---
 
-### 19. @cristinapiedadramirezdelvi1126 (264 chars)
+### 21. @cristinapiedadramirezdelvi1126 (264 chars)
 
 > Oye lo que pasa es desde que ví tu cara me enamore ti esque tu tiene un nos se que siento que estoy pasando lo mismo cuando te miro que tal si nos pachamos a ver el amanecer quiero hacer todo quiero que tú seas mi toda le digo soft ve love luego viene y me lo soba
 
@@ -12966,7 +13369,7 @@ https://youtu.be/7eD_J3FsZq0?si=PQVRQSwrZsuU-X5f
 
 ---
 
-### 20. @manoloangulocaicedo6523 (262 chars)
+### 22. @manoloangulocaicedo6523 (262 chars)
 
 > @saraviavioletalisethesthef7038  es el productor el con su equipo se encargan de analizar el mercado y k está en tendencia y en base a eso invitan artista que vayan de acuerdo  a lo que le gusta a la gente y su comunidad que es igual de analista que el lo apoyan
 
@@ -12974,7 +13377,7 @@ https://youtu.be/7eD_J3FsZq0?si=PQVRQSwrZsuU-X5f
 
 ---
 
-### 21. @MarianaNash-x3c (261 chars)
+### 23. @MarianaNash-x3c (261 chars)
 
 > Ah usted que le importa si él le da a los hijos de Él, porque no se preocupa por su vida y deja de preocuparse por los demás sapo lleve la vida relajada, todo lo malo que uno haga lo paga y usted por él no va a pagar nada de lo que el haga entonces no sea sapo.
 
@@ -12982,7 +13385,7 @@ https://youtu.be/7eD_J3FsZq0?si=PQVRQSwrZsuU-X5f
 
 ---
 
-### 22. @lauracerongomez266 (261 chars)
+### 24. @lauracerongomez266 (261 chars)
 
 > A mí esta y la de Valka fueron las únicas que me gustaron tanto de entrada, la de Blessd no me gustó, la de Ryan sii, pero después me encantó soltera, aunque no pa ponerla tanto como he puesto ésta, es que está mucho mejor hecha, y no es comercial como soltera.
 
@@ -12990,27 +13393,11 @@ https://youtu.be/7eD_J3FsZq0?si=PQVRQSwrZsuU-X5f
 
 ---
 
-### 23. @PaolaMaldonado-x6s (255 chars)
+### 25. @PaolaMaldonado-x6s (255 chars)
 
 > A las 5 y a las 7 tenemos una reunión, creo que por la noche como a las 3:00 de la mañana vamos a hacer por ahí todo y a las 4 los levanto y lo levantamos parainos einstant a descansarnos y. Hay ya sigo y a las 5 los despertamos y les vamos con qué chavo❤
 
 👍 0 · 1 month ago
-
----
-
-### 24. @jimenazapatacid (251 chars)
-
-> No falta el desubicado mirando el minimo error para restregarlo en la cara, no juzgar a los demas nunca porque todos cometemos errores en la vida, su vida privada no debería ser motivo de bulling en su carrera de cantante aprenda a separar las cosas..
-
-👍 0 · 9 months ago
-
----
-
-### 25. @daphnem3775 (248 chars)
-
-> Ya se ha escuchado la historia de caperucita roja  , habría que escuchsr a la " del lobo" . ... Aparte lo profesional es independiente de los temas personales , que solo el y Dios sabrán ." Eñ que esté libre de pecado , que lance la primera piedra"
-
-👍 0 · 5 months ago
 
 ---
 
@@ -15923,7 +16310,23 @@ Un puertorriqueño nacido en Puerto Rico puede ser presidente de Estados Unidos 
 
 ---
 
-### 18. @karensalguero8238 (681 chars)
+### 18. @roverg2009 (734 chars)
+
+> Mis respetos a Benito. 
+
+Soy de los que (por decirlo de manera elegante) mantienen reservas muy serias respecto de su calidad artística, aunque tengo que reconocer una evolución importante en su último trabajo DTMF, en el cual mezcla el trap con elementos exquisitos de la música de su tierra.
+
+Sin embargo, lo que hizo en este video es uno de las jugadas más valientes y atrevidas de la historia de la música. Publicar un video el 4 de julio, con la bandera de Puerto Rico en la frente de la Estatua de la Libertad y un audio retocado de Donald Trump disculpándose con los inmigrantes es de una audacia casi suicida. Ni John Lennon se atrevió a tanto. Con razón Trump no lo puede ver.
+
+
+
+Ojalá haga un show memorable en el SuperBowl.
+
+👍 0 · 3 days ago
+
+---
+
+### 19. @karensalguero8238 (681 chars)
 
 > No me esperaba menos de Bad Bunny jajaja, esperar más es pedir demasiado. Ok que quiera destacar a los latinos en tiempos tan hostiles y rescato que le recuerde a las nuevas generaciones artistas tan grandes como no se ven hoy como el Gran Combo de Puerto Rico que SI SABIAN HACER MÚSICA pero honestamente esperaba una mejor canción o nueva versión, aunque la verdad como siempre me defraudó no se le entiende ni papá y el ritmo es lo mismo de lo mismo, no hay una sola canción de el que me logré conectar y eso que me he dado la oportunidad de oírlo más allá de criticarlo pero no me convence, pos bueno que lo disfruten aquellos que si le encuentran gracia pa gustos los colores.
 
@@ -15931,7 +16334,7 @@ Un puertorriqueño nacido en Puerto Rico puede ser presidente de Estados Unidos 
 
 ---
 
-### 19. @McFigs (661 chars)
+### 20. @McFigs (661 chars)
 
 > ​ @ruizaguilardianarebeca3912 Bad Bunny canta defiendo la ilegalidad pero no habla por la libertad en CUBA, VENEZUELA Y NICARAGUA. Es facil para el pues nacio con un pasaporte Estadounidense y no tuvo que ganarselo. Pero el no sabe lo que es tener que salir de tu país por culpa de un regimen asesino y autoritario. Solo esta desviando la atención del problema principal. El no sabe lo que es dejar tus raíces y familia porque solo hay salarios de hambre o muchas veces ni eso. No hay si quiera empleo. El no sabe lo que es de malo las revoluciones de izquierda comunistas o socialistas.  
 A cómo dijo Jose Martí
@@ -15941,7 +16344,7 @@ Cuando un pueblo emigra, sus Gobernantes sobran.
 
 ---
 
-### 20. @McFigs (649 chars)
+### 21. @McFigs (649 chars)
 
 > ​ @ayscawbuay5889 Bad Bunny canta defiendo la ilegalidad pero no habla por la libertad en CUBA, VENEZUELA Y NICARAGUA. Es facil para el pues nacio con un pasaporte Estadounidense y no tuvo que ganarselo. Pero el no sabe lo que es tener que salir de tu país por culpa de un regimen asesino y autoritario. Solo esta desviando la atención del problema principal. El no sabe lo que es dejar tus raíces y familia porque solo hay salarios de hambre o muchas veces ni eso. No hay si quiera empleo. El no sabe lo que es de malo las revoluciones de izquierda comunistas o socialistas.  
 A cómo dijo Jose Martí
@@ -15951,19 +16354,9 @@ Cuando un pueblo emigra, sus Gobernantes sobran.
 
 ---
 
-### 21. @McFigs (648 chars)
+### 22. @McFigs (648 chars)
 
 > ​ @Espiritapower Bad Bunny canta defiendo la ilegalidad pero no habla por la libertad en CUBA, VENEZUELA Y NICARAGUA. Es facil para el pues nacio con un pasaporte Estadounidense y no tuvo que ganarselo. Pero el no sabe lo que es tener que salir de tu país por culpa de un regimen asesino y autoritario. Solo esta desviando la atención del problema principal. El no sabe lo que es dejar tus raíces y familia porque solo hay salarios de hambre o muchas veces ni eso. No hay si quiera empleo. El no sabe lo que es de malo las revoluciones de izquierda comunistas o socialistas.  
-A cómo dijo Jose Martí
-Cuando un pueblo emigra, sus Gobernantes sobran.
-
-👍 1 · 7 months ago
-
----
-
-### 22. @McFigs (631 chars)
-
-> Bad Bunny canta defiendo la ilegalidad pero no habla por la libertad en CUBA, VENEZUELA Y NICARAGUA. Es facil para el pues nacio con un pasaporte Estadounidense y no tuvo que ganarselo. Pero el no sabe lo que es tener que salir de tu país por culpa de un regimen asesino y autoritario. Solo esta desviando la atención del problema principal. El no sabe lo que es dejar tus raíces y familia porque solo hay salarios de hambre o muchas veces ni eso. No hay si quiera empleo. El no sabe lo que es de malo las revoluciones de izquierda comunistas o socialistas.  
 A cómo dijo Jose Martí
 Cuando un pueblo emigra, sus Gobernantes sobran.
 
@@ -15987,7 +16380,7 @@ Cuando un pueblo emigra, sus Gobernantes sobran.
 A cómo dijo Jose Martí
 Cuando un pueblo emigra, sus Gobernantes sobran.
 
-👍 3 · 7 months ago
+👍 1 · 7 months ago
 
 ---
 
@@ -15997,7 +16390,7 @@ Cuando un pueblo emigra, sus Gobernantes sobran.
 A cómo dijo Jose Martí
 Cuando un pueblo emigra, sus Gobernantes sobran.
 
-👍 1 · 7 months ago
+👍 3 · 7 months ago
 
 ---
 
@@ -16012,7 +16405,61 @@ Cuando un pueblo emigra, sus Gobernantes sobran.
 
 ---
 
-### 2. @estherjohn4791 (1425 chars)
+### 2. @pikapikachuuuuu123 (1456 chars)
+
+> “Lose Control”
+Teddy Swims
+
+Something's got a hold of me lately
+No, I don't know myself anymore
+Feels like the walls are all closin' in
+And the devil's knockin' at my door, whoa
+
+Out of my mind, how many times
+Did I tell you I'm no good at bein' alone?
+Yeah, it's takin' a toll on me, tryin' my best to keep
+From tearin' the skin off my bones, don't you know
+
+I lose control
+When you're not next to me (when you're not here with me)
+I'm fallin' apart right in front of you, can't you see?
+I lose control
+When you're not next to me, mm-hm
+Yeah, you're breakin' my heart, baby
+You make a mess of me
+
+Problematic
+Problem is I want your body like a fiend, like a bad habit
+Bad habits hard to break when I'm with you
+Yeah, I know, I could do it on my own
+But I want that real full moon black magic and it takes two
+Problematic
+Problem is when I'm with you, I'm an addict
+And I need some relief, my skin in your teeth
+Can't see the forest through the trees
+Got me down on my knees, darlin' please, oh
+
+I lose control
+When you're not next to me (when you're not here with me)
+I'm fallin' apart right in front of you, can't you see?
+I lose control
+When you're not next to me, mm-hm
+Yeah, you're breakin' my heart, baby
+You make a mess of me, yeah
+
+I lose control
+When you're not here with me, mm
+I'm fallin' apart right in front of you, can't you see?
+I lose control
+When you're not here with me, mm-hm
+Yeah, you're breakin' my heart, baby
+You make a mess of me...
+
+👍 5 · 1 year ago
+
+---
+
+### 3. @estherjohn4791 (1425 chars)
 
 > Something's got a hold of me lately
 No, I don't know myself anymore
@@ -16063,7 +16510,7 @@ You make a mess of me
 
 ---
 
-### 3. @kerstinmockel5184 (1420 chars)
+### 4. @kerstinmockel5184 (1420 chars)
 
 > Something's got a hold of me lately
 No, I don't know myself anymore
@@ -16109,7 +16556,7 @@ You make a mess of me
 
 ---
 
-### 4. @cedricnalupa2990 (1420 chars)
+### 5. @cedricnalupa2990 (1420 chars)
 
 > Something's got a hold of me lately
 No, I don't know myself anymore
@@ -16155,7 +16602,7 @@ You make a mess of me
 
 ---
 
-### 5. @klaudyu8537 (1420 chars)
+### 6. @klaudyu8537 (1420 chars)
 
 > Something's got a hold of me lately
 No, I don't know myself anymore
@@ -16201,7 +16648,7 @@ You make a mess of me
 
 ---
 
-### 6. @niarkniarkplouf (1420 chars)
+### 7. @niarkniarkplouf (1420 chars)
 
 > Something's got a hold of me lately
 No, I don't know myself anymore
@@ -16247,7 +16694,7 @@ You make a mess of me
 
 ---
 
-### 7. @geraldogonzalez1062 (1393 chars)
+### 8. @geraldogonzalez1062 (1393 chars)
 
 > Acá les dejo la letraaaa 🎉
 
@@ -16295,7 +16742,7 @@ You make a mess of me
 
 ---
 
-### 8. @ivansavluk2613 (1365 chars)
+### 9. @ivansavluk2613 (1365 chars)
 
 > Something's got a hold of me lately
 No, I don't know myself anymore
@@ -16341,7 +16788,7 @@ You make a mess of me
 
 ---
 
-### 9. @roksolanaprokhorchuk1499 (1365 chars)
+### 10. @roksolanaprokhorchuk1499 (1365 chars)
 
 > Something's got a hold of me lately
 No, I don't know myself anymore
@@ -16387,7 +16834,7 @@ You make a mess of me
 
 ---
 
-### 10. @claaayton09 (1365 chars)
+### 11. @claaayton09 (1365 chars)
 
 > Something's got a hold of me lately
 No, I don't know myself anymore
@@ -16433,7 +16880,7 @@ You make a mess of me
 
 ---
 
-### 11. @AO-nb9bl (1351 chars)
+### 12. @AO-nb9bl (1351 chars)
 
 > Lyrics ❤
 
@@ -16481,7 +16928,7 @@ You make a mess of me
 
 ---
 
-### 12. @theofficialcelestial (1341 chars)
+### 13. @theofficialcelestial (1341 chars)
 
 > Lyrics: 
 Something's got a hold of me lately
@@ -16531,7 +16978,7 @@ You make a mess of me
 
 ---
 
-### 13. @Tatar-o2h (1330 chars)
+### 14. @Tatar-o2h (1330 chars)
 
 > Something's got a hold of me lately
 No, I don't know myself anymore
@@ -16581,7 +17028,7 @@ You make a mess of me
 
 ---
 
-### 14. @TheHeuf (1325 chars)
+### 15. @TheHeuf (1325 chars)
 
 > I totally agree with your comment about this man's voice❣️ It's breathtaking beautiful, where, whilst listening, your skin goes from smooth to goosebumps within zero to six seconds!
 I also think that, when one reads just the text, or the entire 'story', as if it were a poem, one is immediately captivated by it..❣️
@@ -16601,7 +17048,7 @@ Funfact✓
 
 ---
 
-### 15. @ALGH2101 (1171 chars)
+### 16. @ALGH2101 (1171 chars)
 
 > Sounds familiar… excellent but sounds a lot like singer 1, 2, 3, 4……1000…. The voice is sick. Make the music your own, which hard cause it can sound the same no matter what with the limitations on music theory, until you reach orchestral or just have real unique and creative insight of making something new. The talent these days is at the highest level it’s ever been. The creativity to make your music something sound like something that’s new is where legends are born. No doubt this man is amazing and with the right advertising strategy can be endless, since that what everyone is focused on these days. 
 I love it, but if I’m being honest. I think he has a lot more to give and I hope he dives deep into creating a new depth to this type of amazing voice, which is not new, but is always so pleasant to the ears, mind, body, soul. 
@@ -16612,7 +17059,7 @@ Much love
 
 ---
 
-### 16. @JullietElmore-k7q (1095 chars)
+### 17. @JullietElmore-k7q (1095 chars)
 
 > I hope you’re still fighting the good fight. That’s all we can do. Fight a good fight, get fought every so
 often, but as you get stronger and you get more tools and experience, you stop letting the fight get you down to your knees less and less. Sometimes you even win, sometimes it’s a tie. But living the life that you know you’re worth living and doing all the things that keep mentally nagging you to accomplish is so much more fucking rewarding and fulfilling than what any high from any drug could ever be. Just to be able to look at everything in front of
@@ -16622,7 +17069,7 @@ You and know that YOU did that damn thing is such an amazing feeling and the smi
 
 ---
 
-### 17. @LucreciaDelzotto (1060 chars)
+### 18. @LucreciaDelzotto (1060 chars)
 
 > Algo no me deja ni dormir
 Y no me reconozco ya no
@@ -16692,7 +17139,7 @@ Es por lo que hiciste en mi
 
 ---
 
-### 18. @apendeinglesconmusica (1040 chars)
+### 19. @apendeinglesconmusica (1040 chars)
 
 > I am learning English and I love this music! <3. Here is my Spanish translation:
 Algo se ha apoderado de mí últimamente
@@ -16729,7 +17176,7 @@ Source: LyricFluent - an app for learning English with music
 
 ---
 
-### 19. @Lovesyomommascookin (780 chars)
+### 20. @Lovesyomommascookin (780 chars)
 
 > Be original bruh…if you can’t come up with your own idea for a comment then at least reword it a little differently then the other original comment. This world is full of too many followers or people that do what they see others do so they can blend in and go unnoticed or are just too lazy to be creative. Be original, be YOU, there’s only one YOU out here so don’t be afraid to wholeheartedly be yourself….everyone has something different or special to offer the world but people just follow and do/say the same as others. Now I know copying a comment isn’t that deep for all this to be said about one comment and it doesn’t mean that you aren’t yourself and maybe you didn’t even see the original comment 😂😂😂. I just felt like I needed to say this to whoever needed to hear it.
 
@@ -16737,7 +17184,7 @@ Source: LyricFluent - an app for learning English with music
 
 ---
 
-### 20. @jamesbrown3509 (760 chars)
+### 21. @jamesbrown3509 (760 chars)
 
 > At 70 i have heard countless past and present RB sounds by black music artists didn't win but should have won Grammys in music and also in Movie Awards and black women's beauty should have received some of those Beauty Pageants Crowns. But the reality is these white controlled events, past and present are like almost everything in Racist America, in my belief and opinion only, still bias, flawed and corrupted by white racists from within, just like the Music Hall of Fame, NFL Hall of Fame, NBA Hall of Fame, Baseball Hall of Fame, Hockey Hall of Fame and etc. By the way, he will probably get his flowers, he's white sounding white country, but besides being white singing, i see nothing so special about him or his songs that stands out from the usual.😮😢
 
@@ -16745,7 +17192,7 @@ Source: LyricFluent - an app for learning English with music
 
 ---
 
-### 21. @ОляЛитвиненко-у5в (749 chars)
+### 22. @ОляЛитвиненко-у5в (749 chars)
 
 > I thought this song was about relationships (apparently I’m naive 😅), but I can say what thoughts saved me during my youth when friends tried to suggest I give it a try! I always feared losing control! I mean, my mind would be somewhere in dreams, while my body would be like an abandoned car, without a driver. And why just dream about something when you can live and actually experience everything that can appear in dreams? There’s nothing, even the most incredible things, that I couldn’t experience in reality. The main thing is not to give in to your laziness and the desire to have everything here and now without making any effort. And also, life is too short to spend part of it on a questionable pink bubble that is also harmful to health.
 
@@ -16753,7 +17200,7 @@ Source: LyricFluent - an app for learning English with music
 
 ---
 
-### 22. @carliecole2563 (732 chars)
+### 23. @carliecole2563 (732 chars)
 
 > Dear Commenter,
 I sincerely WANTED to "LIKE" this comment - but, I didn't wanna mess up the "444 Likes"?
@@ -16770,7 +17217,7 @@ anyway... Consider me your unofficial "Like #445" 😊
 
 ---
 
-### 23. @budderswag (715 chars)
+### 24. @budderswag (715 chars)
 
 > ⁠​⁠ @Thundercats65 a Grammies is far more then just a reward 😂 it’s a way to cement your name as one of the greatest performers of all time hence why it’s so prestigious and saught after it’s the equivalent of being a navy seal in the music world you ARE the best of the best and there’s only a select few who can stand up to you and it’s your own peers holding the same prestige as you 😂 a Grammy is the end game of the music industry once you hit that level your legacy has been cemented your name will be spoken long after your death ask frank Sinatra lol well his living relatives lol or an even older one bill murray lol music over 100years old but still held to the title of greatest minds in the industry lol
 
@@ -16778,21 +17225,13 @@ anyway... Consider me your unofficial "Like #445" 😊
 
 ---
 
-### 24. @IAmIsEternity (592 chars)
+### 25. @IAmIsEternity (592 chars)
 
 > This man is ridiculously talented as a songwriter and has gorgeous, killer lungs to boot. I am a fan bec of these. 
 
 The content and subject of his songs are not my cup of tea. "Lose Control" is a catchy melody that is an ode to co-dependency, and essentially, so is "The Door". The story arc portrays putting a partner on a pedestal, giving them the power they were never meant to have (bec this is NOT love). Love is absent, possession & obsession are present. Sad, dramatic, & turbulent relationships, filled with anger, pain, & revenge, these are guaranteed to make for juicy songwriting!
 
 👍 0 · 2 months ago (edited)
-
----
-
-### 25. @fosterjessie (590 chars)
-
-> @ellenpapuga7469 I am speechless... I heard this on the radio pulling up to Texaco in Dallas and walked in and it was playing inside I started singing along and came home and played this for the whole family they love it... unfortunately we have to kidnap the entire band and there equipment to get them to play for us and it's just not cost effective for all of us right now. who knows he may eventually come a little further south to Dallas, and we can see him sing here. anyone wants to place a bet with me before the FBI or ICE comes and tries to deport me for saying that LOL!🤣😂🤣😂🤣😂😅😅😅
-
-👍 1 · 5 months ago (edited)
 
 ---
 
@@ -17068,7 +17507,15 @@ You'd have to stop the world just to stop the feeling
 
 ---
 
-### 12. @morningmask8488 (1116 chars)
+### 12. @Nothereforit174 (1139 chars)
+
+> I’m kind of annoyed by people leaving the intentionally sapphic part out. She’s very much telling lesbian stories. It’s more than another situationship because the reasons driving it are societal and internal. Don’t take that out of context just to make it relatable for yourself. You can relate but you don’t get to retell it without the sapphic framework because that’s detrimental to queer art. Situationship isn’t the same as someone can’t admit to themselves they’re a lesbian and is being warned they’re about to lose real love and wake up years down the line feeling numb being nothing but some man’s wife in a cishetnormative dynamic where her identity is swallowed up and she’s drinking it away but that’s not gonna stop her from loving women or make it hit less hard when she realizes how much time has passed and that it didn’t get easier but time isn’t gonna come back. You don’t relate to that if someone just won’t commit to you and you can move on and there’s no need to try making them the same because you don’t become at risk for becoming more or have risk for staying confined. Don’t retell y stories through cishet lens
+
+👍 32 · 1 year ago
+
+---
+
+### 13. @morningmask8488 (1116 chars)
 
 > One thing I really appreciate about this song that most covers can't seem to simulate is the feeling of absurdism that this song has. This situation is obviously a painful situation, but when Chappell sings it it's with such detachment. She's joking about it (as the comic sans lyrics and animations also demonstrate). Most covers take this song at face value as a sad breakup song, but the energy that Chappell has here is a vital part of this song to me. This hyper energetic constant beat that's also light hearted in a specific way makes this song so powerful. And it doesn't even mean that the one singing this doesn't hurt. This type of over-energetic joking about it is a very typical coping mechanism. 
 And this energy even helps to make the more serious bits stand out. The final "you have to stop the world just to stop the feeling" hits harder because the rest of the song goes so fast. 
@@ -17078,7 +17525,7 @@ All in all I simply appreciate the energy of this song a lot. As someone who has
 
 ---
 
-### 13. @lyndastohr2202 (1109 chars)
+### 14. @lyndastohr2202 (1109 chars)
 
 > It's a certain part in music, in the " traditional" writing of a song. It's commonly written like follows:
 Verse
@@ -17096,7 +17543,7 @@ I should add there are more words in this bridge, I just tried to keep ot short 
 
 ---
 
-### 14. @martialspiritwarrior (1094 chars)
+### 15. @martialspiritwarrior (1094 chars)
 
 > As a big fan of MARINA (a previous top 0.01% listener on Spotify), I have to disagree.  I can see why people may think so because the type of music Chappell Roan is channeling is New Wave, a genre popular in the late 70s to early 80s. 
 
@@ -17120,7 +17567,7 @@ But no, her music does not remind me of MARINA. I think the big differences are 
 
 ---
 
-### 15. @FruitsandCoffee (975 chars)
+### 16. @FruitsandCoffee (975 chars)
 
 > Fine. Make me, a middle aged woman, sob great gobs of tears while remembering my very, very first love and heartbreak. I don't need to be professional on my lunch break anyway.
 
@@ -17144,7 +17591,7 @@ I legit do not remember what happened after that or even the rest of that year. 
 
 ---
 
-### 16. @Falcarious (968 chars)
+### 17. @Falcarious (968 chars)
 
 > Conversely, this song could be interpreted to be about about the consequences of trying to force someone else to not be who they truly are, as in, a bicurious woman who figured out it wasn't who she was, but her ex-girlfriend refused to accept that reality. For me to enjoy this song, I have to trust that Chappell somehow better understands the eponymous Babe's sexuality better than she herself does, confidently identifying her as a lesbian that returned to the closet, but that isn't the reality being shared by many in the comments. Bisexual women who have relationships with men are still bisexual and do not deserve to be condescended. I've only had successful relationships with other women when they're also bisexual, because too many lesbians think that way. And for the hottest take, every lesbian who dismisses or scorns those without a "gold star" is a misogynist through-and-through. Yes, I typed that right, not misandrist, but they're usually that too.
 
@@ -17152,7 +17599,7 @@ I legit do not remember what happened after that or even the rest of that year. 
 
 ---
 
-### 17. @joelvaleriano4098 (946 chars)
+### 18. @joelvaleriano4098 (946 chars)
 
 > El amor de mi vida me habló de esta canción. Me dijo: Verdad que vos te sentís como Chappel y yo soy el bi que está en el closet? Y pues fui corriendo a buscar la letra y... sí. Escucho esta canción a diario y me produce nostalgia y dolor. Yo lo amo tanto que no quiero que él viva infeliz en el amor. Si alguien lo llega a amar igual o más que yo, le sonreiría en el futuro y estaría feliz por él, pero si llega a tener una tapadera como novia o esposa y no la ama como me ama a mí, me dará mucha tristeza por él y me dolerá el corazón porque lo amo tanto que quiero que sea totalmente feliz con o sin mí (de preferencia conmigo, claro). Papito, siempre serás el dueño de mi palpitante corazón y estoy trabajando en mí mismo para mejorar mi autoestima, mi salud mental, mi estado físico, mi carácter y todas las áreas de mi vida para ser mejor para mí y para vos en caso que vuelvas a reclamar lo que te pertenece. Te amo con toda el alma.
 ~nino
@@ -17161,7 +17608,7 @@ I legit do not remember what happened after that or even the rest of that year. 
 
 ---
 
-### 18. @dea9457 (943 chars)
+### 19. @dea9457 (943 chars)
 
 > I still remember the girl i've spent my middle school life with in japan.  We were friends since elementary, but the countless times I've called her 'my angel' 'sweetheart' was unforgettable. I always said those words in unserious manner but it was just a cover up to not make things awkward. I really liked her, her short hair and soft demeanor was so beautiful. I 'happened' to like androgynous looking boys with similar atmosphere as hers after I had to change school and got separated from her. However, I always got uncomfortable whenever I date those men like her and their 'male' side appeared, I didn't know why. I'm Japanese, so same-sex romance is forbidden, I didn't even know it existed until 2 years ago. Now I know who I am. 
 Dear Chihiro, if you happened to be in same shoe as me and reading this, I loved you and I still do. I know that you were diligent young child and was interested in studying english. I hope you are here.
@@ -17170,7 +17617,7 @@ Dear Chihiro, if you happened to be in same shoe as me and reading this, I loved
 
 ---
 
-### 19. @Gobble_de_Goop (938 chars)
+### 20. @Gobble_de_Goop (938 chars)
 
 > More her like marketing team knows this.. 😂 Everything these artists do, even down to formatting lyrics videos, is calculated by men in suits inside record label boardrooms following "market research". Enjoy any artist you want - totally fine - but be informed and don't fall for b.s. relatability DIY "omg she's just like us!" lore dreampt up by record label execs SOLELY to sell records and merch, and drive engagement/streams. Understand that the images of modern-day, major record label artists are completely manufactured. Understand that most of "fan twitter" for these major label artists is also smoke and mirrors - consisting mainly of disingenuous accounts operated by record label employees, paid followers,  engagement pod users, and straight up fake/A.I. accounts using bot scripts to generate hype. With Chappell Roan, specifically, her "rebrand" and subsequent rapid ascent reeks of similar tactics, in my humblest opinion.
 
@@ -17178,7 +17625,7 @@ Dear Chihiro, if you happened to be in same shoe as me and reading this, I loved
 
 ---
 
-### 20. @Megan-1793 (920 chars)
+### 21. @Megan-1793 (920 chars)
 
 > I lived the life your dad did, I lived “the straight life” because that’s what my family conditioned me into thinking I had to do and who I had to be. I’m 31. I came out to them when I was 13 and was told that I couldn’t be a Protestant (I’m from a mixed religion family) and gay aswell because being one was too shameful so I couldn’t be both as they are all homophobic too.. I came out completely and wasn’t living the conditioned life anymore, when my kids were 3, 18 months and 3 months old and it was the first thing in my life I done for myself.. I met my amazing fiancée, she became “mum” to our beautiful babies (I’m mummy), all of my own family I have absolutely nothing to do with them, but I made my own family and gained the family I always dreamt of having with my amazing fiancée and her incredible parents and family.. I’m so so far beyond happy things worked out for your dad,  yourself and your family 🥰
 
@@ -17186,7 +17633,7 @@ Dear Chihiro, if you happened to be in same shoe as me and reading this, I loved
 
 ---
 
-### 21. @krlost4405 (904 chars)
+### 22. @krlost4405 (904 chars)
 
 > ​​ @end-me- ​ your comment is very stupid and lack nuance. Many gay women and men got into heterosexual relationships back then due to social pressure. They didn't have all the freedoms we have today and they had 2 options: to live like social pariahs or to try to have a "normal" life. Most of people cannot live what many uncloseted gays lived through the 60s, 70s and 80s. They tried to live the "normal" life and failed and that IS PART OF LIFE to acknowledge that mistake and move on.
 
@@ -17198,7 +17645,7 @@ You are not even sure what his wife thought or if she already pardoned him and c
 
 ---
 
-### 22. @stopnonconsensualdatascraping (894 chars)
+### 23. @stopnonconsensualdatascraping (894 chars)
 
 > ​@selohcin  the idea isn't that being a wife in general is automatically a bad thing, but the running theme of the song is that a woman suppressed strong feelings for another woman she had in the past so intensely, that she overcompensated by getting into a straight relationship specifically so she can fulfill the role of being a wife to a man. These are supposed to be describing how the wife realises she sees herself, not what she's being called. That she realised she is a wife not necessarily out of commitment to that guy, but fear of exploring the feelings she had for that other woman in the past, and trying to prove herself. 
 
@@ -17210,7 +17657,7 @@ The good luck babe line is from the perspective of the woman she had feelings fo
 
 ---
 
-### 23. @naokiokamoto3729 (873 chars)
+### 24. @naokiokamoto3729 (873 chars)
 
 >  @noeliaurquizo4620  
 Regardless of whether it's Eastern or Western, when reciting poetry there is a concept of "rhyming"! ?
@@ -17232,27 +17679,13 @@ https://www.youtube.com/watch?v=FtUUMjMYp-Q&list=PL2VQXTYm_fSxwfrXFqQv_r29GFXW_0
 
 ---
 
-### 24. @writershard5065 (867 chars)
+### 25. @writershard5065 (867 chars)
 
 > As a gay man, I've heard this story from a couple of guys before. Their boyfriends were from especially conservative families. As someone who is too, I want to help you with this. For some context, I think it's extremely tough to adapt to a new purpose in life. When you've been raised for so long with ideas of "the perfect life" being a conservative one with a wife, 2 kids and a white collar job, being gay feels like you're lost. It's very easy to want to just... run back to the familiar and do everything that your parents said you should do. That would bring the perfect life of happiness, right? 
 
 It's an incredibly difficult feeling to shake off. So please do not blame yourself if you are. You brought him genuine love. You did the best you could. You deserve a future too, and I hope you're getting that. We need more loving people like you in this world.
 
 👍 1 · 1 month ago
-
----
-
-### 25. @dea9457 (864 chars)
-
-> ​ @durian.electra 
-Yes! In japan her name is fairly common.
-I don't want to reveal so much details about her real name but her name was written as '千鶴' in kanji. Not '千尋' like a girl from Ghibli.
-I really hope she's here. I just feel like she'll be here one day because what she's experienced is similar as what I went through.
-Back then, she had crush on few fictional characters like I did, but all of those characters looked androgynous, and the types she's shown her preferences in was similar as mine.
-Feminine boy characters with longer hair and soft atmosphere, and she often told me about how it's kind of hard for her to enjoy conversation whenever guys tried to talk to her. (Even though I rarely saw her talking to boys.)
-Japanese social pressure is overwhelming, I believe that she might still feel like she needs to like men like I felt few years ago.
-
-👍 55 · 1 year ago
 
 ---
 
@@ -17867,7 +18300,18 @@ He doesn’t even artistically make bold claims or take as many risks as Drake O
 
 ---
 
-### 23. @amadiroyal3910 (586 chars)
+### 23. @mercedesvasquez9398 (608 chars)
+
+> @donnarice8476   
+MARCH 4, 2025,
+HI DONNA!  You not believing me that I'm really 59 yrs old. Caught me by surprised!   I don't understand why you would think I would lie about something like that. What would I gain out it absolutely nothing!!  I do have a beautiful Granddaughter who is 6 yrs old, but looks more like 10.  Her picture is on my Facebook page. Every time I text someone that's the  picture that usually gets sent out with .  Usually that 
+Picture is always me.  I  Just wanted to show off my Granddaughter this time.  LOL  I hope you find it in your ♥ to believe me this time around.  😊😂❤️👍🥰 😜
+
+👍 2 · 11 months ago
+
+---
+
+### 24. @amadiroyal3910 (586 chars)
 
 > From the disclaimer write up, to uniting the whole West Coast, to having the entire TDE crew present, to having his wife and kids on the video Crip walking (in the same location, together) to the owl being in the cage, the entire video was....... damn, I got no words for this. But one thing I can say is that Drake can't come back from this. This is beyond what anyone expected. Brooooo, Kendrick killed, destroyed, anhilated, etc to Drake. What a time to be alive.
 
@@ -17877,7 +18321,7 @@ And to think that Dave Free (the "alleged" father of Kendrick's son) directed th
 
 ---
 
-### 24. @TrixterDequiña-c7u (568 chars)
+### 25. @TrixterDequiña-c7u (568 chars)
 
 > This song feels like a foreshadowing of the individuals in the movie Hostel parts 1–3. The line “I see dead people” was mentioned — that was the moment when the main character called the police.
 What’s creepy is that Kendrick Lamar even included this line in his song. So does that mean Kendrick Lamar knows something about the Epstein files? 😱
@@ -17885,18 +18329,6 @@ I’m saying this because if you watch HOSTEL parts 1–3, you’ll understand w
 Could Kendrick also be involved in the Epstein files? Just asking.
 
 👍 2 · 5 days ago
-
----
-
-### 25. @KinnereyB (542 chars)
-
->  @loganandrewhite  Didn’t dodge? The man uploaded a diss and then took it down 😅
-
-That’s the 90’s equivalent of Pac putting out Hit ‘Em Up and then making sure every record store in America didn’t sell the record 😅Cole dodged the hell out of it. Cole is the 2nd best artist of the modern era. But he’s SECOND. 
-
-Cole fans sound like LeBron fans trying to tell all of us who saw all of MJ’s career and all of LeFlop’s that LeBron is the GOAT.  He’s obviously fine being second. Why can’t ya’ll be? Dot’s the modern era GOAT (2009 on up to now)
-
-👍 0 · 2 months ago
 
 ---
 
@@ -19601,16 +20033,50 @@ Gosh, I love him so much.
 
 ---
 
-### 2. @polinafurmanova6855 (2261 chars)
+### 2. @DreamMiley (3336 chars)
 
-> OKAY GUYS! Storytime.  I became friends with a guy from my economy class in 9th grade. Let´s call him J. Shortly something happened and you could almost cut the tension between us and serve like a piece of cherry pie. Butwhen I found out he has a girlfriend i stopped talking to J because I didn´t want to break the couple.
- Then after some time, during summer vacation he asked me out, I said no. Again, I wanted J even as a friend, but turned out his gf was MEGA jealous so i didn´t want him to have problems because of me. 
-After some time, already in 10 grade my friend told me her boyfriend(the best friend of J) heard that at the time J asked me out he broke up with his girfriend and wanted to ask me on a date because he liked me all this time. We started talking again because I missed him and I was sorry I ignored him. J was back with his gf again, but I was extremely friendly, like calling J "bro" all the time and stuff. We went on long walks in nature in beatiful places and we found more things we have in common. I realized I start falling for him even more. 
-Then, he asked me out to go to the swimming pool with him, with his girfriend and J's friend. The girl was very passive-agressive and tried insulting me subtly. I understood she was angry J talked to me. So although I tried showing her I'm not gonna try to steal her bf and we spent nice time fooling around and talking about Marvel, I decided I have to stop this. I liked him more and I didn't want his gf to start agruing with him. So I stopped talking to him this much, then we stopped texting each-other at all. I missed him, but I thought it was right.
-Now my friend calls me and tells me J broke up with his gf because she was cheating on him with nearly every his friend and now was dating with one of his best friends. My friend's boyfriend heard J talking about me and how he still has feelings for me, but we stopped talking and he thinks I don't like him at all.
-I texted him today and I am gonna go out with him. I will not act like I'm not interested anymore. There's nothing holding us back now and I'll make our date special. If everything is gonna be romantic and cute I'm gonna kiss him the day we meet. I don't care. I want him happy. And I will make him happy.
+> This video makes me think. He is in love. I mean the title itself says it: He wants to be her's! He starts off weak, tired, and consumed with darkness. How long does he take to get up? He can hardly do it. Then, when she meets her, he's obsessed. He follows her every move and is always looking at her; where is she? How can he get to her? 
 
-👍 2 · 1 year ago
+What makes my point so beautiful and impactful is that at 1:47, he is back on the floor again. This time, there is a difference. How long is he laying on the floor this time around? It is transitory; it is minuscule in comparison to when we first meet him. Does he struggle as much? No. His movements and actions are no longer dolorous. She was able to heal and take away his sorrows. 
+
+But, as she does, she is no longer light. She is more defined with dark lines and she is no longer floating; she is weighed down my burden. As the story progresses, she loses her innocence. In the beginning she was like wind: light and free! At the end, she is more human like and is always on the ground. The only thing she has hope for or can look up to is him. He is all that matters now. She wants to be his so desperately. That is what he wanted right?
+
+No. He wanted the version of her he created. The character he lusted after. Not the true, raw, and complex angel that she was.
+
+The ending makes me sad and unsure about humanity. All he wanted was to be her's, yet as soon as he got her and was able to touch and connect with her, she no longer had value. She is now something he has and he is no longer fighting for her. 
+
+How does he view himself?  If he does not love or value himself, he cannot love nor value anything he has or owns. She was not worth as much anymore because she was now his.
+
+The woman on the other hand who starts off light, free, and energetic, calms down. She feels safe with him; she finally trusts him. 
+
+And, as soon as she does, he loses interests. 
+
+This is great depiction of love vs. lust! 
+
+"I wanna be yours"
+
+In what ways does he want to be her's? 
+
+It is as if he is manipulating her. He is playing with her, using her, spinning her, and mending her when he was in a state of sorrow. Now he is out of his misery he has no need for her. But, she now wants to be his. 
+
+He paid attention to her. For God's sake, he chased after her...HE WANTED TO BE HER'S!! And now nothing? What happened? Why would he do that? As soon as she felt comfortable and safe with him, he left. 
+
+But, what if they both know that the relationship is not stable? What if they know that the only way to preserve their beings is by letting each other go?
+
+Notice in the final scenes how she guides his hand up and slowly pushes it away. She is setting a boundary: "I cannot be yours in that manner." 
+
+With this action, she is asking: "Are you willing to meet me where I am?"  "Do you truly want to be mine?" 
+
+She even extends her arm out, making the path to her longer but in the end, he was not willing to compromise. He leaves.
+
+He did not love her for the complex human being that she was. If he truly loved her, would he have not exhibited the deep passion and devotion he initially gave her?
+
+As he leaves, she is not chasing as she usually does. She hesitates a little, but she knows that in order for both of them to thrive and be happy, they have to let each other go. 
+
+xoxo,
+ly💞
+
+👍 153 · 1 year ago
 
 ---
 
@@ -19623,7 +20089,7 @@ Then, he asked me out to go to the swimming pool with him, with his girfriend an
 Now my friend calls me and tells me J broke up with his gf because she was cheating on him with nearly every his friend and now was dating with one of his best friends. My friend's boyfriend heard J talking about me and how he still has feelings for me, but we stopped talking and he thinks I don't like him at all.
 I texted him today and I am gonna go out with him. I will not act like I'm not interested anymore. There's nothing holding us back now and I'll make our date special. If everything is gonna be romantic and cute I'm gonna kiss him the day we meet. I don't care. I want him happy. And I will make him happy.
 
-👍 12 · 1 year ago
+👍 2 · 1 year ago
 
 ---
 
@@ -19636,11 +20102,24 @@ Then, he asked me out to go to the swimming pool with him, with his girfriend an
 Now my friend calls me and tells me J broke up with his gf because she was cheating on him with nearly every his friend and now was dating with one of his best friends. My friend's boyfriend heard J talking about me and how he still has feelings for me, but we stopped talking and he thinks I don't like him at all.
 I texted him today and I am gonna go out with him. I will not act like I'm not interested anymore. There's nothing holding us back now and I'll make our date special. If everything is gonna be romantic and cute I'm gonna kiss him the day we meet. I don't care. I want him happy. And I will make him happy.
 
+👍 12 · 1 year ago
+
+---
+
+### 5. @polinafurmanova6855 (2261 chars)
+
+> OKAY GUYS! Storytime.  I became friends with a guy from my economy class in 9th grade. Let´s call him J. Shortly something happened and you could almost cut the tension between us and serve like a piece of cherry pie. Butwhen I found out he has a girlfriend i stopped talking to J because I didn´t want to break the couple.
+ Then after some time, during summer vacation he asked me out, I said no. Again, I wanted J even as a friend, but turned out his gf was MEGA jealous so i didn´t want him to have problems because of me. 
+After some time, already in 10 grade my friend told me her boyfriend(the best friend of J) heard that at the time J asked me out he broke up with his girfriend and wanted to ask me on a date because he liked me all this time. We started talking again because I missed him and I was sorry I ignored him. J was back with his gf again, but I was extremely friendly, like calling J "bro" all the time and stuff. We went on long walks in nature in beatiful places and we found more things we have in common. I realized I start falling for him even more. 
+Then, he asked me out to go to the swimming pool with him, with his girfriend and J's friend. The girl was very passive-agressive and tried insulting me subtly. I understood she was angry J talked to me. So although I tried showing her I'm not gonna try to steal her bf and we spent nice time fooling around and talking about Marvel, I decided I have to stop this. I liked him more and I didn't want his gf to start agruing with him. So I stopped talking to him this much, then we stopped texting each-other at all. I missed him, but I thought it was right.
+Now my friend calls me and tells me J broke up with his gf because she was cheating on him with nearly every his friend and now was dating with one of his best friends. My friend's boyfriend heard J talking about me and how he still has feelings for me, but we stopped talking and he thinks I don't like him at all.
+I texted him today and I am gonna go out with him. I will not act like I'm not interested anymore. There's nothing holding us back now and I'll make our date special. If everything is gonna be romantic and cute I'm gonna kiss him the day we meet. I don't care. I want him happy. And I will make him happy.
+
 👍 1 · 1 year ago
 
 ---
 
-### 5. @polinafurmanova6855 (2257 chars)
+### 6. @polinafurmanova6855 (2257 chars)
 
 > OKAY GUYS! Storytime.  I became friends with a guy from my economy class in 9th grade. Let´s call him J. Shortly something happened and you could almost cut the tension between us and serve like a piece of cherry pie. Butwhen I found out he has a girlfriend i stopped talking to J because I didn´t want to break the couple.
  Then after some time, during summer vacation he asked me out, I said no. Again, I wanted J even as a friend, but turned out his gf was MEGA jealous so i didn´t want him to have problems because of me. 
@@ -19654,7 +20133,7 @@ I texted him today and I am gonna go out with him. I will not act like I'm not i
 
 ---
 
-### 6. @3rdjune (1657 chars)
+### 7. @3rdjune (1657 chars)
 
 > I'll never forget 2023..
 The year I got to know her.. Spent the first 10 months knowing her.. Becoming one with her.. Then June to August the best 3 months of my life... I had never been that happy in my life.. I had fallen in love in ways I never knew that existed... loved the way she would eat food..
@@ -19677,7 +20156,7 @@ DON'T EVER LET THIS SONG DIE ❤️✨
 
 ---
 
-### 7. @babayaga4459 (1458 chars)
+### 8. @babayaga4459 (1458 chars)
 
 > ​ @kaiohenrique4337  mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
 
@@ -19685,7 +20164,56 @@ DON'T EVER LET THIS SONG DIE ❤️✨
 
 ---
 
-### 8. @TylerDurden-o7x (1302 chars)
+### 9. @Randomidks11 (1356 chars)
+
+> My fav song so I will do this😭
+I wanna be your vacuum cleaner breathing in your dust
+I wanna be your ford cortina
+I will never rust 
+If you like your coffee hot
+Let me be your coffee pot
+You call the shots, babe
+I just wanna be yours
+Secrets I’ve held in my heart
+Are harder to hide than I thought 
+Maybe I just wanna be yours
+I wanna be yours, I wanna be yours
+Wanna be yours, wanna be yours, wanna be yours
+Let me be your leccy meter
+And I’ll never run out
+Let me be your portable heater
+That you’ll get cold without
+I wanna be your setting lotion (wanna be)
+Hold your hair in deep devotion (I’ll be)
+At least as deep as the Pacific Ocean 
+Now I wanna be yours secrets I’ve held in my heart
+Are harder to hide than I thought 
+Maybe I just wanna be yours 
+I wanna be yours, I wanna be yours
+Wanna be yours
+Wanna be yours 
+Wanna be yours
+Wanna be yours 
+Wanna be yours
+Wanna be yours 
+Wanna be yours
+(Wanna be yours)
+I wanna be your vacuum cleaner (wanna be yours)
+Breathing in your dust (wanna be yours) 
+I wanna be your ford catrina (wanna be yours)
+I will never rust (wanna be yours)
+I just wanna be yours (wanna be yours)
+I just wanna be yours (wanna be yours)
+I just wanna be yours (wanna be yours)
+Song writers:Alex turner/John cooper Clark 
+I wanna be yours!!❤️
+YES I SOENT SUCH A LONG TIME BUT THIS IS WORTH IT MY FAVORITE SONG MUAH MUAH BYEEEEEEE😊
+
+👍 7 · 1 year ago
+
+---
+
+### 10. @TylerDurden-o7x (1302 chars)
 
 > Lyrics:
 
@@ -19750,7 +20278,7 @@ I just wanna be yours (Wanna be yours)
 
 ---
 
-### 9. @Ansu-AIR1 (1285 chars)
+### 11. @Ansu-AIR1 (1285 chars)
 
 > Lyrics
 
@@ -19812,7 +20340,7 @@ Thank me later:yougotthis: but just leave a like
 
 ---
 
-### 10. @Discywisky (1254 chars)
+### 12. @Discywisky (1254 chars)
 
 > ​ @zineeddinelemghifri6460 I didn't tho well I wrote it along time ago but this is the copied part I typed it all tho I wanna be your vacuum cleaner breathing in your dust I wanna be your Ford Cortina I will never rust if you like your coffee hot let be your coffee pot you call the shots babe I just wanna be yours secrets I have held in my heart are harder than I thought maybe I just wanna be yours i wanna be yours I wanna be yours wanna be yours wanna be yours wanna be yourslet me be your 'Leccy meter and I'll never run out let me be your portable heater that you'll get cold without I wanna be your setting lotion hold your hair in deep devotion (I'll be) at least as deep as the pacific ocean now I wanna be yours secrets I have held in my heart I harder to hide than I thought maybe I just wanna be yours I wanna be yours I wanna be yours wanna be yours wanna be yours wanna be yours wanna be yours wanna be yours wanna be yours wanna be yours wanna be yours I wanna be your vacuum cleaner (wanna be yours) breathing in your dust (wanna be yours) I wanna be your Ford Cortina (wanna be yours) I will never rust (wanna be yours) I just wanna be yours (wanna be yours) I just wanna be yours (wanna be yours) I just wanna be yours (wanna be yours)
 
@@ -19820,7 +20348,7 @@ Thank me later:yougotthis: but just leave a like
 
 ---
 
-### 11. @EnOwt0 (1233 chars)
+### 13. @EnOwt0 (1233 chars)
 
 > Lyrics
 
@@ -19880,7 +20408,7 @@ I just wanna be yours (wanna be yours)
 
 ---
 
-### 12. @Daft_Nick (1214 chars)
+### 14. @Daft_Nick (1214 chars)
 
 > Lyrics:
 
@@ -19931,7 +20459,7 @@ I just wanna be yours (wanna be yours)
 
 ---
 
-### 13. @vloglarburada (1205 chars)
+### 15. @vloglarburada (1205 chars)
 
 > I wanna be your vacuum cleaner
 Breathing in your dust
@@ -19980,7 +20508,7 @@ I just wanna be yours (wanna be yours)
 
 ---
 
-### 14. @hedigamer6478 (1201 chars)
+### 16. @hedigamer6478 (1201 chars)
 
 > LYRICIS
 I wanna be your vacuum cleaner
@@ -20032,7 +20560,7 @@ I just wanna be yours (Wanna be yours)
 
 ---
 
-### 15. @naapragr (1179 chars)
+### 17. @naapragr (1179 chars)
 
 > Letra/Lyrics:
 
@@ -20083,7 +20611,7 @@ I just wanna be yours (wanna be yours)
 
 ---
 
-### 16. @Underrated_.M1a (1177 chars)
+### 18. @Underrated_.M1a (1177 chars)
 
 > LYRICS‼️‼️:
 
@@ -20134,7 +20662,7 @@ I just wanna be yours (wanna be yours)
 
 ---
 
-### 17. @MerryWaitoa (1176 chars)
+### 19. @MerryWaitoa (1176 chars)
 
 > Lyrics <3:
 
@@ -20185,7 +20713,7 @@ I just wanna be yours (wanna be yours)
 
 ---
 
-### 18. @unbeatabletk6755 (1173 chars)
+### 20. @unbeatabletk6755 (1173 chars)
 
 > I wanna be your vacuum cleaner
 Breathing in your dust
@@ -20243,7 +20771,7 @@ I just wanna be yours (wanna be yours)
 
 ---
 
-### 19. @Copy-ninjaaaaaaaa (1166 chars)
+### 21. @Copy-ninjaaaaaaaa (1166 chars)
 
 > I wanna be your vacuum cleaner
 Breathing in your dust
@@ -20292,7 +20820,56 @@ I just wanna be yours (wanna be yours)
 
 ---
 
-### 20. @ravindubandara1457 (1164 chars)
+### 22. @biancavenancio5145 (1164 chars)
+
+> I wanna be your vacuum cleaner
+Breathing in your dust
+I wanna be your Ford Cortina
+I will never rust
+If you like your coffee hot
+Let me be your coffee pot
+You call the shots, babe
+I just wanna be yours
+Secrets I have held in my heart
+Are harder to hide than I thought
+Maybe I just wanna be yours
+I wanna be yours, I wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+Let me be your leccy meter
+And I'll never run out
+Let me be the portable heater
+That you'll get cold without
+I wanna be your setting lotion (wanna be)
+Hold your hair in deep devotion (I'll be)
+At least as deep as the Pacific Ocean
+Now I wanna be yours
+Secrets I have held in my heart
+Are harder to hide than I thought
+Maybe I just wanna be yours
+I wanna be yours, I wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+Wanna be yours
+(Wanna be yours)
+I wanna be your vacuum cleaner (wanna be yours)
+Breathing in your dust (wanna be yours)
+I wanna be your Ford Cortina (wanna be yours)
+I will never rust (wanna be yours)
+I just wanna be yours (wanna be yours)
+I just wanna be yours (wanna be yours)
+I just wanna be yours (wanna be yours)
+
+👍 10 · 2 years ago
+
+---
+
+### 23. @ravindubandara1457 (1164 chars)
 
 > I wanna be your vacuum cleaner
 Breathing in your dust
@@ -20341,7 +20918,7 @@ I just wanna be yours (wanna be yours)
 
 ---
 
-### 21. @F.A.T.M.A476 (1161 chars)
+### 24. @F.A.T.M.A476 (1161 chars)
 
 > Breathing in your dust
 I wanna be your Ford Cortina
@@ -20391,7 +20968,7 @@ I just wanna be yours (Wanna be yours)
 
 ---
 
-### 22. @andreacabraleso (1141 chars)
+### 25. @andreacabraleso (1141 chars)
 
 > Lyrics:
 
@@ -20435,137 +21012,6 @@ I just wanna be yours (Wanna be yours)
 Follow me on insta: @andreacabraleso
 
 👍 7.1K · 7 years ago
-
----
-
-### 23. @mariohoxhaj3025 (1139 chars)
-
-> Lyrics:
-
-I wanna be your vacuum cleaner
-Breathing in your dust
-I wanna be your Ford Cortina
-I will never rust
-If you like your coffee hot
-Let me be your coffee pot
-You call the shots babe
-I just wanna be yours
-
-Secrets I have held in my heart
-Are harder to hide than I thought
-Maybe I just wanna be yours
-I wanna be yours, I wanna be yours
-Wanna be yours, wanna be yours, wanna be yours
-
-Let me be your 'leccy meter and I'll never run out
-And let me be the portable heater that you'll get cold without
-I wanna be your setting lotion (I wanna be)
-Hold your hair in deep devotion (How deep?)
-At least as deep as the Pacific Ocean
-I wanna be yours
-
-Secrets I have held in my heart
-Are harder to hide than I thought
-Maybe I just wanna be yours
-I wanna be yours, I wanna be yours
-Wanna be yours, wanna be yours, wanna be yours
-Wanna be yours, wanna be yours, wanna be yours, wanna be yours
-
-I wanna be your vacuum cleaner
-Breathing in your dust
-I wanna be your Ford Cortina
-I will never rust
-I just wanna be yours (Wanna be yours)
-I just wanna be yours (Wanna be yours)
-I just wanna be yours (Wanna be yours
-
-👍 55 · 2 years ago
-
----
-
-### 24. @rihabcherkaoui7967 (1103 chars)
-
-> Lyrics:
-
-I wanna be your vacuum cleaner
-Breathing in your dust
-I wanna be your Ford Cortina
-I will never rust
-If you like your coffee hot
-Let me be your coffee pot
-You call the shots babe
-I just wanna be yours
-
-Secrets I have held in my heart
-Are harder to hide than I thought
-Maybe I just wanna be yours
-I wanna be yours, I wanna be yours
-Wanna be yours, wanna be yours, wanna be yours
-
-Let me be your 'leccy meter and I'll never run out
-And let me be the portable heater that you'll get cold without
-I wanna be your setting lotion (I wanna be)
-Hold your hair in deep devotion (How deep?)
-At least as deep as the Pacific Ocean
-I wanna be yours
-
-Secrets I have held in my heart
-Are harder to hide than I thought
-Maybe I just wanna be yours
-I wanna be yours, I wanna be yours
-Wanna be yours, wanna be yours, wanna be yours
-Wanna be yours, wanna be yours, wanna be yours, wanna be yours
-
-I wanna be your vacuum cleaner
-Breathing in your dust
-I wanna be your Ford Cortina
-I will never rust
-I just wanna be yours (Wanna be yours)
-I just wanna be yours (Wanna be yours)
-I just wanna be yours (Wanna be yours)
-
-👍 2.3K · 3 years ago
-
----
-
-### 25. @brmxz5304 (1100 chars)
-
-> 🎶LYRICS🎶
-
-I wanna be your vacuum cleaner
-Breathing in your dust
-I wanna be your Ford Cortina
-I will never rust
-If you like your coffee hot
-Let me be your coffee pot
-You call the shots babe
-I just wanna be yours
-Secrets I have held in my heart
-Are harder to hide than I thought
-Maybe I just wanna be yours
-I wanna be yours, I wanna be yours
-Wanna be yours, wanna be yours, wanna be yours
-Let me be your 'leccy meter and I'll never run out
-And let me be the portable heater that you'll get cold without
-I wanna be your setting lotion (I wanna be)
-Hold your hair in deep devotion (How deep?)
-At least as deep as the Pacific Ocean
-I wanna be yours
-Secrets I have held in my heart
-Are harder to hide than I thought
-Maybe I just wanna be yours
-I wanna be yours, I wanna be yours
-Wanna be yours, wanna be yours, wanna be yours
-Wanna be yours, wanna be yours, wanna be yours, wanna be yours
-I wanna be your vacuum cleaner
-Breathing in your dust
-I wanna be your Ford Cortina
-I will never rust
-I just wanna be yours (Wanna be yours)
-I just wanna be yours (Wanna be yours)
-I just wanna be yours (Wanna be yours)
-
-👍 496 · 8 years ago
 
 ---
 
@@ -21235,64 +21681,7 @@ Oh, no, I don't need you but I miss you, come here
 
 ---
 
-### 11. @violetlilie (2282 chars)
-
-> See, right now, I need you, I'll meet you somewhere now
-You up now, I see you, I get you, take care now
-Slow down, be cool, I miss you, come here now
-It's yours now, keep it, I'll hold out until now
-I need you right now, once I leave you I'm strung out
-If I get you, I'm slowly breaking down
-And, oh, it's hard to see you, but I wish you were right here
-Oh, it's hard to leave you when I get you everywhere
-All this time I'm thinking we could never be a pair
-Oh, no, I don't need you, but I miss you, come here
-And, oh, it's hard to see you, but I wish you were right here
-Oh, it's hard to leave you when I get you everywhere
-All this time, I'm thinking I'm strong enough to sink it
-Oh, no, I don't need you, but I miss you, come here
-He love me not, he loves me
-He holds me tight then lets me go
-He love me not, he loves me
-He holds me tight then lets me go
-Soon as you leave me, we always lose connection
-It's gettin' messy, I fiend for your affection
-Don't loosen your grip, got a hold on me
-Now, forever, let's get back together
-Lord, take it so far away
-I pray that, God, we don't break
-I want you to take me up and down
-And 'round and 'round again
-And, oh, it's hard to see you, but I wish you were right here
-Oh, it's hard to leave you when I get you everywhere
-All this time I'm thinking we could never be a pair
-Oh, no, I don't need you, but I miss you, come here
-And, oh, it's hard to see you but I wish you were right here
-Oh, it's hard to leave you when I get you everywhere
-All this time, I'm thinking I'm strong enough to sink it
-Oh, no, I don't need you, but I miss you, come here
-He love me not, he loves me
-He holds me tight then lets me go
-He love me not, he loves me
-He holds me tight then lets me go
-He love me not, he loves me
-He holds me tight then lets me go
-He love me not, he loves me
-He holds me tight then lets me go
-You gotta say that you're sorry at the end of the night
-Wake up in the morning, everything's alright
-At the end of the story, you're holdin' me tight
-I don't need to worry, am I out of my mind?
-And, oh, it's hard to see you, but I wish you were right here (I'm losing my mind)
-Oh, it's hard to leave you when I get you everywhere
-All this time I'm thinking, I'm strong enough to sink it
-Oh, no, I don't need you, but I miss you, come here
-
-👍 0 · 1 month ago
-
----
-
-### 12. @jolie-s0ul (2282 chars)
+### 11. @jolie-s0ul (2282 chars)
 
 > See, right now, I need you, I'll meet you somewhere now
 You up now, I see you, I get you, take care now
@@ -21346,6 +21735,63 @@ All this time I'm thinking, I'm strong enough to sink it
 Oh, no, I don't need you, but I miss you, come here
 
 👍 1 · 3 weeks ago
+
+---
+
+### 12. @violetlilie (2282 chars)
+
+> See, right now, I need you, I'll meet you somewhere now
+You up now, I see you, I get you, take care now
+Slow down, be cool, I miss you, come here now
+It's yours now, keep it, I'll hold out until now
+I need you right now, once I leave you I'm strung out
+If I get you, I'm slowly breaking down
+And, oh, it's hard to see you, but I wish you were right here
+Oh, it's hard to leave you when I get you everywhere
+All this time I'm thinking we could never be a pair
+Oh, no, I don't need you, but I miss you, come here
+And, oh, it's hard to see you, but I wish you were right here
+Oh, it's hard to leave you when I get you everywhere
+All this time, I'm thinking I'm strong enough to sink it
+Oh, no, I don't need you, but I miss you, come here
+He love me not, he loves me
+He holds me tight then lets me go
+He love me not, he loves me
+He holds me tight then lets me go
+Soon as you leave me, we always lose connection
+It's gettin' messy, I fiend for your affection
+Don't loosen your grip, got a hold on me
+Now, forever, let's get back together
+Lord, take it so far away
+I pray that, God, we don't break
+I want you to take me up and down
+And 'round and 'round again
+And, oh, it's hard to see you, but I wish you were right here
+Oh, it's hard to leave you when I get you everywhere
+All this time I'm thinking we could never be a pair
+Oh, no, I don't need you, but I miss you, come here
+And, oh, it's hard to see you but I wish you were right here
+Oh, it's hard to leave you when I get you everywhere
+All this time, I'm thinking I'm strong enough to sink it
+Oh, no, I don't need you, but I miss you, come here
+He love me not, he loves me
+He holds me tight then lets me go
+He love me not, he loves me
+He holds me tight then lets me go
+He love me not, he loves me
+He holds me tight then lets me go
+He love me not, he loves me
+He holds me tight then lets me go
+You gotta say that you're sorry at the end of the night
+Wake up in the morning, everything's alright
+At the end of the story, you're holdin' me tight
+I don't need to worry, am I out of my mind?
+And, oh, it's hard to see you, but I wish you were right here (I'm losing my mind)
+Oh, it's hard to leave you when I get you everywhere
+All this time I'm thinking, I'm strong enough to sink it
+Oh, no, I don't need you, but I miss you, come here
+
+👍 0 · 1 month ago
 
 ---
 

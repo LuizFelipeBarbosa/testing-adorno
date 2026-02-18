@@ -1,0 +1,219 @@
+# Regex/phrase rules for high-precision critique detection
+# Each rule has: pattern (regex), negation patterns, confidence prior.
+# Patterns are case-insensitive by default.
+# Use (?-i) to make a specific pattern case-sensitive.
+
+settings:
+  case_insensitive: true
+  word_boundary: true  # auto-wrap patterns with \b where flagged
+
+rules:
+  STANDARDIZATION:
+    patterns:
+      - pattern: 'all\s+(these\s+)?songs?\s+sound\s+(the\s+)?same'
+        confidence: 0.90
+        boundary: false
+      - pattern: 'every\s+song\s+(on\s+the\s+)?(chart|radio|playlist|spotify)\s+(sounds?|is)\s+(the\s+)?same'
+        confidence: 0.92
+        boundary: false
+      - pattern: '(formulaic|cookie[- ]?cutter|generic|template|paint[- ]?by[- ]?numbers?)'
+        confidence: 0.80
+        boundary: true
+      - pattern: 'same\s+(beat|formula|structure|pattern|chord\s+progression)'
+        confidence: 0.85
+        boundary: false
+      - pattern: '(carbon\s+cop(y|ies)|copycat|clone[sd]?)\s+(of\s+)?(each\s+other|everything)'
+        confidence: 0.82
+        boundary: false
+      - pattern: 'sounds?\s+like\s+every\s+other\s+(song|track|hit)'
+        confidence: 0.88
+        boundary: false
+      - pattern: '(interchangeable|indistinguishable)\s+(songs?|tracks?|hits?|music)'
+        confidence: 0.85
+        boundary: true
+      - pattern: 'heard\s+(this|it)\s+(a\s+)?thousand\s+times'
+        confidence: 0.75
+        boundary: false
+      - pattern: '(recycled|rehashed|regurgitated)\s+(sound|beat|melody|hook)'
+        confidence: 0.85
+        boundary: false
+      - pattern: 'pop\s+music\s+(is\s+)?(all\s+the\s+same|dead|dying|garbage)'
+        confidence: 0.70
+        boundary: false
+      - pattern: 'no\s+(originality|creativity|innovation)'
+        confidence: 0.80
+        boundary: false
+    negation_patterns:
+      - 'not\s+(really\s+)?(formulaic|generic|the\s+same)'
+      - 'anything\s+but\s+(formulaic|generic)'
+      - 'far\s+from\s+(formulaic|generic)'
+      - 'doesn''?t\s+sound\s+(the\s+)?same'
+      - 'never\s+sounds?\s+(the\s+)?same'
+
+  PSEUDO_INDIVIDUALIZATION:
+    patterns:
+      - pattern: '(brand|branding|image|persona)\s+(over|instead\s+of|not)\s+(music|art|talent|substance)'
+        confidence: 0.85
+        boundary: false
+      - pattern: '(manufactured|fabricated|artificial)\s+(identity|persona|image|style|uniqueness)'
+        confidence: 0.88
+        boundary: false
+      - pattern: '(same\s+product|same\s+thing)\s+(different|new)\s+(packaging|wrapper|label|name)'
+        confidence: 0.90
+        boundary: false
+      - pattern: 'illusion\s+of\s+(choice|individuality|uniqueness|difference|originality)'
+        confidence: 0.92
+        boundary: false
+      - pattern: 'pretend(s|ing)?\s+to\s+be\s+(different|unique|original|authentic)'
+        confidence: 0.82
+        boundary: false
+      - pattern: '(aesthetic|vibe|look)\s+(is\s+)?(the\s+only|all\s+that)\s+(thing\s+)?(that\s+)?set'
+        confidence: 0.75
+        boundary: false
+      - pattern: '(fake|faux|pseudo)\s+(authentic|rebel|indie|underground|alternative)'
+        confidence: 0.85
+        boundary: true
+      - pattern: '(different\s+flavor|different\s+coat\s+of\s+paint)\s+(same|identical)'
+        confidence: 0.88
+        boundary: false
+      - pattern: '(style\s+over\s+substance|all\s+style\s+no\s+substance)'
+        confidence: 0.82
+        boundary: false
+    negation_patterns:
+      - 'not\s+(manufactured|artificial|fake)'
+      - 'genuinely\s+(unique|different|original)'
+      - 'actually\s+(unique|different|original|authentic)'
+
+  COMMODIFICATION_MARKET_LOGIC:
+    patterns:
+      - pattern: '(algorithm|algorithmic)\s+(bait|fodder|garbage|slop|music|trash)'
+        confidence: 0.90
+        boundary: false
+      - pattern: 'made\s+(for|to\s+game)\s+(the\s+)?(algorithm|tiktok|spotify|playlist|charts?)'
+        confidence: 0.90
+        boundary: false
+      - pattern: '(industry\s+plant|label\s+push|payola|pay\s+to\s+play|bought\s+(streams?|plays?|views?))'
+        confidence: 0.88
+        boundary: false
+      - pattern: '(sell[- ]?out|sold\s+out|cash\s+grab|money\s+grab)'
+        confidence: 0.78
+        boundary: true
+      - pattern: 'music\s+(is\s+)?(a\s+)?(product|commodity|business|content)'
+        confidence: 0.72
+        boundary: false
+      - pattern: '(stream|streaming)\s+(farm|bot|fake|inflated|numbers?\s+game)'
+        confidence: 0.88
+        boundary: false
+      - pattern: '(viral|virality)\s+(bait|formula|strategy|hack)'
+        confidence: 0.85
+        boundary: false
+      - pattern: '(chart|playlist)\s+(manipulation|gaming|politics|placement)'
+        confidence: 0.88
+        boundary: false
+      - pattern: 'optimized\s+for\s+(streams?|clicks?|engagement|tiktok|shorts?)'
+        confidence: 0.90
+        boundary: false
+      - pattern: '(corporate|commercial)\s+(music|pop|garbage|slop)'
+        confidence: 0.75
+        boundary: false
+      - pattern: 'clout\s+chas(e|ing)'
+        confidence: 0.72
+        boundary: true
+    negation_patterns:
+      - 'not\s+(a\s+)?(sell[- ]?out|cash\s+grab)'
+      - 'isn''?t\s+(a\s+)?(product|commodity)'
+      - 'not\s+about\s+(the\s+)?(money|streams?|numbers?)'
+
+  REGRESSIVE_LISTENING:
+    patterns:
+      - pattern: '(background\s+music|background\s+noise|elevator\s+music|muzak)'
+        confidence: 0.82
+        boundary: false
+      - pattern: '(nobody|no\s+one)\s+(actually\s+)?listen(s|ing)?\s+(to\s+)?((the\s+)?lyrics|closely|carefully)'
+        confidence: 0.80
+        boundary: false
+      - pattern: '(brain\s*dead|brain\s*off|turn\s+(your\s+)?brain\s+off)\s+(music|listening)?'
+        confidence: 0.82
+        boundary: false
+      - pattern: '(mindless|passive|zombie)\s+(listening|consumption|consumers?|audience)'
+        confidence: 0.85
+        boundary: false
+      - pattern: '(people|they|fans?|listeners?)\s+(just|only)\s+(consume|stream|play)\s+(it\s+)?(without|don''?t)'
+        confidence: 0.78
+        boundary: false
+      - pattern: '(short\s+attention\s+span|goldfish\s+memory)\s+(generation|era|audience|listeners?)'
+        confidence: 0.78
+        boundary: false
+      - pattern: '(don''?t|can''?t)\s+(even\s+)?(listen|hear|appreciate)\s+(the\s+)?(whole|full|entire)\s+(song|album|track)'
+        confidence: 0.80
+        boundary: false
+      - pattern: '(skip|skipping)\s+(after|within)\s+(\d+\s+)?(seconds?|the\s+intro|the\s+first)'
+        confidence: 0.75
+        boundary: false
+    negation_patterns:
+      - 'not\s+(mindless|passive|background)'
+      - 'can''?t\s+stop\s+listening'
+
+  AFFECTIVE_PREPACKAGING:
+    patterns:
+      - pattern: '(engineered|manufactured|calculated|designed)\s+(to\s+make\s+you\s+)?(emotion|feel|cry|sad|happy|emotional)'
+        confidence: 0.88
+        boundary: false
+      - pattern: '(fake|artificial|forced|manufactured|synthetic)\s+(emotion|feelings?|sentiment|sadness|happiness|tears?)'
+        confidence: 0.88
+        boundary: false
+      - pattern: '(emotional?\s+)?manipulat(ion|ive|ing|ed)\s+(music|song|track|lyrics?)?'
+        confidence: 0.80
+        boundary: false
+      - pattern: '(formulaic|prefab|pre[- ]?packaged|canned)\s+(emotion|sadness|happiness|feelings?)'
+        confidence: 0.90
+        boundary: false
+      - pattern: '(designed|built|engineered|crafted)\s+to\s+(go\s+)?(viral|trend|make\s+(you\s+)?(cry|feel))'
+        confidence: 0.82
+        boundary: false
+      - pattern: 'crocodile\s+tears?'
+        confidence: 0.72
+        boundary: true
+      - pattern: '(weaponiz|commodif)(ed|ing)\s+(nostalgia|emotion|sadness|feelings?)'
+        confidence: 0.88
+        boundary: false
+      - pattern: 'performative\s+(emotion|sadness|vulnerability|grief|pain)'
+        confidence: 0.85
+        boundary: true
+    negation_patterns:
+      - 'not\s+(fake|artificial|forced|manufactured)'
+      - 'genuinely\s+(emotional?|moving|touching)'
+      - 'real(ly)?\s+(emotional?|moving|touching|feel)'
+
+  FORMAL_RESISTANCE:
+    patterns:
+      - pattern: '(actually\s+)?challenge[sd]?\s+(the\s+)?(listener|audience|expectation|norm|formula|convention)'
+        confidence: 0.80
+        boundary: false
+      - pattern: '(breaks?\s+(the\s+)?(mold|formula|rules?|convention|pattern))'
+        confidence: 0.82
+        boundary: false
+      - pattern: '(unconventional|experimental|avant[- ]?garde|boundary[- ]?pushing|genre[- ]?bending)'
+        confidence: 0.75
+        boundary: true
+      - pattern: '(doesn''?t|does\s+not)\s+(pander|conform|follow\s+(the\s+)?(trend|formula|template))'
+        confidence: 0.82
+        boundary: false
+      - pattern: '(genuine|real|true|actual)\s+(artistry|art|creativity|innovation|originality)'
+        confidence: 0.65
+        boundary: false
+      - pattern: '(complex|intricate|layered|sophisticated)\s+(arrangement|composition|production|structure|harmony)'
+        confidence: 0.78
+        boundary: false
+      - pattern: '(refuses?\s+to|resists?)\s+(be\s+)?(easy|simple|digestible|commercial|mainstream|pop)'
+        confidence: 0.85
+        boundary: false
+      - pattern: '(bold|brave|daring|courageous)\s+(choice|move|direction|sound|production)'
+        confidence: 0.68
+        boundary: false
+      - pattern: 'this\s+is\s+(actual|real|true|genuine)\s+(music|art|artistry)'
+        confidence: 0.60
+        boundary: false
+    negation_patterns:
+      - 'not\s+(experimental|unconventional|complex)'
+      - 'trying\s+to\s+be\s+(experimental|unconventional|avant[- ]?garde)'

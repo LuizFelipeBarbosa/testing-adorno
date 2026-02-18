@@ -1,0 +1,94 @@
+# Label taxonomy for Adorno-grounded critique detection
+# Multi-label: a comment may have 0..N critique labels.
+# NONE is set automatically when all critique labels are false.
+
+labels:
+  STANDARDIZATION:
+    id: 0
+    description: >
+      Claims that songs are formulaic, repetitive, template-driven,
+      or structurally interchangeable. Invokes sameness across the
+      catalogue rather than within a single song's internal repetition.
+    short: "formulaic / same / template"
+    min_confidence: 0.50
+    target_precision: 0.80
+
+  PSEUDO_INDIVIDUALIZATION:
+    id: 1
+    description: >
+      Claims of superficial uniqueness masking underlying sameness.
+      The "brand" or "style" of an artist is recognized as a marketing
+      veneer rather than genuine artistic distinction.
+    short: "fake uniqueness / branding veneer"
+    min_confidence: 0.50
+    target_precision: 0.75
+
+  COMMODIFICATION_MARKET_LOGIC:
+    id: 2
+    description: >
+      Critique targeting chart optimization, algorithmic promotion,
+      label strategy, virality gaming, or treating music as a product
+      rather than art. References to streaming numbers, playlists,
+      payola, or TikTok virality as drivers of success.
+    short: "chart / algorithm / label / virality critique"
+    min_confidence: 0.50
+    target_precision: 0.80
+
+  REGRESSIVE_LISTENING:
+    id: 3
+    description: >
+      Critique of passive, background, low-attention, or
+      non-critical consumption patterns. Listeners described as
+      unable or unwilling to engage deeply with the music.
+    short: "passive / background / shallow listening"
+    min_confidence: 0.45
+    target_precision: 0.70
+
+  AFFECTIVE_PREPACKAGING:
+    id: 4
+    description: >
+      Claims that emotion in the music is engineered, prefabricated,
+      or manipulative. The emotional response is pre-designed by
+      producers rather than arising from genuine artistic expression.
+    short: "engineered / fake emotion"
+    min_confidence: 0.45
+    target_precision: 0.70
+
+  FORMAL_RESISTANCE:
+    id: 5
+    description: >
+      Recognition of genuine complexity, structural tension,
+      anti-formula elements, or resistance to easy consumption.
+      The commenter identifies something that breaks the mold
+      or challenges standardized expectations.
+    short: "complexity / anti-formula / genuine art"
+    min_confidence: 0.40
+    target_precision: 0.65
+    note: "Rarest label; target recall >= 0.60"
+
+  NONE:
+    id: 6
+    description: >
+      No meaningful non-standard critique present. Includes pure
+      fan reactions, lyric quoting, spam, emoji-only, and generic
+      praise or hate without analytical content.
+    short: "no critique"
+    note: "Auto-assigned when all other labels are false"
+
+# Mutual exclusivity rule
+policy:
+  multi_label: true
+  none_rule: "NONE is true IFF all critique labels are false"
+  sarcasm_handling: "reduce confidence, route to LLM/active-learning queue"
+  quoted_text: "separate commenter voice from quoted lyrics where possible"
+  trivial_reactions: "'this slaps', 'trash', 'fire' alone => NONE"
+
+num_critique_labels: 6
+all_labels:
+  - STANDARDIZATION
+  - PSEUDO_INDIVIDUALIZATION
+  - COMMODIFICATION_MARKET_LOGIC
+  - REGRESSIVE_LISTENING
+  - AFFECTIVE_PREPACKAGING
+  - FORMAL_RESISTANCE
+  - NONE
