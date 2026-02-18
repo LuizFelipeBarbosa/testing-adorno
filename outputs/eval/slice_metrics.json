@@ -1,0 +1,196 @@
+{
+  "by_language": {
+    "unknown": {
+      "count": 4665,
+      "macro_f1": 0.0
+    },
+    "tr": {
+      "count": 506,
+      "macro_f1": 0.0
+    },
+    "en": {
+      "count": 15657,
+      "macro_f1": 0.1187
+    },
+    "fi": {
+      "count": 301,
+      "macro_f1": 0.0
+    },
+    "fr": {
+      "count": 473,
+      "macro_f1": 0.0
+    },
+    "es": {
+      "count": 1877,
+      "macro_f1": 0.0
+    },
+    "ko": {
+      "count": 214,
+      "macro_f1": 0.0
+    },
+    "ar": {
+      "count": 41,
+      "macro_f1": 0.0
+    },
+    "nl": {
+      "count": 765,
+      "macro_f1": 0.0
+    },
+    "pt": {
+      "count": 678,
+      "macro_f1": 0.0
+    },
+    "ca": {
+      "count": 264,
+      "macro_f1": 0.0
+    },
+    "af": {
+      "count": 355,
+      "macro_f1": 0.0
+    },
+    "da": {
+      "count": 331,
+      "macro_f1": 0.0
+    },
+    "cy": {
+      "count": 401,
+      "macro_f1": 0.0
+    },
+    "it": {
+      "count": 377,
+      "macro_f1": 0.0
+    },
+    "de": {
+      "count": 538,
+      "macro_f1": 0.0
+    },
+    "ru": {
+      "count": 118,
+      "macro_f1": 0.0
+    },
+    "so": {
+      "count": 656,
+      "macro_f1": 0.0
+    },
+    "id": {
+      "count": 515,
+      "macro_f1": 0.0
+    },
+    "vi": {
+      "count": 210,
+      "macro_f1": 0.0
+    },
+    "hr": {
+      "count": 94,
+      "macro_f1": 0.0
+    },
+    "et": {
+      "count": 223,
+      "macro_f1": 0.0
+    },
+    "tl": {
+      "count": 536,
+      "macro_f1": 0.0
+    },
+    "lt": {
+      "count": 51,
+      "macro_f1": 0.0
+    },
+    "lv": {
+      "count": 19,
+      "macro_f1": 0.0
+    },
+    "sw": {
+      "count": 173,
+      "macro_f1": 0.0
+    },
+    "sl": {
+      "count": 132,
+      "macro_f1": 0.0
+    },
+    "sq": {
+      "count": 77,
+      "macro_f1": 0.0
+    },
+    "ro": {
+      "count": 209,
+      "macro_f1": 0.0
+    },
+    "pl": {
+      "count": 191,
+      "macro_f1": 0.0
+    },
+    "cs": {
+      "count": 44,
+      "macro_f1": 0.0
+    },
+    "sv": {
+      "count": 145,
+      "macro_f1": 0.0
+    },
+    "hu": {
+      "count": 81,
+      "macro_f1": 0.0
+    },
+    "no": {
+      "count": 267,
+      "macro_f1": 0.0
+    },
+    "bg": {
+      "count": 10,
+      "macro_f1": 0.0
+    },
+    "sk": {
+      "count": 69,
+      "macro_f1": 0.0
+    },
+    "ja": {
+      "count": 39,
+      "macro_f1": 0.0
+    },
+    "fa": {
+      "count": 12,
+      "macro_f1": 0.0
+    },
+    "th": {
+      "count": 15,
+      "macro_f1": 0.0
+    }
+  },
+  "by_text_length": {
+    "short(0-50)": {
+      "count": 23737,
+      "macro_f1": 0.0238
+    },
+    "medium(50-150)": {
+      "count": 6087,
+      "macro_f1": 0.0833
+    },
+    "long(150-500)": {
+      "count": 1385,
+      "macro_f1": 0.1667
+    },
+    "very_long(500+)": {
+      "count": 149,
+      "macro_f1": 0.1111
+    }
+  },
+  "by_popularity": {
+    "low(0-5)": {
+      "count": 26194,
+      "macro_f1": 0.1333
+    },
+    "medium(5-50)": {
+      "count": 3602,
+      "macro_f1": 0.0
+    },
+    "high(50-500)": {
+      "count": 1096,
+      "macro_f1": 0.0
+    },
+    "viral(500+)": {
+      "count": 466,
+      "macro_f1": 0.0
+    }
+  }
+}

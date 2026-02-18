@@ -1,0 +1,35 @@
+{
+  "row_count": 209049,
+  "null_counts": {
+    "comment_id": 0,
+    "text": 0,
+    "video_id": 209049,
+    "like_count": 0,
+    "published_at": 0,
+    "language": 209049
+  },
+  "duplicate_comment_ids": 0,
+  "text_length": {
+    "min": 1,
+    "max": 7282,
+    "mean": 46.03,
+    "median": 22.0,
+    "std": 106.26,
+    "p25": 8.0,
+    "p75": 51.0,
+    "p95": 151.0
+  },
+  "empty_text_count": 0,
+  "emoji_only_count": 14074,
+  "language_distribution": {},
+  "like_count_stats": {
+    "count": 209049.0,
+    "mean": 98.51626652124621,
+    "std": 2790.8464177818846,
+    "min": 0.0,
+    "25%": 0.0,
+    "50%": 0.0,
+    "75%": 2.0,
+    "max": 500000.0
+  }
+}
