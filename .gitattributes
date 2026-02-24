@@ -4,3 +4,4 @@ youtube_comments_old.json filter=lfs diff=lfs merge=lfs -text
 youtube_comments_merged.json filter=lfs diff=lfs merge=lfs -text
 outputs/predictions.jsonl filter=lfs diff=lfs merge=lfs -text
 outputs/stage2_processed.jsonl filter=lfs diff=lfs merge=lfs -text
+nlp_pipeline/outputs/*.jsonl filter=lfs diff=lfs merge=lfs -text
