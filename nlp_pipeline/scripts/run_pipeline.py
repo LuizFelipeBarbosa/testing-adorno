@@ -13,7 +13,7 @@ from src.preprocess import preprocess_dataframe
 from src.rule_miner import RuleMiner
 from src.utils.io_utils import ensure_dir, save_json
 
-DATA_PATH = Path("data/raw/comments.json")
+DATA_PATH = Path("../data/raw/comments.json")
 OUTPUT_DIR = Path("outputs")
 ensure_dir(OUTPUT_DIR)
 

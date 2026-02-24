@@ -39,7 +39,7 @@ from src.utils.seed import set_global_seed
 
 set_global_seed(42)
 
-DATA_PATH = Path("data/raw/comments.json")
+DATA_PATH = Path("../data/raw/comments.json")
 OUTPUT_DIR = Path("outputs")
 MODELS_DIR = Path("models")
 ensure_dir(OUTPUT_DIR)

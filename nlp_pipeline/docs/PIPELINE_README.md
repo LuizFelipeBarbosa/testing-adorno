@@ -4,15 +4,15 @@ Multi-label classifier that detects "non-standard critique" in YouTube comments,
 
 ## Labels
 
-| Label | Description |
-|-------|-------------|
-| STANDARDIZATION | Songs are formulaic / interchangeable / template-driven |
-| PSEUDO_INDIVIDUALIZATION | Superficial uniqueness masking sameness |
-| COMMODIFICATION_MARKET_LOGIC | Critique of charts / algorithms / labels / virality |
-| REGRESSIVE_LISTENING | Passive / background / low-attention consumption |
-| AFFECTIVE_PREPACKAGING | Emotion is engineered / prefabricated / manipulative |
-| FORMAL_RESISTANCE | Recognition of complexity / anti-formula / genuine art |
-| NONE | No meaningful critique (auto-assigned when all others false) |
+| Label                        | Description                                                  |
+| ---------------------------- | ------------------------------------------------------------ |
+| STANDARDIZATION              | Songs are formulaic / interchangeable / template-driven      |
+| PSEUDO_INDIVIDUALIZATION     | Superficial uniqueness masking sameness                      |
+| COMMODIFICATION_MARKET_LOGIC | Critique of charts / algorithms / labels / virality          |
+| REGRESSIVE_LISTENING         | Passive / background / low-attention consumption             |
+| AFFECTIVE_PREPACKAGING       | Emotion is engineered / prefabricated / manipulative         |
+| FORMAL_RESISTANCE            | Recognition of complexity / anti-formula / genuine art       |
+| NONE                         | No meaningful critique (auto-assigned when all others false) |
 
 ## Quick Start
 
@@ -28,7 +28,7 @@ cp .env.example .env
 make test
 
 # Prepare your data as CSV/JSON/JSONL with at least: comment_id, text
-# Place it at data/raw/comments.jsonl
+# Place it at ../data/raw/comments.jsonl
 
 # Run full pipeline
 make pipeline
@@ -69,7 +69,7 @@ make active-learn    # Stage 8: select samples for annotation
 ## Running Inference on New Data
 
 ```bash
-python -m src.infer data/raw/new_comments.jsonl \
+python -m src.infer ../data/raw/new_comments.jsonl \
     -o outputs/predictions.jsonl \
     --baseline-model models/baseline_logreg
 ```
@@ -121,7 +121,7 @@ notebooks/                # Jupyter analysis notebooks
   03_model_eval.ipynb     # Model evaluation + PR curves
 tests/                    # Unit and schema tests
 models/                   # Saved model artifacts (gitignored)
-data/                     # Input/processed data (gitignored)
+../data/                    # Input/processed data (gitignored)
 outputs/                  # Predictions and reports (gitignored)
 ```
 
@@ -135,12 +135,12 @@ Missing fields are inferred safely (e.g., `comment_id` generated from text hash)
 
 ## Performance Targets
 
-| Label | Target Precision | Target Recall |
-|-------|-----------------|---------------|
-| STANDARDIZATION | >= 0.80 | >= 0.60 |
-| COMMODIFICATION_MARKET_LOGIC | >= 0.80 | >= 0.60 |
-| FORMAL_RESISTANCE | >= 0.65 | >= 0.60 |
-| Others | >= 0.70 | >= 0.50 |
+| Label                        | Target Precision | Target Recall |
+| ---------------------------- | ---------------- | ------------- |
+| STANDARDIZATION              | >= 0.80          | >= 0.60       |
+| COMMODIFICATION_MARKET_LOGIC | >= 0.80          | >= 0.60       |
+| FORMAL_RESISTANCE            | >= 0.65          | >= 0.60       |
+| Others                       | >= 0.70          | >= 0.50       |
 
 ## Testing
 

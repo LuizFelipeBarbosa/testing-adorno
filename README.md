@@ -14,24 +14,25 @@ Lady Gaga & Bruno Mars · Billie Eilish · ROSÉ · Bad Bunny · Kendrick Lamar 
 
 ```
 testing-adorno/
-├── configs/                    # Pipeline configuration
+├── scraping_and_analysis/      # Scraping & Notebook Analysis
+│   ├── notebooks/              # Interactive experimentation & scraping
+│   ├── reports/                # Markdown analysis reports
+│   └── requirements.txt        # Dependencies for scraping
+├── nlp_pipeline/               # 8-stage NLP Critique Pipeline
+│   ├── src/                    # Core pipeline modules
+│   ├── configs/                # Pipeline configuration
+│   ├── docs/                   # Pipeline documentation
+│   ├── models/                 # Saved baseline and transformer models
+│   ├── outputs/                # Exported predictions and analytics
+│   ├── tests/                  # Unit tests for the pipeline
+│   ├── scripts/                # Execution scripts
+│   ├── Makefile                # Make commands for the NLP pipeline
+│   └── pipeline_requirements.txt # Dependencies for the pipeline
 ├── data/                       # Raw and processed datasets
-├── docs/                       # NLP pipeline documentation
-├── models/                     # Saved baseline and transformer models
-├── notebooks/                  # Interactive experimentation
-├── outputs/                    # Exported predictions and analytics 
-├── src/                        # Core 8-stage NLP critique pipeline
-├── tests/                      # Unit tests for the pipeline
-├── testing-adorno.ipynb        # Jupyter notebook for scraping and primary analysis
 ├── find_youtube_urls.csv       # Input CSV with song metadata & YouTube URLs
 ├── youtube_comments_merged.json# Scraped merged comments dataset (~130 MB, LFS)
 ├── youtube_comments.json       # Additional scraped dataset (~126 MB, LFS)
 ├── youtube_comments_old.json   # Historical comment snapshot (~107 MB, LFS)
-├── top_comments_by_song.md     # Top comments organized by song
-├── top_replies_by_song.md      # Most-replied comments organized by song
-├── Makefile                    # Make commands for the NLP pipeline
-├── pipeline_requirements.txt   # Dependencies specifically for the NLP pipeline
-├── requirements.txt            # Python dependencies for the core notebook
 └── .gitattributes              # Git LFS tracking config
 ```
 
@@ -60,29 +61,36 @@ testing-adorno/
    There are two levels of dependencies based on what you want to run. 
    ```bash
    # Core scraping & basic analysis
+   cd scraping_and_analysis
    pip install -r requirements.txt
+   cd ..
    
    # NLP critique pipeline 
+   cd nlp_pipeline
    pip install -r pipeline_requirements.txt
+   cd ..
    ```
 
 ### Usage
 
 **1. Scrape comments & basic analysis:**
-Open and run `testing-adorno.ipynb`. This notebook uses `youtube-comment-downloader` to fetch up to 310,000 comments across the 31 videos listed in `find_youtube_urls.csv`. It also generates histograms of comment length and exports top comments.
+Navigate to `scraping_and_analysis` and open `notebooks/testing-adorno.ipynb`. This notebook uses `youtube-comment-downloader` to fetch up to 310,000 comments across the 31 videos listed in `find_youtube_urls.csv`. It also generates histograms of comment length and exports top comments.
 ```bash
+cd scraping_and_analysis/notebooks
 jupyter notebook testing-adorno.ipynb
 ```
 
 **2. Run the NLP Critique Detection Pipeline:**
-An 8-stage NLP pipeline evaluates comments across several Adorno-grounded classes (e.g. STANDARDIZATION, PSEUDO_INDIVIDUALIZATION, COMMODIFICATION_MARKET_LOGIC). You can run this end-to-end with:
+An 8-stage NLP pipeline evaluates comments across several Adorno-grounded classes (e.g. STANDARDIZATION, PSEUDO_INDIVIDUALIZATION, COMMODIFICATION_MARKET_LOGIC). Navigate to `nlp_pipeline` before running. You can run this end-to-end with:
 ```bash
+cd nlp_pipeline
 make test       # Run the test suite
 make pipeline   # Run stages 0-5 end-to-end
 ```
 You can also run inference on new data:
 ```bash
-python -m src.infer data/raw/comments.jsonl
+cd nlp_pipeline
+python -m src.infer ../data/raw/comments.jsonl
 ```
 
 ## Data

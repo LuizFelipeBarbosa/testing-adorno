@@ -19,7 +19,7 @@ from src.preprocess import preprocess_dataframe
 from src.rule_miner import RuleMiner
 
 # ── Configuration ────────────────────────────────────────────────────────
-DATA_PATH   = 'youtube_comments_merged.json'
+DATA_PATH   = '../youtube_comments_merged.json'
 OUTPUT_PATH = 'outputs/critique_matched_comments.md'
 
 CRITIQUE_LABELS = [

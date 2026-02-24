@@ -531,7 +531,7 @@ def ingest(path: str | Path, *, format: str = "auto") -> pd.DataFrame:
 
     Examples
     --------
-    >>> df = ingest("data/raw/comments.json")
+    >>> df = ingest("../data/raw/comments.json")
     >>> df.attrs["profile"]["row_count"]
     1523
     """

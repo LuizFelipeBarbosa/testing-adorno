@@ -76,5 +76,5 @@ def ensure_dir(path: str | Path) -> Path:
 
 
 def project_root() -> Path:
-    """Return the project root directory (parent of src/)."""
-    return Path(__file__).resolve().parent.parent.parent
+    """Return the project root directory (parent of nlp_pipeline/)."""
+    return Path(__file__).resolve().parent.parent.parent.parent
