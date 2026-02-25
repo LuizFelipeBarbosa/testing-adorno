@@ -38,6 +38,11 @@ _OPTIONAL_FIELDS: list[str] = [
     "like_count",
     "published_at",
     "language",
+    "song_title",
+    "artists",
+    "author",
+    "time",
+    "replies",
 ]
 _ALL_FIELDS: list[str] = _REQUIRED_FIELDS + _OPTIONAL_FIELDS
 
@@ -94,6 +99,26 @@ class CommentRecord(BaseModel):
     language: Optional[str] = Field(
         default=None,
         description="BCP-47 language tag (e.g. 'en', 'de').",
+    )
+    song_title: Optional[str] = Field(
+        default=None,
+        description="Song title.",
+    )
+    artists: Optional[str] = Field(
+        default=None,
+        description="Artists.",
+    )
+    author: Optional[str] = Field(
+        default=None,
+        description="Comment author.",
+    )
+    time: Optional[str] = Field(
+        default=None,
+        description="Time string from youtube.",
+    )
+    replies: Optional[Any] = Field(
+        default=None,
+        description="Replies string/number.",
     )
 
     # -- validators --------------------------------------------------------

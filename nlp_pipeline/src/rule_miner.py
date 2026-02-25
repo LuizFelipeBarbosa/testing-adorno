@@ -1,6 +1,6 @@
 """Stage 2: Rule-based high-precision critique detection.
 
-Loads regex patterns from a YAML config file (configs/regex_rules.yaml) and
+Loads regex patterns from a YAML config file (nlp_pipeline/configs/regex_rules.yaml) and
 applies them to detect Adornian critique labels in YouTube comments.  Each
 label is associated with a set of positive patterns and optional negation
 patterns.  When a positive pattern matches but a negation pattern also matches
@@ -86,12 +86,12 @@ class RuleMiner:
     ----------
     config_path : str | Path | None
         Path to the YAML config file.  Defaults to
-        ``<project_root>/configs/regex_rules.yaml``.
+        ``<project_root>/nlp_pipeline/configs/regex_rules.yaml``.
     """
 
     def __init__(self, config_path: str | Path | None = None) -> None:
         if config_path is None:
-            config_path = project_root() / "configs" / "regex_rules.yaml"
+            config_path = project_root() / "nlp_pipeline" / "configs" / "regex_rules.yaml"
         self._config_path = Path(config_path)
 
         logger.info("Loading rule config from %s", self._config_path)
