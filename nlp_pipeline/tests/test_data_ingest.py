@@ -7,7 +7,7 @@ from pathlib import Path
 import pandas as pd
 import pytest
 
-from src.data_ingest import ingest, validate_schema, profile_data, detect_format
+from nlp_pipeline.data_ingest import ingest, validate_schema, profile_data, detect_format
 
 
 @pytest.fixture

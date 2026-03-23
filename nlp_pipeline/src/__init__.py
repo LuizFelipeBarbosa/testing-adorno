@@ -1,1 +1,0 @@
-"""Adorno critique detection pipeline."""

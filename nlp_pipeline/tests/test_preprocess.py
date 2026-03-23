@@ -3,7 +3,7 @@
 import pandas as pd
 import pytest
 
-from src.preprocess import (
+from nlp_pipeline.preprocess import (
     normalize_text,
     remove_urls,
     remove_mentions,

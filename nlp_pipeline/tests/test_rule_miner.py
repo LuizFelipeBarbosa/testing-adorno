@@ -2,7 +2,7 @@
 
 import pytest
 
-from src.rule_miner import RuleMiner, RuleMatch
+from nlp_pipeline.rule_miner import RuleMiner, RuleMatch
 
 
 @pytest.fixture
