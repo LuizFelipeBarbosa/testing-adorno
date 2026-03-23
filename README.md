@@ -1,39 +1,46 @@
-# 🎵 Testing Adorno
+# Testing Adorno
 
 A YouTube comment analysis project that scrapes and analyzes comments from the **Top Tracks of 2025 Global** Spotify playlist. Named after [Theodor W. Adorno](https://en.wikipedia.org/wiki/Theodor_W._Adorno), the influential philosopher and music critic, it applies his Culture Industry critique to modern audience reactions.
 
 ## Overview
 
-This project collects YouTube comments from 31 of the most popular songs globally in 2025, enabling sentiment analysis and cultural insight extraction. The pipeline scrapes up to **310,000 comments** distributed evenly across all tracks, and includes an 8-stage Natural Language Processing (NLP) pipeline to classify comments into Adorno-grounded critique categories.
+This project collects YouTube comments from the 15 most popular songs globally in 2025, exploring whether Adorno's theory of passive consumption holds up in modern comment sections. The analysis progresses through three approaches:
+
+1. **Comment length analysis** — Do longer comments contain critique? (Result: mostly catharsis and copypasta)
+2. **Engagement analysis** — Do highly-liked/replied comments contain critique? (Result: community building, not critique)
+3. **Regex-based NLP classification** — Filter comments for language that maps to Adorno's critique categories
+
+The regex classifier detects six critique labels: STANDARDIZATION, PSEUDO_INDIVIDUALIZATION, COMMODIFICATION_MARKET_LOGIC, REGRESSIVE_LISTENING, AFFECTIVE_PREPACKAGING, and FORMAL_RESISTANCE.
 
 ### Featured Artists
 
-Lady Gaga & Bruno Mars · Billie Eilish · ROSÉ · Bad Bunny · Kendrick Lamar & SZA · Sabrina Carpenter · The Weeknd · Chappell Roan · Arctic Monkeys · Coldplay · and more.
+Alex Warren · Bad Bunny · HUNTR/X · Taylor Swift · W Sound · Jin · sombr · Olivia Dean · JENNIE · Tate McRae
 
 ## Project Structure
 
 ```
 testing-adorno/
-├── scraping_and_analysis/      # Scraping & Notebook Analysis
-│   ├── notebooks/              # Interactive experimentation & scraping
-│   ├── reports/                # Markdown analysis reports
-│   └── requirements.txt        # Dependencies for scraping
-├── nlp_pipeline/               # 8-stage NLP Critique Pipeline
-│   ├── src/                    # Core pipeline modules
-│   ├── configs/                # Pipeline configuration
-│   ├── docs/                   # Pipeline documentation
-│   ├── models/                 # Saved baseline and transformer models
-│   ├── outputs/                # Exported predictions and analytics
-│   ├── tests/                  # Unit tests for the pipeline
-│   ├── scripts/                # Execution scripts
-│   ├── Makefile                # Make commands for the NLP pipeline
-│   └── pipeline_requirements.txt # Dependencies for the pipeline
-├── data/                       # Raw and processed datasets
-├── find_youtube_urls.csv       # Input CSV with song metadata & YouTube URLs
-├── youtube_comments_merged.json# Scraped merged comments dataset (~130 MB, LFS)
-├── youtube_comments.json       # Additional scraped dataset (~126 MB, LFS)
-├── youtube_comments_old.json   # Historical comment snapshot (~107 MB, LFS)
-└── .gitattributes              # Git LFS tracking config
+├── testing-adorno.ipynb          # Main analysis notebook
+├── adorno_paper_notebook.ipynb   # Paper companion notebook
+├── data/
+│   ├── comments_merged.json      # ~85K comments (LFS-tracked)
+│   └── youtube_urls.csv          # Input: Song Title, Artists, YouTube URL
+├── reports/
+│   ├── top_comments_by_song.md   # Top 25 longest comments per song
+│   ├── top_replies_by_song.md    # Top 25 most-replied comments per song
+│   └── matched_comments_detailed.md  # All regex-matched critique comments
+├── nlp_pipeline/
+│   ├── data_ingest.py            # Data loading & validation
+│   ├── preprocess.py             # Text cleaning & feature extraction
+│   ├── rule_miner.py             # Regex-based critique classifier
+│   ├── utils.py                  # Logging & I/O helpers
+│   ├── regex_rules.yaml          # Critique detection patterns
+│   ├── labels.yaml               # Label taxonomy
+│   ├── tests/                    # Unit tests (111 tests)
+│   ├── pipeline_requirements.txt
+│   └── Makefile
+├── requirements.txt
+└── README.md
 ```
 
 ## Getting Started
@@ -41,61 +48,40 @@ testing-adorno/
 ### Prerequisites
 
 - Python 3.8+
-- [Git LFS](https://git-lfs.com/) (required for the large JSON datasets)
+- [Git LFS](https://git-lfs.com/) (required for the JSON dataset)
 
 ### Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/LuizFelipeBarbosa/testing-adorno.git
-   cd testing-adorno
-   ```
+```bash
+git clone https://github.com/LuizFelipeBarbosa/testing-adorno.git
+cd testing-adorno
 
-2. **Pull large files:**
-   ```bash
-   git lfs install
-   git lfs pull
-   ```
+git lfs install
+git lfs pull
 
-3. **Install dependencies:**
-   There are two levels of dependencies based on what you want to run. 
-   ```bash
-   # Core scraping & basic analysis
-   cd scraping_and_analysis
-   pip install -r requirements.txt
-   cd ..
-   
-   # NLP critique pipeline 
-   cd nlp_pipeline
-   pip install -r pipeline_requirements.txt
-   cd ..
-   ```
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
 
 ### Usage
 
-**1. Scrape comments & basic analysis:**
-Navigate to `scraping_and_analysis` and open `notebooks/testing-adorno.ipynb`. This notebook uses `youtube-comment-downloader` to fetch up to 310,000 comments across the 31 videos listed in `find_youtube_urls.csv`. It also generates histograms of comment length and exports top comments.
+Open the main notebook — it contains the full analysis from scraping through NLP classification:
+
 ```bash
-cd scraping_and_analysis/notebooks
 jupyter notebook testing-adorno.ipynb
 ```
 
-**2. Run the NLP Critique Detection Pipeline:**
-An 8-stage NLP pipeline evaluates comments across several Adorno-grounded classes (e.g. STANDARDIZATION, PSEUDO_INDIVIDUALIZATION, COMMODIFICATION_MARKET_LOGIC). Navigate to `nlp_pipeline` before running. You can run this end-to-end with:
+To run the pipeline tests:
+
 ```bash
 cd nlp_pipeline
-make test       # Run the test suite
-make pipeline   # Run stages 0-5 end-to-end
-```
-You can also run inference on new data:
-```bash
-cd nlp_pipeline
-python -m src.infer ../data/raw/comments.jsonl
+make test
 ```
 
 ## Data
 
-The scraped comment datasets are stored as JSON Lines or JSON arrays with the following fields per comment:
+The comment dataset (`data/comments_merged.json`) contains ~85,000 comments with the following fields:
 
 | Field         | Description           |
 | ------------- | --------------------- |
@@ -104,19 +90,21 @@ The scraped comment datasets are stored as JSON Lines or JSON arrays with the fo
 | `artists`     | Artist name(s)        |
 | `youtube_url` | Source video URL      |
 | `author`      | Comment author        |
-| `votes`       | Number of likes/votes |
+| `votes`       | Number of likes       |
 | `replies`     | Number of replies     |
-| `time`        | Timestamp             |
+| `time`        | Relative timestamp    |
 
-> **Note:** Important JSON datasets like `youtube_comments_merged.json` are tracked with **Git LFS** due to their large size.
+> **Note:** The JSON dataset is tracked with **Git LFS** due to its size.
 
 ## Tech Stack
 
 - **Python** — Core scripting language
-- **pandas**, **scikit-learn**, **transformers** — NLP pipeline and data manipulation
-- **youtube-comment-downloader** — Scraping logic
+- **pandas** — Data manipulation
+- **youtube-comment-downloader** — Comment scraping
 - **Jupyter Notebook** — Interactive analysis
 - **matplotlib** — Data visualization
+- **pydantic** — Schema validation
+- **regex** + **YAML** — Rule-based NLP classification
 - **Git LFS** — Large file management
 
 ## License
