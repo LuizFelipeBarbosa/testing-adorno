@@ -18,5 +18,3 @@ venv/
 
 # Pytest
 .pytest_cache/
-
-CLAUDE.md
