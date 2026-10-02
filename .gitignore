@@ -18,3 +18,7 @@ venv/
 
 # Pytest
 .pytest_cache/
+
+# Rebuilt analysis artifacts
+reports/generated/
+.ruff_cache/

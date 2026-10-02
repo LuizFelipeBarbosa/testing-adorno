@@ -1,6 +1,6 @@
-"""Stage 2: Rule-based high-precision critique detection.
+"""Stage 2: Exploratory rule-based critique detection.
 
-Loads regex patterns from a YAML config file (nlp_pipeline/configs/regex_rules.yaml) and
+Loads regex patterns from a YAML config file (nlp_pipeline/regex_rules.yaml) and
 applies them to detect Adornian critique labels in YouTube comments.  Each
 label is associated with a set of positive patterns and optional negation
 patterns.  When a positive pattern matches but a negation pattern also matches
@@ -8,7 +8,7 @@ in the same text, the positive hit is suppressed.
 
 Typical usage
 -------------
->>> from src.rule_miner import RuleMiner
+>>> from nlp_pipeline.rule_miner import RuleMiner
 >>> miner = RuleMiner()
 >>> result = miner.match_text("all these songs sound the same")
 >>> result["STANDARDIZATION"].matched
@@ -45,8 +45,8 @@ class RuleMatch:
         ``True`` if at least one positive pattern matched *and* the match
         was **not** suppressed by a negation pattern.
     confidence : float
-        The maximum confidence prior among all matching positive patterns.
-        ``0.0`` when nothing matched.
+        The maximum configured pattern weight, not a calibrated probability.
+        ``0.0`` when nothing matched or a negation suppresses the label.
     spans : list[tuple[int, int, str]]
         List of ``(start, end, matched_text)`` for every positive-pattern
         match found in the text.
@@ -85,7 +85,8 @@ class RuleMiner:
     ----------
     config_path : str | Path | None
         Path to the YAML config file.  Defaults to
-        ``<project_root>/nlp_pipeline/configs/regex_rules.yaml``.
+        ``<project_root>/nlp_pipeline/regex_rules.yaml``. The minimum weights
+        and precision targets in labels.yaml are not applied by this matcher.
     """
 
     def __init__(self, config_path: str | Path | None = None) -> None:
@@ -287,9 +288,9 @@ class RuleMiner:
         labels = sorted(self._rules)
 
         # Pre-allocate result lists for efficiency.
-        col_matched: dict[str, list[bool]] = {l: [] for l in labels}
-        col_conf: dict[str, list[float]] = {l: [] for l in labels}
-        col_spans: dict[str, list[list[tuple[int, int, str]]]] = {l: [] for l in labels}
+        col_matched: dict[str, list[bool]] = {label: [] for label in labels}
+        col_conf: dict[str, list[float]] = {label: [] for label in labels}
+        col_spans: dict[str, list[list[tuple[int, int, str]]]] = {label: [] for label in labels}
 
         n = len(df)
         for idx, text in enumerate(df[text_col]):

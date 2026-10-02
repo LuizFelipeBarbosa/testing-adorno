@@ -1,6 +1,8 @@
 # Label taxonomy for Adorno-grounded critique detection
 # Multi-label: a comment may have 0..N critique labels.
 # NONE is set automatically when all critique labels are false.
+# Minimum weights, accuracy targets and policy entries are design intentions,
+# not enforced thresholds or measured performance of RuleMiner.
 
 labels:
   STANDARDIZATION:
@@ -64,15 +66,14 @@ labels:
     short: "complexity / anti-formula / genuine art"
     min_confidence: 0.40
     target_precision: 0.65
-    note: "Rarest label; target recall >= 0.60"
+    note: "Inverse-polarity label; target recall >= 0.60 is not evaluated"
 
   NONE:
     id: 6
     description: >
-      No meaningful non-standard critique present. Includes pure
-      fan reactions, lyric quoting, spam, emoji-only, and generic
-      praise or hate without analytical content.
-    short: "no critique"
+      No configured rule matched. This does not establish the absence
+      of critique: wording, language and context may fall outside the rules.
+    short: "no rule match"
     note: "Auto-assigned when all other labels are false"
 
 # Mutual exclusivity rule

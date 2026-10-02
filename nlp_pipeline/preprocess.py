@@ -213,7 +213,7 @@ def detect_language_safe(text: str) -> str:
         return "unknown"
 
     try:
-        from langdetect import detect, LangDetectException
+        from langdetect import detect
 
         # langdetect needs at least some alphabetic content to work.
         alpha_content = "".join(ch for ch in text if ch.isalpha())
@@ -293,7 +293,7 @@ def preprocess_dataframe(
     pd.DataFrame
         A **copy** of the input DataFrame with the following columns added:
 
-        - ``raw_text`` -- verbatim original text.
+        - ``raw_text`` -- input text (already normalized if ingested).
         - ``clean_text`` -- preprocessed text.
         - ``language`` -- detected language code.
         - ``is_trivial`` -- boolean flag for empty / emoji-only comments.
